@@ -1,0 +1,49 @@
+name: Recycle Posts and Deploy
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  recycle-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20.14.0'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Debug - List directory structure
+      run: |
+        echo "Current directory:"
+        pwd
+        echo "Directory contents:"
+        ls -R content
+
+    - name: Run recycle and build
+      run: npm run build:recycle
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-recycle posts and rebuild"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

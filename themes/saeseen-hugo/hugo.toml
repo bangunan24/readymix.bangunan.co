@@ -1,0 +1,197 @@
+baseURL = "https://readymix.bangunan.co/"
+languageCode = "id"
+title = "Readymix Beton | Jasa Pengecoran Readymix Beton Truk Molen"
+meta_description = "Jual Readymix Beton - Layanan pengecoran dengan truk molen, kualitas beton terbaik untuk cor bangunan dengan harga terjangkau dan pengiriman cepat."
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/bangunanco-logo-web.png"
+  logo_amp = "/images/logo/bangunanco-512x512.png"
+  footer_logo = "/images/logo/bangunanco-logo-putih.png"
+  favicon = "/images/logo/bangunanco-512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Yaman"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+  # Schema settings
+  keywords = ["jual material", "sirtu", "berangkal", "sirdam", "makadam", "batu kapur", "basecose", "tanah", "material urugan"]
+  base_price = 1900000
+  price_range = 200000
+  free_shipping = true
+  materials = [
+    "Pasir urug sirtu berangkal makadam tanah",
+    "Pasir urug sirtu berangkal sirdam tanah",
+    "Pasir urug sirtu berangkal limestone tanah",
+    "Pasir urug sirtu berangkal basecose tanah",
+    "Pasir urug sirtu brangkal batu kapur tanah"
+  ]
+  categories = ["Material Bangunan", "Bahan Urugan", "Urugan"]
+  payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar Ditempat", "Transfer Setelah Terkirim"]
+  area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Subang", "Cikampek", "Purwakarta", "Rangkas Bitung", "Serang"]
+  return_policies = [
+    "Barang bisa ditukar dalam 1 hari jika tidak sesuai.",
+    "Barang dapat ditolak jika material tidak sesuai.",
+    "Pengembalian gratis untuk barang yang tidak sesuai."
+  ]
+
+ # Hero Section
+  hero_image = "/images/admin/bg_bangunanco.png"
+  hero_title = "Layanan Readymix Beton Berkualitas"
+  hero_description = "Kami menyediakan jasa pengecoran readymix beton dengan truk molen untuk berbagai kebutuhan konstruksi. Solusi ideal untuk proyek pembangunan dengan beton berkualitas tinggi dan proses pengecoran yang efisien."
+  hero_cta_text = "Pelajari Lebih Lanjut"
+  services_cta_text = "Cek Katalog Readymix"
+
+  # Footer Section
+  footer_about_title = "Mengapa Memilih Kami"
+  footer_about_description = "Kami menawarkan readymix beton berkualitas tinggi dengan berbagai pilihan mutu untuk memenuhi kebutuhan konstruksi Anda. Layanan pengiriman cepat dan konsultasi gratis untuk memastikan beton sesuai dengan spesifikasi proyek Anda."
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 Bangunan.co. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "readymix.bangunan.co menyediakan layanan pengecoran readymix beton dengan truk molen, melayani berbagai proyek konstruksi dari skala kecil hingga besar. Kami menjamin beton yang kami tawarkan berkualitas tinggi, dengan harga bersaing dan pengiriman tepat waktu. Pilih kami untuk memastikan proyek pengecoran Anda berjalan lancar dengan hasil terbaik."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jalan Lkr. Dramaga No. 09, Bogor - JaBar"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "bangunanco@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "Budi"
+  message = "Saya menggunakan layanan readymix beton dari readymix.bangunan.co untuk proyek rumah saya, dan hasilnya sangat memuaskan. Beton yang disediakan berkualitas tinggi dan proses pengecorannya sangat rapi."
+  response = "Terima kasih atas kepercayaan Anda, Budi! Kami senang dapat menyediakan readymix beton berkualitas untuk proyek Anda."
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "Siti"
+  message = "readymix.bangunan.co sangat membantu dalam memenuhi kebutuhan beton untuk proyek saya. Produk yang saya pesan berkualitas dan sesuai dengan spesifikasi yang dibutuhkan."
+  response = "Kami sangat menghargai ulasan Anda, Siti. Senang mendengar bahwa Anda puas dengan layanan readymix dari kami."
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "Joko"
+  message = "Layanan readymix beton dari readymix.bangunan.co sangat cepat dan efisien. Beton yang disediakan sesuai dengan kualitas yang saya harapkan untuk proyek perumahan saya."
+  response = "Terima kasih, Joko! Kami berkomitmen untuk menyediakan layanan readymix beton berkualitas dengan pengiriman yang tepat waktu."
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "Andi"
+  message = "Saya sangat puas dengan layanan readymix beton dari readymix.bangunan.co. Beton yang kami gunakan sangat kuat dan sesuai dengan kebutuhan proyek kami."
+  response = "Senang mendengar Anda puas dengan beton readymix kami, Andi. Terima kasih atas kepercayaannya!"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "Rina"
+  message = "Pelayanan readymix.bangunan.co sangat memuaskan. Produk beton yang saya pesan berkualitas tinggi dan sesuai dengan harapan saya."
+  response = "Terima kasih, Rina! Kami senang dapat membantu mewujudkan proyek pengecoran Anda dengan beton terbaik."
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "Eko"
+  message = "Beton readymix dari readymix.bangunan.co sangat sesuai dengan spesifikasi proyek jalan raya yang saya kerjakan. Pengirimannya juga cepat dan aman."
+  response = "Kami senang mendengar bahwa Anda puas dengan produk dan layanan kami, Eko. Terima kasih atas ulasannya!"
+  rating = 5
+
+[[params.tabelItems]]
+  name = "Sirtu"
+  price = "1.700.000"
+[[params.tabelItems]]
+  name = "Brangkal"
+  price = "1.700.000"
+[[params.tabelItems]]
+  name = "Basecose"
+  price = "2.100.000"
+[[params.tabelItems]]
+  name = "Makadam"
+  price = "2.000.000"
+[[params.tabelItems]]
+  name = "Tanah-Merah"
+  price = "1.250.000"
+[[params.tabelItems]]
+  name = "Limestone"
+  price = "1.700.000"
+
+[params.appliList]
+  Sirtu = "lantai, Jalan"
+  Brangkal = "lantai, Jalan, Lapangan"
+  Basecose = "lantai, Jalan raya"
+  Makadam = "lantai, Jalan"
+  Tanah-Merah = "lantai, Jalan, Kebun, Taman"
+  Limestone = "lantai, Jalan, Sawah"
+
+[params.kegunaanList]
+  Sirtu = "Pemadatan dan urug lantai, Jalan"
+  Brangkal = "Pemadatan dasar lantai, Jalan, Lapangan"
+  Basecose = "Pemadatan lantai, Jalan raya"
+  Makadam = "Pengurugan dasar lantai, Jalan"
+  Tanah-Merah = "Pengurugan lantai, Jalan, Kebun, Taman"
+  Limestone = "Pemadatan dasar tanah, Jalan, Sawah"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "https://bangunan.co/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "https://bangunan.co/daftar-harga/"
+
+[params.header]
+   title = "Layanan Pengecoran Readymix Beton | "
+   highlight = "Bangunan.co"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"

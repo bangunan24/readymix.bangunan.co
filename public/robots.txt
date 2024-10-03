@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /categories/*/page/
+Noindex: /categories/*/page/
+Disallow: /tags/*/page/
+Noindex: /tags/*/page/
+Disallow: /page/
+Noindex: /page/
+
+Sitemap: https://readymix.bangunan.co/sitemap.xml
+Sitemap: https://readymix.bangunan.co/sitemap.xml.gz
