@@ -22,7 +22,7 @@
      <div class="archive-item">
           <img src="{{ if $featuredImage }}{{ $featuredImage }}{{ else }}/images/admin/featured-image.png{{ end }}" alt="{{ .Title }}" loading="lazy">
           <h3>{{ .Title }}</h3>
-          <p>{{ .Summary }}</p>
+          <p>{{ .Summary | truncate 300 "..." }}</p>
           <a href="{{ .Permalink }}" class="read-more">Baca Selengkapnya</a>
         </div>
       {{ end }}

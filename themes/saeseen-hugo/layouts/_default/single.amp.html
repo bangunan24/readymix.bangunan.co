@@ -17,7 +17,7 @@
   {{- $removeWords := "^(Jual|Sewa|Harga|Biaya|Tukang) " -}}
   {{- $titleKeywords := replaceRE $removeWords "" .Title | lower -}}
   {{- $globalKeywords := .Site.Params.keywords -}}
-  {{- $randomKeyword := first 1 (shuffle $globalKeywords) | default "" -}}
+  {{- $randomKeyword := first 6 (shuffle $globalKeywords) | default "" -}}
   {{- $allKeywords := delimit (slice $randomKeyword $titleKeywords) ", " -}}
   <meta name="keywords" content="{{ $allKeywords }}">
   <meta property="og:type" content="product">
