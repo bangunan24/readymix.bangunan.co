@@ -103,7 +103,7 @@ paginate = 6
   name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad}"
   message = "{Layanan readymix beton dari readymix.bangunan.co {sangat cepat|efisien|responsif} dan {berkualitas|tepat waktu|bermutu}. Beton yang {disediakan|dikirim} sesuai dengan {kualitas|standar|spesifikasi} yang saya harapkan untuk proyek {perumahan|real estate|properti} saya.|Beton dari readymix.bangunan.co {cepat dikirim|tepat waktu|sesuai harapan} dan {berkualitas|bermutu|cocok untuk} proyek perumahan saya.}"
   response = "{Terima kasih! Kami {berkomitmen|fokus|dedikasi} untuk menyediakan layanan readymix beton berkualitas dengan {pengiriman|waktu pengiriman|proses} yang {tepat waktu|efisien|lancar}.|Kami {apresiasi|menghargai} ulasan Anda. Terima kasih atas {kepercayaan|pilihan} Anda menggunakan readymix beton kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
@@ -117,14 +117,14 @@ paginate = 6
   name = "{Rina|Siti|Dewi|Lina|Ayu|Fitri|Sari|Diah|Nur|Maya}"
   message = "{Pelayanan readymix.bangunan.co {sangat memuaskan|luar biasa|baik sekali}. Produk beton yang {saya pesan|dikirim} {berkualitas tinggi|bermutu|premium} dan sesuai dengan {harapan|ekspektasi|spesifikasi saya}.|Saya sangat puas dengan {produk|layanan} readymix.bangunan.co. Beton yang {saya pesan|dikirim} {berkualitas tinggi|premium|bermutu} dan {sesuai dengan harapan|memenuhi ekspektasi|sesuai standar}.}"
   response = "{Terima kasih! Kami senang dapat {membantu|mewujudkan|melayani} proyek pengecoran Anda dengan {beton|produk} terbaik.|Kami menghargai {ulasan|masukan} Anda. Terima kasih telah {memilih|mempercayai|menggunakan} readymix beton kami!}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
   name = "{Eko|Agus|Dedi|Toni|Yanto|Wawan|Benny|Rio|Iwan|Galih}"
   message = "{Beton readymix dari readymix.bangunan.co {sangat sesuai|tepat|cocok} dengan {spesifikasi|standar|kebutuhan} proyek {jalan raya|infrastruktur|komersial} yang saya kerjakan. Pengirimannya {cepat|tepat waktu|aman} dan {lancar|terorganisir|sesuai jadwal}.|Saya puas dengan {produk|beton} readymix untuk proyek jalan yang saya kerjakan. Pengirimannya {cepat|tepat waktu|lancar} dan {sesuai harapan|memenuhi ekspektasi|aman}.}"
   response = "{Kami {senang|bahagia|gembira} mendengar bahwa Anda puas dengan {produk|layanan} kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah {mempercayai|memilih|menggunakan} readymix beton kami. Kami {senang|gembira} Anda puas dengan hasilnya.}"
-  rating = 4.9
+  rating = 4
 
 [[params.tabelItems]]
   name = "Readymix Kelas B0"

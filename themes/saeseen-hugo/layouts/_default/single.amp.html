@@ -42,6 +42,7 @@
   <meta name="twitter:title" content="{{ $ogTitle }}">
   <meta name="twitter:description" content="{{ $ogDescription }}">
   {{- if .IsPage }}
+{{ $page := . }}
   {{- $rating := add 4 (div (math.Mod (mul (now.Unix) 11) 10) 10) -}}
   {{- $ratingCount := add 50 (math.Mod (mul (now.Unix) 13) 951) -}}
   {{- $basePrice := .Site.Params.base_price -}}
@@ -75,7 +76,10 @@
       "url": "{{ .Permalink }}",
       "availability": "https://schema.org/InStock",
       "itemCondition": "https://schema.org/NewCondition",
-      "paymentAccepted": ["{{ $randomPayment }}"],
+      "acceptedPaymentMethod": {
+        "@type": "PaymentMethod",
+        "name": "{{ $randomPayment }}"
+      },
       "seller": {
         "@type": "Organization",
         "name": "{{ .Site.Title }}"
@@ -109,7 +113,15 @@
           }
         }
       }
-      {{- end -}}
+      {{- end -}},
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "returnPolicyCategory": "https://schema.org/Refundable",
+        "merchantReturnDays": "1",
+        "returnMethod": "https://schema.org/ReturnInStore",
+       "returnFees": "https://schema.org/FreeReturn",
+        "description": "{{ index .Site.Params.return_policies (mod (now.Unix) (len .Site.Params.return_policies)) }}"
+      }
     },
     "material": "{{ $randomMaterial }}",
     "category": "{{ $randomCategory }}",
@@ -119,15 +131,6 @@
       "ratingCount": "{{ $ratingCount }}",
       "bestRating": "5",
       "worstRating": "1"
-    },
-    "keywords": "{{ $allKeywords }}, {{ .Title }}",
-    "hasMerchantReturnPolicy": {
-      "@type": "MerchantReturnPolicy",
-      "returnPolicyCategory": "https://schema.org/Refundable",
-      "merchantReturnDays": "1",
-      "returnMethod": "https://schema.org/ReturnInStore",
-      "returnFees": "None",
-      "returnPolicyDescription": "{{ index .Site.Params.return_policies (mod (now.Unix) (len .Site.Params.return_policies)) }}"
     }
   }
   </script>
