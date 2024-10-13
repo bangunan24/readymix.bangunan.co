@@ -211,11 +211,6 @@
         "ratingValue": "{{ $testimonial.rating }}",
         "bestRating": "5",
         "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "{{ $page.Title }}",
-        "description": "{{ $page.Summary | plainify | truncate 160 }}"
       }
     }
     {{ end }}
