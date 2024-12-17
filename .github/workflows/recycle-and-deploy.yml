@@ -1,5 +1,4 @@
 name: Recycle Posts and Deploy
-
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -11,39 +10,75 @@ jobs:
   recycle-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.124.0'
+        extended: true
 
     - name: Setup Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: '20.14.0'
+        cache: 'npm'
 
-    - name: Install dependencies
-      run: npm ci
+    - name: Install Dependencies
+      run: |
+        npm ci  # Install dependencies dengan clean slate
+        npm install  # Pastikan semua dependencies terinstall
 
-    - name: Debug - List directory structure
+    - name: Debug - List Directory Structure
       run: |
         echo "Current directory:"
         pwd
         echo "Directory contents:"
         ls -R content
 
-    - name: Run recycle and build
-      run: npm run build:recycle
+    - name: Verify Installations
+      run: |
+        node --version
+        npm --version
+        hugo version
 
-    - name: Commit changes
+    - name: Run Recycle and Build
+      run: |
+        npm run build:recycle  # Jalankan script recycle
+        hugo --minify           # Build Hugo site dengan minifikasi
+
+    - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+
+    - name: Commit Changes
+      run: |
         git add .
         git diff --quiet && git diff --staged --quiet || git commit -m "Auto-recycle posts and rebuild"
 
-    - name: Push changes
+    - name: Push Changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Prepare GitHub Pages
+      run: |
+        mkdir -p public
+        echo "readymix.bangunan.co" > public/CNAME
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4  # Update ke versi terbaru
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: gh-pages
+        full_commit_message: ${{ github.event.head_commit.message }}
+
+    - name: Verify Deployment
+      run: |
+        echo "Deployment completed successfully!"
+        ls -l public
