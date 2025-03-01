@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal"
-date: "2024-03-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal. Semoga d..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Suradadi Tegal. Semoga
+  d...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Suradadi Tegal** – Beton Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg membutuhkan mutu dan kwalitas yg pas.

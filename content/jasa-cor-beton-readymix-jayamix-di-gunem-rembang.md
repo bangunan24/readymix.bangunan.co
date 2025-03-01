@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang"
-date: "2024-03-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gunem Rembang** – Beton Cor Readymix atau campuran beton siap guna merupakan adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis bahan material yg dipakaipun sama dengan macam bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.

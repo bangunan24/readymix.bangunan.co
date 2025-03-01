@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali"
-date: "2024-03-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyudono
+  Boyolali y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali** – Beton readymix atau campuran beton siap guna adalah adukan campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan variasi material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kualitas hasil beton yang ditargetkan.

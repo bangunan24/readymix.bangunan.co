@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo"
-date: "2024-03-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Polokarto
+  Sukoharjo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Polokarto Sukoharjo** – Cor Readymix atau adukan beton siap pakai yaitu adukan komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam bahan material yang dipakaipun sama dengan ragam material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yg di inginkan.

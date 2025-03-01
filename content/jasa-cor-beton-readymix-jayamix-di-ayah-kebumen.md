@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen"
-date: "2024-03-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ayah Kebumen** – Cor Readymix atau adukan beton siap pakai merupakan campuran komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan tipe material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan kualitas hasil beton yg ditargetkan.

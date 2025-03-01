@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Karangmojo Gunung Kidul"
-date: "2024-03-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Karangmojo Gunung Kidul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Karangmojo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Karangmojo Gunung Kidul
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Karangmojo Gunung Kidul. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Karangmojo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Karangmojo Gunung Kidul** – Beton readymix atau adukan beton siap guna yakni adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis bahan material yg dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg sudah ditentukan sesuai dengan kualitas hasil beton yang di inginkan.

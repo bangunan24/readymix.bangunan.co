@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarnegara"
-date: "2024-03-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarnegara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarn..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarnegara
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarnegara. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bawang
+  Banjarn...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bawang Banjarnegara** – Beton readymix atau adukan beton siap pakai yaitu campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan jenis material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah diatur pas dengan kwalitas hasil beton yg di inginkan.

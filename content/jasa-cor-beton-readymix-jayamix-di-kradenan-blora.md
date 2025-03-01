@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kradenan Blora"
-date: "2024-03-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kradenan Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kradenan Blora. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kradenan Blora'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kradenan Blora. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kradenan
+  Blora. Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kradenan Blora** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg memerlukan kwalitas dan kualitas yang ideal.

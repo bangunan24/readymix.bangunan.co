@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sawit Boyolali"
-date: "2024-03-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sawit Boyolali. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sawit Boyolali...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sawit Boyolali'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sawit Boyolali. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sawit
+  Boyolali....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sawit Boyolali** – Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg membutuhkan kwalitas dan kwalitas yg tepat.

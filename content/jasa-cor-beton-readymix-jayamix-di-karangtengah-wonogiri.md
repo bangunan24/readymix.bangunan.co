@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Wonogiri"
-date: "2024-03-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Wonogiri. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangteng..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Wonogiri'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Wonogiri. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karangteng...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangtengah Wonogiri** – Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kwalitas dan kualitas yg ideal.

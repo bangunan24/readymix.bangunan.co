@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak"
-date: "2024-03-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak. Kami harap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wedung Demak. Kami
+  harap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wedung Demak** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yang memerlukan kualitas dan kwalitas yang pas.

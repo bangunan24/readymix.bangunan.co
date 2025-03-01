@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kemangkon Purbalingga"
-date: "2024-03-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kemangkon Purbalingga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemangkon Purba..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kemangkon Purbalingga'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kemangkon Purbalingga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemangkon
+  Purba...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kemangkon Purbalingga** – Beton ready mix atau beton siap pakai merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yg memerlukan kualitas dan kwalitas yang ideal.

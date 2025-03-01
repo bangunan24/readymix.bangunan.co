@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang"
-date: "2024-03-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Borobudur
+  Magelang yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Borobudur Magelang** – Beton Cor Readymix atau campuran beton siap guna ialah campuran komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan variasi bahan material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

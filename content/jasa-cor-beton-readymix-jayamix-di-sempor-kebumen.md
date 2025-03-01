@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sempor Kebumen"
-date: "2024-03-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sempor Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sempor Kebumen...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sempor Kebumen'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sempor Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sempor
+  Kebumen....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sempor Kebumen** – Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan mutu dan mutu yg tepat.

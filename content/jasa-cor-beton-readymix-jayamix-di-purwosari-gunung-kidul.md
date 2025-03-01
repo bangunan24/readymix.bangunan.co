@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Purwosari Gunung Kidul"
-date: "2024-03-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Purwosari Gunung Kidul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Purwosari..."
+title: Jasa Cor Beton Readymix & Jayamix Di Purwosari Gunung Kidul
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Purwosari Gunung Kidul. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Purwosari...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Purwosari Gunung Kidul** – Beton Cor Readymix atau adukan beton siap pakai adalah campuran campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan macam material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah diatur sesuai dengan mutu hasil beton yg di inginkan.

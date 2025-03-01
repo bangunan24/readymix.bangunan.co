@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Siwalan Pekalongan"
-date: "2024-03-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Siwalan Pekalongan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Siwalan Pekalongan...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Siwalan Pekalongan'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Siwalan Pekalongan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Siwalan
+  Pekalongan....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Siwalan Pekalongan** – Beton ready mix atau beton siap guna yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg membutuhkan mutu dan kwalitas yang tepat.

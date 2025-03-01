@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Padureso Kebumen"
-date: "2024-03-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Padureso Kebumen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Padureso Kebumen. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Padureso Kebumen'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Padureso Kebumen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Padureso
+  Kebumen. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Padureso Kebumen** – Beton Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan mutu dan kwalitas yang pas.

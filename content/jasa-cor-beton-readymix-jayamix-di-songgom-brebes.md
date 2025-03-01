@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes"
-date: "2024-03-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes. Mudah-mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Songgom Brebes.
+  Mudah-mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Songgom Brebes** – Beton Cor Readymix atau beton siap guna yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan kualitas dan kualitas yg ideal.

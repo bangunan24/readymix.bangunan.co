@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo"
-date: "2024-03-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon
+  Progo yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kokap Kulon Progo** – Beton readymix atau campuran beton siap guna merupakan campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi bahan material campuran beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah diatur pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sambirejo Sragen"
-date: "2024-03-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sambirejo Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambirejo Sragen. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sambirejo Sragen'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sambirejo Sragen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambirejo
+  Sragen. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sambirejo Sragen** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yang membutuhkan kwalitas dan mutu yang tepat.

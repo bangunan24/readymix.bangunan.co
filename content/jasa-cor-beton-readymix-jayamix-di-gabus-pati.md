@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gabus Pati"
-date: "2024-03-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gabus Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gabus Pati yang kami pa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gabus Pati
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gabus Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gabus Pati
+  yang kami pa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gabus Pati** – Cor Readymix atau adukan beton siap guna adalah campuran campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis material yang dipakaipun sama dengan macam material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kwalitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Pekalongan"
-date: "2024-03-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Pekalongan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Peka..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Pekalongan'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Pekalongan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Paninggaran
+  Peka...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Paninggaran Pekalongan** – Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg memerlukan mutu dan kualitas yg tepat.

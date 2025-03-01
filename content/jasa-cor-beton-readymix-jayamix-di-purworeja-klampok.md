@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purworeja Klampok"
-date: "2024-03-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purworeja Klampok. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purworeja Kla..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purworeja Klampok'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purworeja Klampok. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purworeja
+  Kla...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purworeja Klampok** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kwalitas dan kualitas yg ideal.

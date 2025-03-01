@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kemusu Boyolali"
-date: "2024-03-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kemusu Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemusu Boyolali. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kemusu Boyolali'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kemusu Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemusu
+  Boyolali. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kemusu Boyolali** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan mutu dan kwalitas yg ideal.

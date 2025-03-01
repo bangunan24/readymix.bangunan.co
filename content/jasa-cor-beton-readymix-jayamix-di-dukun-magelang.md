@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang"
-date: "2024-03-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang yg k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukun
+  Magelang yg k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dukun Magelang** – Beton Cor Readymix atau adukan beton siap pakai yaitu adukan komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yang dipakaipun sama dengan macam bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditentukan pas dengan kualitas hasil beton yg di inginkan.

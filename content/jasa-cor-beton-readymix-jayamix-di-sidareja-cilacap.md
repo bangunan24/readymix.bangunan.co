@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sidareja Cilacap"
-date: "2024-03-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sidareja Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidareja Cilacap. Kami..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sidareja Cilacap'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sidareja Cilacap. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidareja
+  Cilacap. Kami...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sidareja Cilacap** – Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg memerlukan kwalitas dan mutu yang tepat.

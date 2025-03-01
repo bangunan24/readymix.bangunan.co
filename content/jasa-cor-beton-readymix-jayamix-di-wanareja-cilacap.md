@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wanareja Cilacap"
-date: "2024-03-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wanareja Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanareja Cilacap. Se..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wanareja Cilacap'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wanareja Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanareja
+  Cilacap. Se...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wanareja Cilacap** – Beton Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan mutu dan mutu yg tepat.

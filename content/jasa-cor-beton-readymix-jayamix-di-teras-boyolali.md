@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Teras Boyolali"
-date: "2024-03-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Teras Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Teras Boyolali. Mudah-..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Teras Boyolali'
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Teras Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Teras
+  Boyolali. Mudah-...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Teras Boyolali** – Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yg didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yang membutuhkan kualitas dan kualitas yg ideal.

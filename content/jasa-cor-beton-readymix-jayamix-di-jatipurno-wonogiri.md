@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri"
-date: "2024-03-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri
+date: '2025-03-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatipurno
+  Wonogiri y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatipurno Wonogiri** – Beton Cor Readymix atau campuran beton siap guna ialah campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan mutu hasil beton yang ditargetkan.
