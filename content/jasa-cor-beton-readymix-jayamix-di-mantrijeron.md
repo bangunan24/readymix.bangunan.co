@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Mantrijeron"
-date: "2024-04-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Mantrijeron. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mantrijeron yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Mantrijeron
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Mantrijeron. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mantrijeron
+  yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Mantrijeron** – Beton Cor Readymix atau adukan beton siap guna ialah campuran komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe material yg dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan kwalitas hasil beton yang di inginkan.

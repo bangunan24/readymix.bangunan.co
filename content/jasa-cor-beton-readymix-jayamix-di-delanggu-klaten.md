@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten"
-date: "2024-04-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Delanggu
+  Klaten y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Delanggu Klaten** – Cor Readymix atau campuran beton siap guna yakni adukan campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan jenis material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan kwalitas hasil beton yg ditargetkan.

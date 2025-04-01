@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung"
-date: "2024-04-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bejen
+  Temanggung yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bejen Temanggung** – Beton readymix atau campuran beton siap pakai yaitu adukan komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam material yang dipakaipun sama dengan ragam bahan material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kwalitas hasil beton yg di inginkan.

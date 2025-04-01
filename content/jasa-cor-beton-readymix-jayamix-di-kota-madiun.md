@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Madiun"
-date: "2024-04-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Madiun. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Madiun yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Madiun
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Madiun. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Madiun yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Madiun** – Beton readymix atau campuran beton siap guna ialah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg sudah diatur sesuai dengan kualitas hasil beton yg di inginkan.

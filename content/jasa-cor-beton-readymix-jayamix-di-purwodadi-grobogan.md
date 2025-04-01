@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Grobogan"
-date: "2024-04-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Grobogan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Gr..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Grobogan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Grobogan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwodadi
+  Gr...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwodadi Grobogan** – Beton Cor Readymix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yang membutuhkan mutu dan mutu yang ideal.

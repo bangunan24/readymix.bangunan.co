@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan"
-date: "2024-04-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Lamongan** – Beton Cor Readymix atau adukan beton siap guna adalah campuran komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe material yang dipakaipun sama dengan macam bahan material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

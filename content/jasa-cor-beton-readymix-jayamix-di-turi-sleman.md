@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Turi Sleman"
-date: "2024-04-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Turi Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Turi Sleman yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Turi Sleman
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Turi Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Turi Sleman
+  yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Turi Sleman** – Cor Readymix atau adukan beton siap guna adalah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam material yg dipakaipun sama dengan tipe bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.

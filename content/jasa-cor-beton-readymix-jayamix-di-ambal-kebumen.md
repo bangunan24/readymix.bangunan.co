@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen"
-date: "2024-04-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen yg kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen yg kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen** – Beton readymix atau adukan beton siap guna yakni adukan campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yg dipakaipun sama dengan macam material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan kwalitas hasil beton yg di inginkan.

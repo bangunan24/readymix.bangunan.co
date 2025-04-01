@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi Pati"
-date: "2024-04-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi Pati. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi Pati. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi Pati'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi Pati. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pucakwangi
+  Pati. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pucakwangi Pati** – Beton ready mix atau beton siap guna adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara cepat atau instan pada project pengecoran yang memerlukan kwalitas dan mutu yang pas.

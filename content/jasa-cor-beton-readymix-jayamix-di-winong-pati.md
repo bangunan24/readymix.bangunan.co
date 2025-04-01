@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Winong Pati"
-date: "2024-04-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Winong Pati. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Winong Pati. Kami h..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Winong Pati'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Winong Pati. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Winong Pati.
+  Kami h...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Winong Pati** – Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang memerlukan kualitas dan kwalitas yg tepat.

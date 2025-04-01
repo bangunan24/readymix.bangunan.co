@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang"
-date: "2024-04-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Lumajang** – Beton readymix atau campuran beton siap pakai ialah adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yg dipakaipun sama dengan tipe material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Baturraden Banyumas"
-date: "2024-04-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Baturraden Banyumas. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Baturraden Ba..."
+title: Jasa Cor Beton Readymix & Jayamix Di Baturraden Banyumas
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Baturraden Banyumas. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Baturraden
+  Ba...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Baturraden Banyumas** – Beton readymix atau campuran beton siap guna adalah campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam bahan material yang dipakaipun sama dengan ragam material adukan beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yang ditargetkan.

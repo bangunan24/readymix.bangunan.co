@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep"
-date: "2024-04-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Sumenep** – Cor Readymix atau adukan beton siap guna adalah adukan komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan macam material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kwalitas hasil beton yang di inginkan.

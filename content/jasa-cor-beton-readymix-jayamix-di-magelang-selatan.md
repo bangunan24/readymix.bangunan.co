@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Magelang Selatan"
-date: "2024-04-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Magelang Selatan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Magelang Selat..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Magelang Selatan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Magelang Selatan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Magelang
+  Selat...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Magelang Selatan** – Beton ready mix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang memerlukan kualitas dan kwalitas yang tepat.

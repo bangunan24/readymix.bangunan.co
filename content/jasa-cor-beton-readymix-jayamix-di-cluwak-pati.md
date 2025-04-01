@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati"
-date: "2024-04-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati
+  yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cluwak Pati** – Beton readymix atau adukan beton siap guna merupakan campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yg dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah diatur pas dengan mutu hasil beton yang di inginkan.

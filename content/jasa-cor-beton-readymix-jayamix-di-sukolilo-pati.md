@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati"
-date: "2024-04-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati. Mudah-muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukolilo Pati.
+  Mudah-muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sukolilo Pati** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg memerlukan kwalitas dan mutu yang ideal.

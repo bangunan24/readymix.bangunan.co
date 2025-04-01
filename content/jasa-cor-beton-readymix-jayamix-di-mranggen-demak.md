@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mranggen Demak"
-date: "2024-04-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mranggen Demak. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mranggen Demak. S..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mranggen Demak'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mranggen Demak. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mranggen
+  Demak. S...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mranggen Demak** – Beton ready mix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara cepat atau instan pada project pengecoran yang memerlukan kualitas dan kualitas yang pas.

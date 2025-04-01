@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang"
-date: "2024-04-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang yg k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bawen
+  Semarang yg k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bawen Semarang** – Beton Cor Readymix atau adukan beton siap guna yakni adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan jenis material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditentukan pas dengan mutu hasil beton yg ditargetkan.

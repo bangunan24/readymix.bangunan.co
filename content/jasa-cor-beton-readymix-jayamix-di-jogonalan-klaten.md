@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten"
-date: "2024-04-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jogonalan
+  Klaten yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jogonalan Klaten** – Cor Readymix atau campuran beton siap pakai yakni campuran campuran material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam material yg dipakaipun sama dengan jenis material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.

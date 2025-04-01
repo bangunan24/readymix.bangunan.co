@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Giritontro Wonogiri"
-date: "2024-04-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Giritontro Wonogiri. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Giritontro Wo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Giritontro Wonogiri
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Giritontro Wonogiri. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Giritontro
+  Wo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Giritontro Wonogiri** – Cor Readymix atau campuran beton siap guna adalah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan kwalitas hasil beton yg ditargetkan.

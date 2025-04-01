@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo"
-date: "2024-04-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gatak
+  Sukoharjo y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gatak Sukoharjo** – Beton Cor Readymix atau adukan beton siap pakai yaitu adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi material yg dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

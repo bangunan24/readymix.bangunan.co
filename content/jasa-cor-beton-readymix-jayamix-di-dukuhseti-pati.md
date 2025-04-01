@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati"
-date: "2024-04-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati yg k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhseti
+  Pati yg k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dukuhseti Pati** – Cor Readymix atau campuran beton siap pakai yakni campuran campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan macam bahan material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah diatur pas dengan kwalitas hasil beton yg di inginkan.

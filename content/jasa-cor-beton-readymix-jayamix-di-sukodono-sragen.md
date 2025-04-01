@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sukodono Sragen"
-date: "2024-04-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sukodono Sragen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukodono Sragen. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sukodono Sragen'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sukodono Sragen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukodono
+  Sragen. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sukodono Sragen** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg membutuhkan kualitas dan mutu yang tepat.

@@ -1,9 +1,11 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedungjati Grobogan"
-date: "2024-04-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedungjati Grobogan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungjati..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedungjati Grobogan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedungjati Grobogan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungjati...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedungjati Grobogan** – Beton Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang membutuhkan mutu dan kualitas yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalibagor Banyumas"
-date: "2024-04-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalibagor Banyumas. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibagor Bany..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalibagor Banyumas
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalibagor Banyumas. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibagor
+  Bany...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalibagor Banyumas** – Beton Cor Readymix atau adukan beton siap pakai ialah adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam material yang dipakaipun sama dengan tipe bahan material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah ditentukan sesuai dengan kualitas hasil beton yg ditargetkan.

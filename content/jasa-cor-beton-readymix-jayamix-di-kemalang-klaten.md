@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten"
-date: "2024-04-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kemalang Klaten.
+  Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kemalang Klaten** – Beton Cor Readymix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan mutu dan kualitas yang tepat.

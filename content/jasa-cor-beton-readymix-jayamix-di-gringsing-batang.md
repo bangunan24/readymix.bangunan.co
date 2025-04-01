@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang"
-date: "2024-04-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gringsing
+  Batang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gringsing Batang** – Cor Readymix atau campuran beton siap pakai merupakan adukan campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan jenis bahan material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

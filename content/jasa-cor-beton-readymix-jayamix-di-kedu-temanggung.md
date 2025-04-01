@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedu Temanggung"
-date: "2024-04-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedu Temanggung. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedu Temanggung..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedu Temanggung'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedu Temanggung. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedu
+  Temanggung...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedu Temanggung** – Beton ready mix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang memerlukan mutu dan kualitas yang ideal.

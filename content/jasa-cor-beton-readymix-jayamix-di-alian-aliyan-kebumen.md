@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen"
-date: "2024-04-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Alian/Aliyan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen** – Beton readymix atau campuran beton siap guna yaitu adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam bahan material yg dipakaipun sama dengan macam material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan kualitas hasil beton yg ditargetkan.

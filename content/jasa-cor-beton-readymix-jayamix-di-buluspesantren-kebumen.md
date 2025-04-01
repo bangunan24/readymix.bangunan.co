@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Buluspesantren Kebumen"
-date: "2024-04-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Buluspesantren Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Buluspesan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Buluspesantren Kebumen
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Buluspesantren Kebumen. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Buluspesan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Buluspesantren Kebumen** – Beton readymix atau adukan beton siap guna yakni campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan macam bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan mutu hasil beton yang di inginkan.

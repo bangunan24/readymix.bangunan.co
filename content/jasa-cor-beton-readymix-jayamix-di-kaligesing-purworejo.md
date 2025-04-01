@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo"
-date: "2024-04-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaligesing
+  Purworejo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kaligesing Purworejo** – Beton readymix atau adukan beton siap pakai yaitu adukan komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yang dipakaipun sama dengan macam material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

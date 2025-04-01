@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonosalam Demak"
-date: "2024-04-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonosalam Demak. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosalam Demak. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonosalam Demak'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonosalam Demak. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosalam
+  Demak. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonosalam Demak** – Beton Cor Readymix atau beton siap guna ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan kualitas dan kwalitas yg ideal.

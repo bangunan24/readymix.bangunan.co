@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kledung Temanggung"
-date: "2024-04-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kledung Temanggung. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kledung Temanggung...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kledung Temanggung'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kledung Temanggung. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kledung
+  Temanggung....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kledung Temanggung** – Beton Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg memerlukan kwalitas dan kwalitas yg tepat.

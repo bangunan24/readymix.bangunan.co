@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tuntang Semarang"
-date: "2024-04-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tuntang Semarang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tuntang Semarang. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tuntang Semarang'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tuntang Semarang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tuntang
+  Semarang. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tuntang Semarang** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kualitas dan kualitas yg tepat.

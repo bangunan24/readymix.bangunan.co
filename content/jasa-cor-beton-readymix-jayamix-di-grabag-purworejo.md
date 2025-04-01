@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo"
-date: "2024-04-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grabag
+  Purworejo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Grabag Purworejo** – Beton readymix atau campuran beton siap guna adalah adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi material yg dipakaipun sama dengan macam material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yg ditargetkan.

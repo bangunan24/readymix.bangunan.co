@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Margoyoso Pati"
-date: "2024-04-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Margoyoso Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margoyoso Pati. K..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Margoyoso Pati'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Margoyoso Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margoyoso
+  Pati. K...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Margoyoso Pati** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yang membutuhkan kwalitas dan mutu yang ideal.

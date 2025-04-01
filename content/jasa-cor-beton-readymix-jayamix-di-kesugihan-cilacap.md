@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kesugihan Cilacap"
-date: "2024-04-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kesugihan Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kesugihan Cilacap...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kesugihan Cilacap'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kesugihan Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kesugihan
+  Cilacap....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kesugihan Cilacap** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kwalitas dan mutu yg ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dempet Demak"
-date: "2024-04-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dempet Demak. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dempet Demak yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dempet Demak
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dempet Demak. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dempet Demak yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dempet Demak** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan macam material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Progo"
-date: "2024-04-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Progo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Prog..."
+title: Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Progo
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Progo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wates Kulon
+  Prog...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Wates Kulon Progo** – Cor Readymix atau campuran beton siap pakai adalah campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan macam bahan material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditentukan sesuai dengan mutu hasil beton yang di inginkan.

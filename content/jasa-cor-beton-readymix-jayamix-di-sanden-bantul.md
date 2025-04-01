@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul"
-date: "2024-04-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Sanden Bantul** – Cor Readymix atau adukan beton siap guna yaitu campuran komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan jenis material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yg di inginkan.

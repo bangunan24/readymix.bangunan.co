@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyumas"
-date: "2024-04-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyumas. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyum..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyumas
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyumas. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cilongok
+  Banyum...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cilongok Banyumas** – Beton Cor Readymix atau adukan beton siap pakai ialah campuran campuran material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi bahan material yg dipakaipun sama dengan macam material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan kualitas hasil beton yg ditargetkan.

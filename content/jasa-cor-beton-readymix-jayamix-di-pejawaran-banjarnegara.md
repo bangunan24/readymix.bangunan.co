@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pejawaran Banjarnegara"
-date: "2024-04-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pejawaran Banjarnegara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pejawaran B..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pejawaran Banjarnegara
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pejawaran Banjarnegara. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Pejawaran B...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pejawaran Banjarnegara** – Cor Readymix atau adukan beton siap guna merupakan campuran komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya jenis material yg dipakaipun sama dengan macam bahan material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yang di inginkan.

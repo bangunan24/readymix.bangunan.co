@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Patimuan Cilacap"
-date: "2024-04-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Patimuan Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Patimuan Cilacap. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Patimuan Cilacap'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Patimuan Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Patimuan
+  Cilacap. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Patimuan Cilacap** – Beton Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg memerlukan mutu dan kwalitas yang ideal.

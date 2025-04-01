@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jiken Blora"
-date: "2024-04-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jiken Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jiken Blora yg kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jiken Blora
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jiken Blora. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jiken Blora yg kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jiken Blora** – Beton Cor Readymix atau adukan beton siap guna ialah campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan variasi material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan pas dengan kwalitas hasil beton yg ditargetkan.

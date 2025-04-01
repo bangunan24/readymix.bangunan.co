@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal Pati"
-date: "2024-04-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal P..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal Pati
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal
+  P...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gunungwungkal Pati** – Beton readymix atau adukan beton siap pakai merupakan campuran campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan ragam material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan sesuai dengan kwalitas hasil beton yang ditargetkan.

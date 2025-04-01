@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan Brebes"
-date: "2024-04-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan Brebes. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan Brebes..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan Brebes'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan Brebes. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ketanggungan
+  Brebes...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ketanggungan Brebes** – Beton Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan kualitas dan kualitas yang ideal.

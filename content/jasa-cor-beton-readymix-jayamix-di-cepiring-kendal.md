@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal"
-date: "2024-04-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepiring
+  Kendal yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cepiring Kendal** – Beton readymix atau campuran beton siap guna adalah campuran campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam bahan material yang dipakaipun sama dengan variasi bahan material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan sesuai dengan kwalitas hasil beton yg ditargetkan.

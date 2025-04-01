@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bonang Demak"
-date: "2024-04-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bonang Demak. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bonang Demak yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bonang Demak
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bonang Demak. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bonang Demak yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bonang Demak** – Beton Cor Readymix atau adukan beton siap pakai ialah campuran komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya jenis material yang dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.

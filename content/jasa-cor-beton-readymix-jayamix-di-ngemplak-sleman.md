@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman"
-date: "2024-04-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngemplak
+  Sleman y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ngemplak Sleman** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam bahan material yang dipakaipun sama dengan tipe bahan material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan kwalitas hasil beton yang di inginkan.

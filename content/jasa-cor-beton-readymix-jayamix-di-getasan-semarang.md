@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang"
-date: "2024-04-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Getasan
+  Semarang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Getasan Semarang** – Beton readymix atau adukan beton siap guna adalah adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan macam material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan mutu hasil beton yg di inginkan.

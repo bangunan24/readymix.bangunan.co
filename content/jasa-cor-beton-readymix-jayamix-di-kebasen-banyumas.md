@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kebasen Banyumas"
-date: "2024-04-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kebasen Banyumas. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kebasen Banyumas. Kami..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kebasen Banyumas'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kebasen Banyumas. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kebasen
+  Banyumas. Kami...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kebasen Banyumas** – Beton ready mix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yg memerlukan mutu dan kwalitas yang tepat.

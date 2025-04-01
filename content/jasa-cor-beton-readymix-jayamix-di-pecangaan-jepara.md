@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara"
-date: "2024-04-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pecangaan
+  Jepara yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pecangaan Jepara** – Beton readymix atau campuran beton siap pakai merupakan campuran komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan macam material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan kualitas hasil beton yg ditargetkan.

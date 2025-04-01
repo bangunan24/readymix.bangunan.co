@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jebres Kota Surakarta"
-date: "2024-04-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jebres Kota Surakarta. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jebres Kota..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jebres Kota Surakarta
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jebres Kota Surakarta. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jebres
+  Kota...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jebres Kota Surakarta** – Cor Readymix atau campuran beton siap pakai adalah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan tipe material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan kwalitas hasil beton yg ditargetkan.

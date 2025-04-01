@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kejobong Purbalingga"
-date: "2024-04-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kejobong Purbalingga. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kejobong P..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kejobong Purbalingga'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kejobong Purbalingga. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kejobong P...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kejobong Purbalingga** – Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg memerlukan kualitas dan kwalitas yg pas.

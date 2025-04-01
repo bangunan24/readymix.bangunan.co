@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul"
-date: "2024-04-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul ya..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pajangan
+  Bantul ya...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pajangan Bantul** – Cor Readymix atau campuran beton siap pakai ialah campuran komposisi material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan ragam bahan material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan pas dengan kwalitas hasil beton yg ditargetkan.

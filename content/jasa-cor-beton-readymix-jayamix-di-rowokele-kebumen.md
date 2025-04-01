@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Rowokele Kebumen"
-date: "2024-04-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Rowokele Kebumen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rowokele Kebumen. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Rowokele Kebumen'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Rowokele Kebumen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rowokele
+  Kebumen. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Rowokele Kebumen** – Cor Readymix atau beton siap guna ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang membutuhkan mutu dan mutu yang pas.

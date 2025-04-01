@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Nguntoronadi Wonogiri"
-date: "2024-04-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Nguntoronadi Wonogiri. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nguntoron..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Nguntoronadi Wonogiri'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Nguntoronadi Wonogiri. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Nguntoron...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Nguntoronadi Wonogiri** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada project pengecoran yg memerlukan kwalitas dan mutu yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tawangharjo Grobogan"
-date: "2024-04-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tawangharjo Grobogan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tawangharjo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tawangharjo Grobogan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tawangharjo Grobogan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Tawangharjo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tawangharjo Grobogan** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada project pengecoran yang membutuhkan kwalitas dan kwalitas yg ideal.

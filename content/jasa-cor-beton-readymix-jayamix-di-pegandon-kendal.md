@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal"
-date: "2024-04-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pegandon
+  Kendal y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pegandon Kendal** – Beton readymix atau campuran beton siap guna adalah campuran komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan macam bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yg di inginkan.

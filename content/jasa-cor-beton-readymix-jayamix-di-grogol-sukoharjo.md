@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo"
-date: "2024-04-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grogol
+  Sukoharjo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Grogol Sukoharjo** – Beton readymix atau adukan beton siap pakai yakni adukan campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi material yg dipakaipun sama dengan variasi material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni Pekalongan"
-date: "2024-04-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni Pekalongan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni Peka..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni Pekalongan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni Pekalongan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungwuni
+  Peka...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedungwuni Pekalongan** – Beton ready mix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan kualitas dan mutu yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota Salatiga"
-date: "2024-04-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota Salatiga. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota Sala..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota Salatiga'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota Salatiga. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tingkir Kota
+  Sala...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tingkir Kota Salatiga** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yg memerlukan mutu dan kualitas yg pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cilacap"
-date: "2024-04-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cil..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cilacap
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu
+  Cil...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gandrungmangu Cilacap** – Beton readymix atau adukan beton siap guna adalah campuran campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan jenis material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan kwalitas hasil beton yang di inginkan.

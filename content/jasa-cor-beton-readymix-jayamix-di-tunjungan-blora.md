@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tunjungan Blora"
-date: "2024-04-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tunjungan Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tunjungan Blora. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tunjungan Blora'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tunjungan Blora. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tunjungan
+  Blora. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tunjungan Blora** – Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau instan pada project pengecoran yg membutuhkan kwalitas dan kualitas yg ideal.

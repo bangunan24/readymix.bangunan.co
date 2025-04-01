@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatipuro Karanganyar"
-date: "2024-04-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatipuro Karanganyar. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatipuro Kar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatipuro Karanganyar
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatipuro Karanganyar. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Jatipuro Kar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatipuro Karanganyar** – Cor Readymix atau adukan beton siap pakai yaitu campuran komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan jenis bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan pas dengan kualitas hasil beton yg ditargetkan.

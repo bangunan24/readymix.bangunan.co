@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sarang Rembang"
-date: "2024-04-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sarang Rembang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sarang Rembang. M..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sarang Rembang'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sarang Rembang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sarang
+  Rembang. M...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sarang Rembang** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan kwalitas yg pas.

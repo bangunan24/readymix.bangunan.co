@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman"
-date: "2024-04-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman yg kam..."
+title: Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman
+  yg kam...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Tempel Sleman** – Beton readymix atau campuran beton siap pakai merupakan adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan macam material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan pas dengan kualitas hasil beton yang ditargetkan.

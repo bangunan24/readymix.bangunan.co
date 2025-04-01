@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wiradesa Pekalongan"
-date: "2024-04-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wiradesa Pekalongan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wiradesa Pekalongan..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wiradesa Pekalongan'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wiradesa Pekalongan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wiradesa
+  Pekalongan...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wiradesa Pekalongan** – Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yg memerlukan kualitas dan kwalitas yg pas.

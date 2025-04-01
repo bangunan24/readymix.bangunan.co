@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gunungpati Kota Semarang"
-date: "2024-04-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gunungpati Kota Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gunungpat..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gunungpati Kota Semarang
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gunungpati Kota Semarang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Gunungpat...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gunungpati Kota Semarang** – Beton Cor Readymix atau campuran beton siap guna ialah adukan campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan tipe material campuran beton pada lazimnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan mutu hasil beton yg di inginkan.

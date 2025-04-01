@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wanadadi Banjarnegara"
-date: "2024-04-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wanadadi Banjarnegara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanadadi Banjarne..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wanadadi Banjarnegara'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wanadadi Banjarnegara. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanadadi
+  Banjarne...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wanadadi Banjarnegara** – Beton ready mix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yg memerlukan mutu dan kwalitas yg pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen"
-date: "2024-04-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen yg kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen yg kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jenar Sragen** – Cor Readymix atau adukan beton siap pakai yaitu campuran campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam bahan material yang dipakaipun sama dengan macam material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yang ditargetkan.

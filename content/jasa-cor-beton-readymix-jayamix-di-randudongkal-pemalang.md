@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Randudongkal Pemalang"
-date: "2024-04-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Randudongkal Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Randudongk..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Randudongkal Pemalang'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Randudongkal Pemalang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Randudongk...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Randudongkal Pemalang** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang memerlukan mutu dan kualitas yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Trucuk Klaten"
-date: "2024-04-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Trucuk Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Trucuk Klaten. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Trucuk Klaten'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Trucuk Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Trucuk
+  Klaten. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Trucuk Klaten** – Beton Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yang membutuhkan kualitas dan mutu yang pas.

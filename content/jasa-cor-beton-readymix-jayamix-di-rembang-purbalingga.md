@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Rembang Purbalingga"
-date: "2024-04-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Rembang Purbalingga. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rembang Pur..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Rembang Purbalingga'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Rembang Purbalingga. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rembang
+  Pur...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Rembang Purbalingga** – Beton Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan mutu dan kwalitas yg ideal.

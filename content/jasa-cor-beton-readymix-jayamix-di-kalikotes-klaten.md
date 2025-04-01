@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten"
-date: "2024-04-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalikotes
+  Klaten...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalikotes Klaten** – Beton Cor Readymix atau campuran beton siap guna yakni adukan campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam bahan material yg dipakaipun sama dengan ragam bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

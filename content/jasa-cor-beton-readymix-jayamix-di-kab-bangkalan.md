@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan"
-date: "2024-04-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Bangkalan** – Beton Cor Readymix atau campuran beton siap guna ialah campuran komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan mutu hasil beton yang ditargetkan.

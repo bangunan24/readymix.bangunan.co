@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal"
-date: "2024-04-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal ya..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhturi
+  Tegal ya...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dukuhturi Tegal** – Beton readymix atau campuran beton siap guna adalah adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yg di inginkan.

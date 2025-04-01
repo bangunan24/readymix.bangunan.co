@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kunduran Blora"
-date: "2024-04-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kunduran Blora. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kunduran Blora. M..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kunduran Blora'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kunduran Blora. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kunduran
+  Blora. M...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kunduran Blora** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada project pengecoran yg membutuhkan kualitas dan mutu yang tepat.

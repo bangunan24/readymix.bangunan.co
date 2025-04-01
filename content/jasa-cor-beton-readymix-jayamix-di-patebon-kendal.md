@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Patebon Kendal"
-date: "2024-04-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Patebon Kendal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Patebon Kendal...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Patebon Kendal'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Patebon Kendal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Patebon
+  Kendal....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Patebon Kendal** – Beton ready mix atau beton siap guna ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan kwalitas dan kwalitas yang pas.

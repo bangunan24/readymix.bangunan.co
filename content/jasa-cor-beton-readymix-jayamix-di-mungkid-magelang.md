@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mungkid Magelang"
-date: "2024-04-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mungkid Magelang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mungkid Magelang. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mungkid Magelang'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mungkid Magelang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mungkid
+  Magelang. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mungkid Magelang** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yg membutuhkan kwalitas dan mutu yg tepat.

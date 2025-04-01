@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tonjong Brebes"
-date: "2024-04-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tonjong Brebes. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tonjong Brebes...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tonjong Brebes'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tonjong Brebes. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tonjong
+  Brebes....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tonjong Brebes** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan kwalitas dan kualitas yang pas.

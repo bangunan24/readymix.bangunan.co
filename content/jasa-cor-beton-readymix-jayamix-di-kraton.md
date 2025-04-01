@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kraton"
-date: "2024-04-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kraton. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kraton yg kami paparkan, A..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kraton
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kraton. Seperti itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kraton yg kami paparkan,
+  A...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kraton** – Cor Readymix atau campuran beton siap guna merupakan campuran komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan ragam material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan kualitas hasil beton yg ditargetkan.

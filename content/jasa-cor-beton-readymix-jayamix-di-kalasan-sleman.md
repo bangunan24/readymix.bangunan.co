@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman"
-date: "2024-04-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalasan
+  Sleman yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalasan Sleman** – Cor Readymix atau adukan beton siap pakai yaitu adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan jenis bahan material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.

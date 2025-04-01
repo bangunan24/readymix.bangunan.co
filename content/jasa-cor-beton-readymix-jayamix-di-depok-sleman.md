@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Depok Sleman"
-date: "2024-04-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Depok Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Depok Sleman yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Depok Sleman
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Depok Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Depok Sleman
+  yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Depok Sleman** – Beton Cor Readymix atau adukan beton siap pakai ialah campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam bahan material yg dipakaipun sama dengan ragam material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kwalitas hasil beton yang di inginkan.

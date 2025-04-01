@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sidomukti Kota Salatiga"
-date: "2024-04-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sidomukti Kota Salatiga. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidomukt..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sidomukti Kota Salatiga'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sidomukti Kota Salatiga. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Sidomukt...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sidomukti Kota Salatiga** – Beton ready mix atau beton siap pakai yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg membutuhkan mutu dan mutu yg pas.

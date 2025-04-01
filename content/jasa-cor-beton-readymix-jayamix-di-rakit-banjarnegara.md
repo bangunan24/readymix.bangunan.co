@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Rakit Banjarnegara"
-date: "2024-04-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Rakit Banjarnegara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rakit Banjarnegara..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Rakit Banjarnegara'
+date: '2025-04-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Rakit Banjarnegara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rakit
+  Banjarnegara...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Rakit Banjarnegara** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang memerlukan mutu dan kualitas yg pas.
