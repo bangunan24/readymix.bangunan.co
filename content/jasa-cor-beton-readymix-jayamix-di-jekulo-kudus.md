@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus"
-date: "2024-05-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus yang kam..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus
+  yang kam...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jekulo Kudus** – Beton Cor Readymix atau campuran beton siap pakai yaitu campuran campuran material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan ragam material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yang di inginkan.

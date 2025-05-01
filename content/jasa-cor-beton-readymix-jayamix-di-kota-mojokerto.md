@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto"
-date: "2024-05-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota
+  Mojokerto yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Mojokerto** – Beton Cor Readymix atau campuran beton siap guna yakni campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis material yg dipakaipun sama dengan variasi material adukan beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunung Kidul"
-date: "2024-05-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunung Kidul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunun..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunung Kidul
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunung Kidul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ponjong
+  Gunun...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ponjong Gunung Kidul** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe material yang dipakaipun sama dengan macam bahan material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditentukan pas dengan mutu hasil beton yang di inginkan.

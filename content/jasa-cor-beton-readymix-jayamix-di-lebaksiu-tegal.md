@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu Tegal"
-date: "2024-05-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu Tegal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu Tegal. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu Tegal'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu Tegal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lebaksiu
+  Tegal. Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Lebaksiu Tegal** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan mutu dan mutu yg tepat.

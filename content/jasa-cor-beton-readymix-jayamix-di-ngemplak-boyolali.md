@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngemplak Boyolali"
-date: "2024-05-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngemplak Boyolali. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngemplak Boyo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngemplak Boyolali'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngemplak Boyolali. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngemplak
+  Boyo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngemplak Boyolali** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan kwalitas dan mutu yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kandeman Batang"
-date: "2024-05-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kandeman Batang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kandeman Batang...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kandeman Batang'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kandeman Batang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kandeman
+  Batang....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kandeman Batang** – Beton ready mix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kualitas dan kwalitas yg ideal.

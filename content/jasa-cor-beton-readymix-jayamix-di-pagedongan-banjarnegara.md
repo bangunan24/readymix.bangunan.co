@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pagedongan Banjarnegara"
-date: "2024-05-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pagedongan Banjarnegara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pagedongan Banj..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pagedongan Banjarnegara'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pagedongan Banjarnegara. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pagedongan
+  Banj...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pagedongan Banjarnegara** – Cor Readymix atau beton siap guna ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan kualitas dan kualitas yg tepat.

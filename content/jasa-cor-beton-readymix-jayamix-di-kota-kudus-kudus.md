@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus Kudus"
-date: "2024-05-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus Kudus. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus Kud..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus Kudus'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus Kudus. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kota Kudus
+  Kud...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kota Kudus Kudus** – Beton Cor Readymix atau beton siap pakai adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang memerlukan kwalitas dan mutu yang ideal.

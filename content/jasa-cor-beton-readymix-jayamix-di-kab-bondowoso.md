@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso"
-date: "2024-05-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso yg kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso yg kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Bondowoso** – Beton Cor Readymix atau campuran beton siap pakai yakni adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan jenis bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur sesuai dengan kwalitas hasil beton yang di inginkan.

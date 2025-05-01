@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Girisubo Gunung Kidul"
-date: "2024-05-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Girisubo Gunung Kidul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Girisubo Gu..."
+title: Jasa Cor Beton Readymix & Jayamix Di Girisubo Gunung Kidul
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Girisubo Gunung Kidul. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Girisubo Gu...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Girisubo Gunung Kidul** – Beton readymix atau adukan beton siap guna merupakan campuran komposisi material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yang dipakaipun sama dengan ragam material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditentukan pas dengan kualitas hasil beton yang di inginkan.

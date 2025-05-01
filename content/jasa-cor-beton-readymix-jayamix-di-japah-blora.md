@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Japah Blora"
-date: "2024-05-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Japah Blora. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Japah Blora yg kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Japah Blora
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Japah Blora. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Japah Blora yg kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Japah Blora** – Beton readymix atau adukan beton siap pakai yaitu campuran komposisi material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe material yg dipakaipun sama dengan macam bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kualitas hasil beton yg di inginkan.

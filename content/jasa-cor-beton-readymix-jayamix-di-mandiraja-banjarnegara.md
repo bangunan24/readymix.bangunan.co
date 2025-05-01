@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mandiraja Banjarnegara"
-date: "2024-05-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mandiraja Banjarnegara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mandiraj..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mandiraja Banjarnegara'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mandiraja Banjarnegara. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Mandiraj...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mandiraja Banjarnegara** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang memerlukan mutu dan mutu yg pas.

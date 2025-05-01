@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik Magelang"
-date: "2024-05-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik Magelang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik Magelang
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik Magelang. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Kaliangkrik...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kaliangkrik Magelang** – Beton Cor Readymix atau adukan beton siap pakai adalah adukan campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

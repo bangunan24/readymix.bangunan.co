@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon Progo"
-date: "2024-05-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon Progo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon P..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon Progo
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon Progo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibawang
+  Kulon P...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalibawang Kulon Progo** – Cor Readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan ragam material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah ditetapkan sesuai dengan kwalitas hasil beton yg di inginkan.

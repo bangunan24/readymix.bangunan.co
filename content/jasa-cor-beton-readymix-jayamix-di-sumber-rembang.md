@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sumber Rembang"
-date: "2024-05-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sumber Rembang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumber Rembang. M..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sumber Rembang'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sumber Rembang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumber
+  Rembang. M...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sumber Rembang** – Beton ready mix atau beton siap guna ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan kwalitas dan kwalitas yang pas.

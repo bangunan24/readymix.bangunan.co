@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara"
-date: "2024-05-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batealit
+  Jepara yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Batealit Jepara** – Beton Cor Readymix atau campuran beton siap guna merupakan adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yang ditargetkan.

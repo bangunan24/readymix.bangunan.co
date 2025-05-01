@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal"
-date: "2024-05-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatinegara
+  Tegal yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatinegara Tegal** – Beton readymix atau adukan beton siap pakai yaitu campuran komposisi material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kwalitas hasil beton yang di inginkan.

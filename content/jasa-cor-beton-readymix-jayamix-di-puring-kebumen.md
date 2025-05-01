@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen"
-date: "2024-05-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen. Semoga d..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Puring Kebumen. Semoga
+  d...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Puring Kebumen** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg memerlukan kualitas dan mutu yang pas.

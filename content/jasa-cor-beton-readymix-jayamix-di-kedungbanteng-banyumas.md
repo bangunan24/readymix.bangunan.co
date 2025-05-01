@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Banyumas"
-date: "2024-05-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Banyumas. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Banyumas'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Banyumas. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kedungbanteng...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedungbanteng Banyumas** – Beton Cor Readymix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang memerlukan kwalitas dan kwalitas yang ideal.

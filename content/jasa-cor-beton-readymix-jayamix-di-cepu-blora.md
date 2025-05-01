@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cepu Blora"
-date: "2024-05-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cepu Blora. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepu Blora yang kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cepu Blora
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cepu Blora. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepu Blora yang kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cepu Blora** – Beton readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan jenis material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kualitas hasil beton yg di inginkan.

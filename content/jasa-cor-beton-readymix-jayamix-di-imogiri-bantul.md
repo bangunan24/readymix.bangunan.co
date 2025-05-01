@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul"
-date: "2024-05-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Imogiri
+  Bantul yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Imogiri Bantul** – Beton Cor Readymix atau adukan beton siap pakai yakni adukan campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yang dipakaipun sama dengan ragam bahan material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

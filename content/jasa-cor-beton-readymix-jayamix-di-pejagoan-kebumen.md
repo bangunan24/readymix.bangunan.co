@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen"
-date: "2024-05-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pejagoan
+  Kebumen yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pejagoan Kebumen** – Beton Cor Readymix atau campuran beton siap pakai merupakan campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis bahan material yang dipakaipun sama dengan macam material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yg ditargetkan.

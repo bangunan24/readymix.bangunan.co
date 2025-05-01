@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Watumalang Wonosobo"
-date: "2024-05-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Watumalang Wonosobo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Watumalang W..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Watumalang Wonosobo'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Watumalang Wonosobo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Watumalang
+  W...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Watumalang Wonosobo** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kwalitas dan kualitas yg pas.

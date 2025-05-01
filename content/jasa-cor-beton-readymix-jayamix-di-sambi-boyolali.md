@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sambi Boyolali"
-date: "2024-05-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sambi Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambi Boyolali. Mudah-..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sambi Boyolali'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sambi Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambi
+  Boyolali. Mudah-...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sambi Boyolali** – Beton ready mix atau beton siap pakai merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kwalitas dan kwalitas yang pas.

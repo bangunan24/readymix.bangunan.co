@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan"
-date: "2024-05-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan yang k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan
+  yang k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Pamekasan** – Cor Readymix atau adukan beton siap pakai yaitu campuran komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam material yang dipakaipun sama dengan macam bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah diatur pas dengan mutu hasil beton yg ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngaringan Grobogan"
-date: "2024-05-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngaringan Grobogan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngaringan Gr..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngaringan Grobogan'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngaringan Grobogan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngaringan
+  Gr...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngaringan Grobogan** – Beton ready mix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg didesain hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan kwalitas dan kwalitas yg tepat.

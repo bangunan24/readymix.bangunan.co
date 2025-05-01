@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten"
-date: "2024-05-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Prambanan
+  Klaten yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Prambanan Klaten** – Beton readymix atau campuran beton siap guna yaitu adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan variasi bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yg ditargetkan.

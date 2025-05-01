@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemalang"
-date: "2024-05-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemal..."
+title: Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemalang
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemalang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Petarukan
+  Pemal...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Petarukan Pemalang** – Beton readymix atau campuran beton siap pakai adalah adukan komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis material yang dipakaipun sama dengan ragam material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan mutu hasil beton yang ditargetkan.

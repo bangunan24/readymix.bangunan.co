@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo"
-date: "2024-05-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Butuh
+  Purworejo yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Butuh Purworejo** – Beton Cor Readymix atau campuran beton siap pakai adalah campuran campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan jenis material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur sesuai dengan mutu hasil beton yg di inginkan.

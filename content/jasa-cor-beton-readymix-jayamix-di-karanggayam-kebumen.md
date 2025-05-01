@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karanggayam Kebumen"
-date: "2024-05-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karanggayam Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanggayam..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karanggayam Kebumen'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karanggayam Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karanggayam...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karanggayam Kebumen** – Beton Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg membutuhkan kwalitas dan kualitas yang tepat.

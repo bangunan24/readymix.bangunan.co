@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ngampilan"
-date: "2024-05-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ngampilan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngampilan yang kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ngampilan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ngampilan. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngampilan yang kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ngampilan** – Cor Readymix atau adukan beton siap pakai merupakan adukan campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan ragam bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan mutu hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngombol Purworejo"
-date: "2024-05-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngombol Purworejo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngombol Purwor..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngombol Purworejo'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngombol Purworejo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngombol
+  Purwor...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngombol Purworejo** – Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan kwalitas dan mutu yang tepat.

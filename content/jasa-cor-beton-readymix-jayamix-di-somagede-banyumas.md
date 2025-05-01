@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Somagede Banyumas"
-date: "2024-05-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Somagede Banyumas. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Somagede Banyumas. Se..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Somagede Banyumas'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Somagede Banyumas. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Somagede
+  Banyumas. Se...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Somagede Banyumas** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg memerlukan mutu dan kualitas yang tepat.

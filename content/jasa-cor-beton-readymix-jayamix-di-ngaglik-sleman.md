@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman"
-date: "2024-05-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngaglik
+  Sleman yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ngaglik Sleman** – Cor Readymix atau adukan beton siap pakai adalah adukan komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam bahan material yang dipakaipun sama dengan variasi material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo"
-date: "2024-05-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota
+  Probolinggo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Probolinggo** – Beton readymix atau adukan beton siap pakai merupakan adukan komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam bahan material yg dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditentukan sesuai dengan kwalitas hasil beton yang di inginkan.

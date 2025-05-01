@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo Purworejo"
-date: "2024-05-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo Purworejo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo Purworejo...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo Purworejo'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo Purworejo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kutoarjo
+  Purworejo....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kutoarjo Purworejo** – Beton Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kualitas dan kwalitas yang pas.

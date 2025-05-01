@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen"
-date: "2024-05-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gombong
+  Kebumen yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gombong Kebumen** – Beton Cor Readymix atau campuran beton siap pakai yakni campuran campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan jenis material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan kwalitas hasil beton yang di inginkan.

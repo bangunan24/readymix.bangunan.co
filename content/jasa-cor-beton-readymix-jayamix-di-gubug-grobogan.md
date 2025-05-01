@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan"
-date: "2024-05-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gubug
+  Grobogan yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gubug Grobogan** – Beton readymix atau campuran beton siap pakai yaitu adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah diatur pas dengan kwalitas hasil beton yang di inginkan.

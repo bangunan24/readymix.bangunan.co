@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Banyumanik Kota Semarang"
-date: "2024-05-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Banyumanik Kota Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyumani..."
+title: Jasa Cor Beton Readymix & Jayamix Di Banyumanik Kota Semarang
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Banyumanik Kota Semarang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Banyumani...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Banyumanik Kota Semarang** – Beton readymix atau adukan beton siap guna ialah campuran campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yg ditargetkan.

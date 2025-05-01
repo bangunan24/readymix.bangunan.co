@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas"
-date: "2024-05-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ajibarang
+  Banyumas y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ajibarang Banyumas** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan tipe material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan kualitas hasil beton yang di inginkan.

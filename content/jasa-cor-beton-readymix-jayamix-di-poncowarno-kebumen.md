@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Poncowarno Kebumen"
-date: "2024-05-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Poncowarno Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Poncowarno Keb..."
+title: Jasa Cor Beton Readymix & Jayamix Di Poncowarno Kebumen
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Poncowarno Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Poncowarno
+  Keb...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Poncowarno Kebumen** – Beton Cor Readymix atau campuran beton siap guna yaitu campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan mutu hasil beton yg ditargetkan.

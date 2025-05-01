@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Todanan Blora"
-date: "2024-05-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Todanan Blora. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Todanan Blora. Ka..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Todanan Blora'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Todanan Blora. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Todanan
+  Blora. Ka...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Todanan Blora** – Beton ready mix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan kwalitas dan mutu yg ideal.

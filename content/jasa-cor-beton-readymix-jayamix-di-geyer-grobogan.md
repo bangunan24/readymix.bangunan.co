@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan"
-date: "2024-05-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Geyer
+  Grobogan yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Geyer Grobogan** – Beton Cor Readymix atau campuran beton siap pakai adalah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yg ditargetkan.

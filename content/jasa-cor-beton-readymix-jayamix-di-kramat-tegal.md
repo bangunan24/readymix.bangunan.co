@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal"
-date: "2024-05-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal. Semog..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kramat Tegal.
+  Semog...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kramat Tegal** – Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg didesain hanya untuk pengecoran secara cepat atau instant pada project pengecoran yg membutuhkan kualitas dan kwalitas yg tepat.

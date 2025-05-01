@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pandanarum Banjarnegara"
-date: "2024-05-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pandanarum Banjarnegara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pandana..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pandanarum Banjarnegara'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pandanarum Banjarnegara. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Pandana...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pandanarum Banjarnegara** – Beton Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yg memerlukan kualitas dan kualitas yg tepat.

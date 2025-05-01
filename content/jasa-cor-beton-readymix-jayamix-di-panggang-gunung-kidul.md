@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kidul"
-date: "2024-05-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kid..."
+title: Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kidul
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Panggang
+  Gunung Kid...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Panggang Gunung Kidul** – Cor Readymix atau campuran beton siap guna yakni campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya macam bahan material yang dipakaipun sama dengan macam bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kwalitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngaliyan Kota Semarang"
-date: "2024-05-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngaliyan Kota Semarang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngaliyan..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngaliyan Kota Semarang'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngaliyan Kota Semarang. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Ngaliyan...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngaliyan Kota Semarang** – Beton Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada project pengecoran yang membutuhkan kualitas dan mutu yg tepat.

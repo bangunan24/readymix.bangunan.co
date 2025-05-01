@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang"
-date: "2024-05-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandongan
+  Magelang y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bandongan Magelang** – Beton readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis bahan material yg dipakaipun sama dengan macam bahan material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan mutu hasil beton yang di inginkan.

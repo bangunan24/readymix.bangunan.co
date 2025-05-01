@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Warungpring Pemalang"
-date: "2024-05-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Warungpring Pemalang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warungpring Pema..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Warungpring Pemalang'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Warungpring Pemalang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warungpring
+  Pema...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Warungpring Pemalang** – Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg memerlukan mutu dan kwalitas yg ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung"
-date: "2024-05-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jumo
+  Temanggung y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jumo Temanggung** – Beton Cor Readymix atau campuran beton siap guna adalah adukan campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan tipe material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan pas dengan mutu hasil beton yg ditargetkan.

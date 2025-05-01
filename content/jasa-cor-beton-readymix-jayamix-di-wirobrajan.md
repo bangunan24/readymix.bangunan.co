@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Wirobrajan"
-date: "2024-05-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Wirobrajan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wirobrajan yg kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Wirobrajan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Wirobrajan. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wirobrajan yg kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Wirobrajan** – Cor Readymix atau campuran beton siap pakai merupakan campuran campuran material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan jenis material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan mutu hasil beton yang di inginkan.

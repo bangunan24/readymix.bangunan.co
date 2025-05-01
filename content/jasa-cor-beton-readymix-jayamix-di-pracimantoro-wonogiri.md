@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pracimantoro Wonogiri"
-date: "2024-05-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pracimantoro Wonogiri. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pracimantor..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pracimantoro Wonogiri
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pracimantoro Wonogiri. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Pracimantor...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pracimantoro Wonogiri** – Beton readymix atau adukan beton siap pakai adalah adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan tipe bahan material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yang ditargetkan.

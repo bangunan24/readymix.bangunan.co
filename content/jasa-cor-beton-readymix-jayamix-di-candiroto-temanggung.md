@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggung"
-date: "2024-05-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggung. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggu..."
+title: Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggung
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggung. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Candiroto
+  Temanggu...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Candiroto Temanggung** – Cor Readymix atau adukan beton siap guna ialah campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Rawalo Banyumas"
-date: "2024-05-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Rawalo Banyumas. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rawalo Banyumas..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Rawalo Banyumas'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Rawalo Banyumas. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rawalo
+  Banyumas...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Rawalo Banyumas** – Beton Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yang memerlukan kwalitas dan kwalitas yg pas.

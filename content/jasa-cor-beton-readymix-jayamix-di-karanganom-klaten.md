@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karanganom Klaten"
-date: "2024-05-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karanganom Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanganom Klaten...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karanganom Klaten'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karanganom Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanganom
+  Klaten....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karanganom Klaten** – Beton Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan kwalitas dan kwalitas yang ideal.

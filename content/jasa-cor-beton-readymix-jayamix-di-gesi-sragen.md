@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen"
-date: "2024-05-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gesi Sragen** – Beton readymix atau campuran beton siap pakai ialah adukan campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis material yg dipakaipun sama dengan ragam material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kualitas hasil beton yang di inginkan.

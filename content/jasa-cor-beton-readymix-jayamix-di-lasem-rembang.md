@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Lasem Rembang"
-date: "2024-05-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Lasem Rembang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lasem Rembang. Sem..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Lasem Rembang'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Lasem Rembang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lasem
+  Rembang. Sem...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Lasem Rembang** – Beton ready mix atau beton siap guna yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang memerlukan kualitas dan kualitas yg tepat.

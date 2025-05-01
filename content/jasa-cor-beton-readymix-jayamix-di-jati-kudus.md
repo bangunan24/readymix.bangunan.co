@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jati Kudus"
-date: "2024-05-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jati Kudus. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jati Kudus yang kami pa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jati Kudus
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jati Kudus. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jati Kudus
+  yang kami pa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jati Kudus** – Beton Cor Readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yg ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat"
-date: "2024-05-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat. Mudah-m..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tegal Barat.
+  Mudah-m...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tegal Barat** – Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yang memerlukan mutu dan kwalitas yg ideal.

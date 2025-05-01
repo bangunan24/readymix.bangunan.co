@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap"
-date: "2024-05-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sampang Cilacap.
+  Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sampang Cilacap** – Beton ready mix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan mutu dan kwalitas yg tepat.

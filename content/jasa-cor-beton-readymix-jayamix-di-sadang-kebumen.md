@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sadang Kebumen"
-date: "2024-05-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sadang Kebumen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sadang Kebumen. Mudah-..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sadang Kebumen'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sadang Kebumen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sadang
+  Kebumen. Mudah-...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sadang Kebumen** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kwalitas dan mutu yang tepat.

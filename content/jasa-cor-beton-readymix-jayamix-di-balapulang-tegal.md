@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal"
-date: "2024-05-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal..."
+title: Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Balapulang
+  Tegal...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Balapulang Tegal** – Cor Readymix atau campuran beton siap pakai ialah adukan campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yg dipakaipun sama dengan macam material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan sesuai dengan kualitas hasil beton yang ditargetkan.

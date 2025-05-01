@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Weru Sukoharjo"
-date: "2024-05-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Weru Sukoharjo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Weru Sukoharjo. K..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Weru Sukoharjo'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Weru Sukoharjo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Weru
+  Sukoharjo. K...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Weru Sukoharjo** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yang membutuhkan mutu dan kwalitas yang pas.

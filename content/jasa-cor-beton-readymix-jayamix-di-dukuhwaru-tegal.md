@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal"
-date: "2024-05-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru
+  Tegal y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dukuhwaru Tegal** – Cor Readymix atau campuran beton siap pakai adalah campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan jenis material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan kwalitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sigaluh Banjarnegara"
-date: "2024-05-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sigaluh Banjarnegara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sigaluh Ba..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sigaluh Banjarnegara'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sigaluh Banjarnegara. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sigaluh
+  Ba...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sigaluh Banjarnegara** – Beton Cor Readymix atau beton siap guna adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan kualitas dan mutu yg tepat.

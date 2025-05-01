@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Klego Boyolali"
-date: "2024-05-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Klego Boyolali. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klego Boyolali...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Klego Boyolali'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Klego Boyolali. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klego
+  Boyolali....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Klego Boyolali** – Beton Cor Readymix atau beton siap guna ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg memerlukan kwalitas dan mutu yg tepat.

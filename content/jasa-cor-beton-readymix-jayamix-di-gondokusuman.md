@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gondokusuman"
-date: "2024-05-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gondokusuman. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondokusuman yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gondokusuman
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gondokusuman. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondokusuman yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gondokusuman** – Beton readymix atau campuran beton siap guna yaitu campuran campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam bahan material yg dipakaipun sama dengan jenis bahan material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

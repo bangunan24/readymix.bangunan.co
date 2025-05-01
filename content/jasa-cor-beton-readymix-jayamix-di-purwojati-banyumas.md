@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwojati Banyumas"
-date: "2024-05-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwojati Banyumas. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwojati Ban..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwojati Banyumas'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwojati Banyumas. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwojati
+  Ban...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwojati Banyumas** – Beton ready mix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan kualitas dan kualitas yg pas.

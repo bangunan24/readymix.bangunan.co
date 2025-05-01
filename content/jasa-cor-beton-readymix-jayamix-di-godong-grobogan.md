@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan"
-date: "2024-05-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Godong
+  Grobogan yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Godong Grobogan** – Beton readymix atau campuran beton siap pakai adalah adukan campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan tipe material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah diatur pas dengan kwalitas hasil beton yang di inginkan.

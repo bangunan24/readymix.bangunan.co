@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Madukara Banjarnegara"
-date: "2024-05-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Madukara Banjarnegara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Madukara B..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Madukara Banjarnegara'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Madukara Banjarnegara. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Madukara B...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Madukara Banjarnegara** – Beton Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yang memerlukan kwalitas dan kwalitas yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tangen Sragen"
-date: "2024-05-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tangen Sragen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tangen Sragen. Ka..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tangen Sragen'
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tangen Sragen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tangen
+  Sragen. Ka...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tangen Sragen** – Beton Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang memerlukan kwalitas dan kualitas yang pas.

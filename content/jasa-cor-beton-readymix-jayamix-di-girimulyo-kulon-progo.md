@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Girimulyo Kulon Progo"
-date: "2024-05-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Girimulyo Kulon Progo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Girimulyo K..."
+title: Jasa Cor Beton Readymix & Jayamix Di Girimulyo Kulon Progo
+date: '2025-05-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Girimulyo Kulon Progo. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Girimulyo K...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Girimulyo Kulon Progo** – Cor Readymix atau adukan beton siap pakai yaitu campuran campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yg dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.
