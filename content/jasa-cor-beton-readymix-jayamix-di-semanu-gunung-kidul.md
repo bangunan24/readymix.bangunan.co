@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul"
-date: "2024-06-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul..."
+title: Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung
+  Kidul...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Semanu Gunung Kidul** – Beton readymix atau campuran beton siap pakai merupakan campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam bahan material yang dipakaipun sama dengan ragam material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.

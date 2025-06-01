@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwanegara Banjarnegara"
-date: "2024-06-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwanegara Banjarnegara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwanegara..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwanegara Banjarnegara'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwanegara Banjarnegara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Purwanegara...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwanegara Banjarnegara** – Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan kwalitas dan mutu yg pas.

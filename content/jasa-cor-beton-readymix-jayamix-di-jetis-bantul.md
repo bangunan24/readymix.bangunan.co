@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul"
-date: "2024-06-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jetis Bantul** – Beton Cor Readymix atau campuran beton siap pakai yaitu campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yang dipakaipun sama dengan variasi material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan sesuai dengan kwalitas hasil beton yg di inginkan.

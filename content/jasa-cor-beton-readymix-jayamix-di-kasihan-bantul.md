@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul"
-date: "2024-06-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kasihan
+  Bantul yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kasihan Bantul** – Cor Readymix atau adukan beton siap pakai adalah adukan campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe material yang dipakaipun sama dengan tipe material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.

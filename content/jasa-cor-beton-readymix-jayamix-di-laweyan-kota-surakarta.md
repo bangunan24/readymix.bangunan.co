@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Surakarta"
-date: "2024-06-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Surakarta. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Sur..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Surakarta'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Surakarta. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota
+  Sur...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Laweyan Kota Surakarta** – Beton Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yg memerlukan kwalitas dan mutu yang pas.

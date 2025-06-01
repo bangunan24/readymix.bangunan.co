@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gondomanan"
-date: "2024-06-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gondomanan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondomanan yang kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gondomanan
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gondomanan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondomanan
+  yang kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gondomanan** – Beton Cor Readymix atau campuran beton siap guna yakni campuran campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yang di inginkan.

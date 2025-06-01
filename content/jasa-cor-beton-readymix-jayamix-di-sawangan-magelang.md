@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sawangan Magelang"
-date: "2024-06-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sawangan Magelang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sawangan Mage..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sawangan Magelang'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sawangan Magelang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sawangan
+  Mage...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sawangan Magelang** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan kualitas yg pas.

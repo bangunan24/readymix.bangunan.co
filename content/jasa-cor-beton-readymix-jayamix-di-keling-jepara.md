@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara"
-date: "2024-06-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara. Mudah-mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Keling Jepara.
+  Mudah-mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Keling Jepara** – Beton Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan mutu dan mutu yang ideal.

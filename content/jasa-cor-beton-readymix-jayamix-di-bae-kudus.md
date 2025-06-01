@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bae Kudus"
-date: "2024-06-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bae Kudus. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bae Kudus yang kami paparkan, A..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bae Kudus
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bae Kudus. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bae Kudus yang kami
+  paparkan, A...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bae Kudus** – Beton readymix atau adukan beton siap pakai adalah campuran campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan mutu hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk"
-date: "2024-06-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Nganjuk** – Beton readymix atau campuran beton siap guna yaitu campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.

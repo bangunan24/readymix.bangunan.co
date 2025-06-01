@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten"
-date: "2024-06-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pedan Klaten** – Beton Cor Readymix atau campuran beton siap pakai adalah adukan campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan pas dengan kwalitas hasil beton yang ditargetkan.

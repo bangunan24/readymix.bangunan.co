@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen"
-date: "2024-06-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondang
+  Sragen yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gondang Sragen** – Cor Readymix atau campuran beton siap pakai ialah campuran campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe bahan material yg dipakaipun sama dengan variasi material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

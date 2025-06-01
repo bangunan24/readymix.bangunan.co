@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati"
-date: "2024-06-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tambakromo Pati.
+  Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tambakromo Pati** – Beton Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kwalitas dan kualitas yang ideal.

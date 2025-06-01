@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sruweng Kebumen"
-date: "2024-06-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sruweng Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sruweng Kebumen..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sruweng Kebumen'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sruweng Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sruweng
+  Kebumen...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sruweng Kebumen** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang membutuhkan kwalitas dan kwalitas yang ideal.

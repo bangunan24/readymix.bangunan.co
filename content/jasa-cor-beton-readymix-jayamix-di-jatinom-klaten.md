@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten"
-date: "2024-06-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatinom
+  Klaten yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatinom Klaten** – Beton Cor Readymix atau adukan beton siap guna yakni adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam material yg dipakaipun sama dengan macam bahan material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kwalitas hasil beton yg ditargetkan.

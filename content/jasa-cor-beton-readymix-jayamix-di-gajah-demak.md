@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gajah Demak"
-date: "2024-06-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gajah Demak. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gajah Demak yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gajah Demak
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gajah Demak. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gajah Demak
+  yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gajah Demak** – Beton readymix atau adukan beton siap guna yaitu adukan komposisi material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan jenis material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditentukan pas dengan kwalitas hasil beton yang di inginkan.

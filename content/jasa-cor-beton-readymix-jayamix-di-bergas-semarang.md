@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang"
-date: "2024-06-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bergas
+  Semarang yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bergas Semarang** – Beton Cor Readymix atau campuran beton siap pakai yaitu campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe material yg dipakaipun sama dengan macam material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yg ditargetkan.

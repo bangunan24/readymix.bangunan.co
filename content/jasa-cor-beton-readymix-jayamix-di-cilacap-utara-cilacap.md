@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cilacap"
-date: "2024-06-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cil..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cilacap
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara
+  Cil...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cilacap Utara Cilacap** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam material yg dipakaipun sama dengan jenis bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo"
-date: "2024-06-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gebang
+  Purworejo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gebang Purworejo** – Beton Cor Readymix atau campuran beton siap pakai yaitu adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan ragam bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah diatur pas dengan kualitas hasil beton yang ditargetkan.

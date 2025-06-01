@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap"
-date: "2024-06-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap. Kami harap b..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Maos Cilacap. Kami harap
+  b...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Maos Cilacap** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yang membutuhkan kualitas dan kualitas yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bandar Batang"
-date: "2024-06-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bandar Batang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandar Batang yg kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bandar Batang
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bandar Batang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandar Batang yg kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bandar Batang** – Beton readymix atau campuran beton siap guna yaitu adukan campuran material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis material yg dipakaipun sama dengan variasi bahan material adukan beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yg ditargetkan.

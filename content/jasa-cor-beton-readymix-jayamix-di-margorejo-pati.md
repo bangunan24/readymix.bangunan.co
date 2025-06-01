@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Margorejo Pati"
-date: "2024-06-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Margorejo Pati. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margorejo Pati. Kami h..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Margorejo Pati'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Margorejo Pati. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margorejo
+  Pati. Kami h...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Margorejo Pati** – Beton ready mix atau beton siap guna adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan mutu dan kualitas yang ideal.

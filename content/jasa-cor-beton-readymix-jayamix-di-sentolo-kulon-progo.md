@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo"
-date: "2024-06-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon
+  Progo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Sentolo Kulon Progo** – Beton Cor Readymix atau campuran beton siap guna adalah campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

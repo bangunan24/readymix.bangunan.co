@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jati Blora"
-date: "2024-06-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jati Blora. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jati Blora yang kami pa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jati Blora
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jati Blora. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jati Blora
+  yang kami pa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jati Blora** – Beton readymix atau adukan beton siap guna yaitu adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya macam bahan material yang dipakaipun sama dengan macam material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan mutu hasil beton yang ditargetkan.

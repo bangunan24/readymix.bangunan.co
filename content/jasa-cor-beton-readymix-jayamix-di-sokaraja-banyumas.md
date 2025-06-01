@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sokaraja Banyumas"
-date: "2024-06-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sokaraja Banyumas. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sokaraja Banyumas...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sokaraja Banyumas'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sokaraja Banyumas. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sokaraja
+  Banyumas....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sokaraja Banyumas** – Cor Readymix atau beton siap guna adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instant pada project pengecoran yang membutuhkan mutu dan kwalitas yg tepat.

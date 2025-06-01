@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Warungasem Batang"
-date: "2024-06-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Warungasem Batang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warungasem Bat..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Warungasem Batang'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Warungasem Batang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warungasem
+  Bat...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Warungasem Batang** – Beton Cor Readymix atau beton siap guna adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg membutuhkan kwalitas dan kwalitas yg tepat.

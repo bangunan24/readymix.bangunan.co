@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo"
-date: "2024-06-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyuurip
+  Purworejo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo** – Beton readymix atau campuran beton siap guna yaitu campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Tanjungsari Gunung Kidul"
-date: "2024-06-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Tanjungsari Gunung Kidul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tanjungsa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Tanjungsari Gunung Kidul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Tanjungsari Gunung Kidul. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Tanjungsa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Tanjungsari Gunung Kidul** – Beton readymix atau campuran beton siap pakai yakni adukan campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam material yg dipakaipun sama dengan macam bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yang ditargetkan.

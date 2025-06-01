@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mojosongo Boyolali"
-date: "2024-06-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mojosongo Boyolali. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mojosongo Bo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mojosongo Boyolali'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mojosongo Boyolali. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mojosongo
+  Bo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mojosongo Boyolali** – Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg memerlukan kualitas dan kwalitas yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Guntur Demak"
-date: "2024-06-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Guntur Demak. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Guntur Demak yg kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Guntur Demak
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Guntur Demak. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Guntur Demak yg kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Guntur Demak** – Cor Readymix atau adukan beton siap pakai ialah campuran komposisi material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam material yang dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditentukan pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati"
-date: "2024-06-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu
+  Pati....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tlogowungu Pati** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yg memerlukan kwalitas dan kwalitas yg tepat.

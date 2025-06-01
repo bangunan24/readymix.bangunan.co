@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Lumbir Banyumas"
-date: "2024-06-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Lumbir Banyumas. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lumbir Banyumas...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Lumbir Banyumas'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Lumbir Banyumas. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Lumbir
+  Banyumas....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Lumbir Banyumas** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg memerlukan kualitas dan kwalitas yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangkobar Banjarnegara"
-date: "2024-06-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangkobar Banjarnegara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karang..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangkobar Banjarnegara'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangkobar Banjarnegara. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karang...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangkobar Banjarnegara** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yang memerlukan kualitas dan kwalitas yg pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek"
-date: "2024-06-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab
+  Trenggalek yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Trenggalek** – Beton readymix atau adukan beton siap guna ialah adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis bahan material yg dipakaipun sama dengan tipe material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yang ditargetkan.

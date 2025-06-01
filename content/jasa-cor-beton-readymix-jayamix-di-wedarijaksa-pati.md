@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa Pati"
-date: "2024-06-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa Pat..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa Pati'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wedarijaksa
+  Pat...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wedarijaksa Pati** – Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang memerlukan kualitas dan mutu yang pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Tuban"
-date: "2024-06-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Tuban. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Tuban yg kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Tuban
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Tuban. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Tuban yg
+  kami papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Tuban** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan jenis material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah diatur sesuai dengan kwalitas hasil beton yang ditargetkan.

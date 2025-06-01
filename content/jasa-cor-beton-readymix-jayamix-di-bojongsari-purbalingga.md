@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bojongsari Purbalingga"
-date: "2024-06-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bojongsari Purbalingga. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bojongsari..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bojongsari Purbalingga
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bojongsari Purbalingga. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Bojongsari...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bojongsari Purbalingga** – Beton Cor Readymix atau adukan beton siap guna yaitu campuran komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis material yg dipakaipun sama dengan jenis bahan material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yg ditargetkan.

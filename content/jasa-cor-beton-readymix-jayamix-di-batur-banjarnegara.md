@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara"
-date: "2024-06-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batur
+  Banjarnegara y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Batur Banjarnegara** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

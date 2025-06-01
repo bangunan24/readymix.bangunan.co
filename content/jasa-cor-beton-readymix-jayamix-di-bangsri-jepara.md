@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara"
-date: "2024-06-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara yang kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara yang kami
+  p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bangsri Jepara** – Beton Cor Readymix atau adukan beton siap pakai ialah adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan jenis material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kwalitas hasil beton yg di inginkan.

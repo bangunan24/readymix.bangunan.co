@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal"
-date: "2024-06-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gemuh Kendal** – Beton readymix atau campuran beton siap pakai ialah adukan komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya jenis material yg dipakaipun sama dengan ragam bahan material adukan beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan kualitas hasil beton yg di inginkan.

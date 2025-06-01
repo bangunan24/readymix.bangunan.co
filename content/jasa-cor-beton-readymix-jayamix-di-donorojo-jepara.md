@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara"
-date: "2024-06-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Donorojo
+  Jepara yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Donorojo Jepara** – Beton readymix atau campuran beton siap guna adalah campuran komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan macam material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sambong Blora"
-date: "2024-06-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sambong Blora. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambong Blora. Sem..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sambong Blora'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sambong Blora. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambong
+  Blora. Sem...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sambong Blora** – Beton Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan kualitas dan kualitas yg pas.

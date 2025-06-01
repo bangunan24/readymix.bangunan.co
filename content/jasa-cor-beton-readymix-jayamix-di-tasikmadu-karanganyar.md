@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tasikmadu Karanganyar"
-date: "2024-06-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tasikmadu Karanganyar. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tasikmadu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tasikmadu Karanganyar'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tasikmadu Karanganyar. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Tasikmadu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tasikmadu Karanganyar** – Cor Readymix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan mutu dan kualitas yang ideal.

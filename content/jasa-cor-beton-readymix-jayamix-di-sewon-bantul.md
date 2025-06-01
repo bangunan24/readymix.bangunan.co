@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul"
-date: "2024-06-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul yang kam..."
+title: Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul
+  yang kam...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Sewon Bantul** – Beton readymix atau campuran beton siap guna yaitu adukan komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan tipe material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan mutu hasil beton yg ditargetkan.

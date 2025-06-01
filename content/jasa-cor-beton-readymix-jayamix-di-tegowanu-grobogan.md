@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tegowanu Grobogan"
-date: "2024-06-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tegowanu Grobogan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tegowanu Grobogan...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tegowanu Grobogan'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tegowanu Grobogan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tegowanu
+  Grobogan....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tegowanu Grobogan** – Beton ready mix atau beton siap pakai yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang memerlukan mutu dan mutu yang pas.

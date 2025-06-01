@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Serengan Kota Surakarta"
-date: "2024-06-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Serengan Kota Surakarta. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Serengan Kota..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Serengan Kota Surakarta'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Serengan Kota Surakarta. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Serengan
+  Kota...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Serengan Kota Surakarta** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg memerlukan mutu dan kualitas yang pas.

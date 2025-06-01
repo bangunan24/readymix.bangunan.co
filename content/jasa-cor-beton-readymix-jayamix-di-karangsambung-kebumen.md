@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangsambung Kebumen"
-date: "2024-06-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangsambung Kebumen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangsamb..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangsambung Kebumen'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangsambung Kebumen. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karangsamb...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangsambung Kebumen** – Beton ready mix atau beton siap guna yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan kwalitas dan mutu yang pas.

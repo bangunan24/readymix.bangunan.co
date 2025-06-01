@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul"
-date: "2024-06-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul yg kam..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul
+  yg kam...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pandak Bantul** – Beton readymix atau adukan beton siap guna ialah campuran campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya macam bahan material yang dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Talun Pekalongan"
-date: "2024-06-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Talun Pekalongan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Talun Pekalong..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Talun Pekalongan'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Talun Pekalongan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Talun
+  Pekalong...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Talun Pekalongan** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau instant pada project pengecoran yang membutuhkan kwalitas dan kualitas yang tepat.

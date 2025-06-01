@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen"
-date: "2024-06-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen. Kami harap b..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tanon Sragen. Kami harap
+  b...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tanon Sragen** – Beton Cor Readymix atau beton siap guna yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yang memerlukan kualitas dan mutu yg ideal.

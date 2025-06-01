@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar"
-date: "2024-06-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Colomadu
+  Karanganyar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Colomadu Karanganyar** – Beton Cor Readymix atau campuran beton siap guna ialah campuran campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam material yang dipakaipun sama dengan tipe bahan material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwantoro Wonogiri"
-date: "2024-06-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwantoro Wonogiri. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwantoro W..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwantoro Wonogiri'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwantoro Wonogiri. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwantoro
+  W...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwantoro Wonogiri** – Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yg membutuhkan kwalitas dan kwalitas yg ideal.

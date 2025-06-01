@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan"
-date: "2024-06-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan
+  yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Pacitan** – Beton readymix atau adukan beton siap pakai ialah adukan campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan macam material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan kualitas hasil beton yg ditargetkan.

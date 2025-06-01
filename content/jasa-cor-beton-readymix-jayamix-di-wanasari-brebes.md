@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wanasari Brebes"
-date: "2024-06-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wanasari Brebes. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanasari Brebes..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wanasari Brebes'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wanasari Brebes. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wanasari
+  Brebes...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wanasari Brebes** – Beton ready mix atau beton siap guna adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan kwalitas dan kualitas yg tepat.

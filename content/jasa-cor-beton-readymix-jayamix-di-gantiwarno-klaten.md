@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten"
-date: "2024-06-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gantiwarno
+  Klaten yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gantiwarno Klaten** – Beton readymix atau campuran beton siap pakai adalah adukan komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan tipe material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg telah diatur sesuai dengan kwalitas hasil beton yang di inginkan.

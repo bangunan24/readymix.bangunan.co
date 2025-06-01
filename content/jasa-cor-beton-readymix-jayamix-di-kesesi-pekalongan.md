@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kesesi Pekalongan"
-date: "2024-06-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kesesi Pekalongan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kesesi Pekalon..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kesesi Pekalongan'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kesesi Pekalongan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kesesi
+  Pekalon...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kesesi Pekalongan** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yang memerlukan kualitas dan kualitas yang ideal.

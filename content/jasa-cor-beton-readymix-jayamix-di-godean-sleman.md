@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Godean Sleman"
-date: "2024-06-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Godean Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Godean Sleman yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Godean Sleman
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Godean Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Godean Sleman
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Godean Sleman** – Beton readymix atau campuran beton siap guna yakni adukan campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe material yg dipakaipun sama dengan tipe bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yg ditargetkan.

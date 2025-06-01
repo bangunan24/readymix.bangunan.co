@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gemawang Temanggung"
-date: "2024-06-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gemawang Temanggung. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemawang Teman..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gemawang Temanggung
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gemawang Temanggung. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemawang
+  Teman...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gemawang Temanggung** – Beton readymix atau campuran beton siap guna ialah campuran komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan pas dengan mutu hasil beton yang ditargetkan.

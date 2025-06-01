@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Cilacap"
-date: "2024-06-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Cilacap. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Ci..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Cilacap
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Cilacap. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur
+  Ci...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dayeuhluhur Cilacap** – Cor Readymix atau adukan beton siap pakai ialah campuran komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis bahan material yg dipakaipun sama dengan variasi material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg di inginkan.

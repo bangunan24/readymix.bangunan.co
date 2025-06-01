@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Petungkriono Pekalongan"
-date: "2024-06-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Petungkriono Pekalongan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Petungkri..."
+title: Jasa Cor Beton Readymix & Jayamix Di Petungkriono Pekalongan
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Petungkriono Pekalongan. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Petungkri...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Petungkriono Pekalongan** – Beton readymix atau campuran beton siap guna yaitu adukan campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan pas dengan mutu hasil beton yang ditargetkan.

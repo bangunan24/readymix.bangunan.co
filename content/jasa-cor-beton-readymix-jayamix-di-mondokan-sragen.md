@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mondokan Sragen"
-date: "2024-06-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mondokan Sragen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mondokan Sragen. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mondokan Sragen'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mondokan Sragen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mondokan
+  Sragen. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mondokan Sragen** – Beton ready mix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan kualitas dan kwalitas yang tepat.

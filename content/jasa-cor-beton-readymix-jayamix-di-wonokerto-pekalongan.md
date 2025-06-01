@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonokerto Pekalongan"
-date: "2024-06-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonokerto Pekalongan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonokerto Pekalong..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonokerto Pekalongan'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonokerto Pekalongan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonokerto
+  Pekalong...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonokerto Pekalongan** – Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada project pengecoran yg membutuhkan kwalitas dan kualitas yg pas.

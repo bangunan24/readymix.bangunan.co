@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tembalang"
-date: "2024-06-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tembalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tembalang. Semoga dapa..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tembalang'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tembalang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tembalang.
+  Semoga dapa...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tembalang** – Beton ready mix atau beton siap pakai adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yang memerlukan kualitas dan kwalitas yang ideal.

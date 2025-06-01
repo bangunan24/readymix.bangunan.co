@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Tegal"
-date: "2024-06-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Tegal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungbante..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Tegal'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedungbanteng Tegal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kedungbante...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedungbanteng Tegal** – Beton Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan mutu dan kualitas yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Limpung Batang"
-date: "2024-06-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Limpung Batang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Limpung Batang...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Limpung Batang'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Limpung Batang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Limpung
+  Batang....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Limpung Batang** – Beton Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau instant pada project pengecoran yang membutuhkan kualitas dan mutu yg ideal.

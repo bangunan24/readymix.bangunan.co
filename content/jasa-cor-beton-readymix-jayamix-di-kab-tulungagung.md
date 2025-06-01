@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung"
-date: "2024-06-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab
+  Tulungagung yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Tulungagung** – Beton Cor Readymix atau adukan beton siap pakai merupakan campuran campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan jenis material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan kwalitas hasil beton yg di inginkan.

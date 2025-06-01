@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo Sragen"
-date: "2024-06-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo Sragen. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo Sragen'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo Sragen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidoharjo
+  Sragen. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sidoharjo Sragen** – Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kwalitas dan mutu yang ideal.

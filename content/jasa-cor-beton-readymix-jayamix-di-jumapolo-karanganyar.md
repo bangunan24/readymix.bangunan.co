@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karanganyar"
-date: "2024-06-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karanganyar. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karangany..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karanganyar
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karanganyar. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jumapolo
+  Karangany...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jumapolo Karanganyar** – Cor Readymix atau adukan beton siap pakai yakni campuran campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan ragam material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kualitas hasil beton yg ditargetkan.

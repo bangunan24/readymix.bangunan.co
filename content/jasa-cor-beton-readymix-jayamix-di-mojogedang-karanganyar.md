@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mojogedang Karanganyar"
-date: "2024-06-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mojogedang Karanganyar. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mojogedang Karan..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mojogedang Karanganyar'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mojogedang Karanganyar. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mojogedang
+  Karan...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mojogedang Karanganyar** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang membutuhkan kualitas dan mutu yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal"
-date: "2024-06-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal. Kami harap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pangkah Tegal. Kami
+  harap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pangkah Tegal** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau instant pada project pengecoran yang memerlukan kwalitas dan mutu yang ideal.

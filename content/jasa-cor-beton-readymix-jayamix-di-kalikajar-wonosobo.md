@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo"
-date: "2024-06-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalikajar
+  Wonosobo y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalikajar Wonosobo** – Beton readymix atau adukan beton siap guna ialah campuran campuran material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan macam material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan kwalitas hasil beton yg ditargetkan.

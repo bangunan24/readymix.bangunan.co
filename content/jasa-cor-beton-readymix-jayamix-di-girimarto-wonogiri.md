@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri"
-date: "2024-06-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Girimarto
+  Wonogiri y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Girimarto Wonogiri** – Cor Readymix atau campuran beton siap guna yaitu adukan komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan macam bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kwalitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kebakkramat Karanganyar"
-date: "2024-06-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kebakkramat Karanganyar. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kebakkra..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kebakkramat Karanganyar'
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kebakkramat Karanganyar. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kebakkra...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kebakkramat Karanganyar** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang memerlukan kualitas dan mutu yang ideal.

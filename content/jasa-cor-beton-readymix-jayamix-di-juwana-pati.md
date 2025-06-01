@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Juwana Pati"
-date: "2024-06-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Juwana Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Juwana Pati yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Juwana Pati
+date: '2025-06-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Juwana Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Juwana Pati yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Juwana Pati** – Beton Cor Readymix atau adukan beton siap guna ialah campuran komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan macam material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yg di inginkan.
