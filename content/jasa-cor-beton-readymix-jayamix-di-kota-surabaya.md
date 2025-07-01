@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya"
-date: "2024-07-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya yang k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya
+  yang k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Surabaya** – Cor Readymix atau campuran beton siap guna adalah campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya jenis material yang dipakaipun sama dengan macam bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan sesuai dengan kwalitas hasil beton yang di inginkan.

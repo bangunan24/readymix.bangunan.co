@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Panjatan Kulon Progo"
-date: "2024-07-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Panjatan Kulon Progo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Panjatan Kul..."
+title: Jasa Cor Beton Readymix & Jayamix Di Panjatan Kulon Progo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Panjatan Kulon Progo. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Panjatan Kul...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Panjatan Kulon Progo** – Beton Cor Readymix atau campuran beton siap pakai ialah campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi material yg dipakaipun sama dengan ragam material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul"
-date: "2024-07-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dlingo Bantul** – Beton readymix atau adukan beton siap guna ialah adukan campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan tipe material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yang ditargetkan.

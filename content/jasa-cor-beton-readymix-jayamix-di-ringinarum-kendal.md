@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ringinarum Kendal"
-date: "2024-07-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ringinarum Kendal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ringinarum Kendal. Se..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ringinarum Kendal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ringinarum Kendal. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ringinarum
+  Kendal. Se...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ringinarum Kendal** – Beton Cor Readymix atau beton siap guna yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yg membutuhkan kualitas dan kualitas yg tepat.

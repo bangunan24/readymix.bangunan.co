@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga"
-date: "2024-07-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bukateja
+  Purbalingga...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bukateja Purbalingga** – Cor Readymix atau adukan beton siap pakai adalah adukan campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan tipe material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yang ditargetkan.

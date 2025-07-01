@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang"
-date: "2024-07-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang. Kami..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tulis Batang.
+  Kami...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tulis Batang** – Beton ready mix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg membutuhkan mutu dan kualitas yang tepat.

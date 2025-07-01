@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwokerto Utara"
-date: "2024-07-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwokerto Utara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwokerto Uta..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwokerto Utara'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwokerto Utara. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwokerto
+  Uta...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwokerto Utara** – Beton ready mix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang membutuhkan kwalitas dan kualitas yg tepat.

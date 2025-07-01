@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tahunan Jepara"
-date: "2024-07-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tahunan Jepara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tahunan Jepara. M..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tahunan Jepara'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tahunan Jepara. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tahunan
+  Jepara. M...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tahunan Jepara** – Beton ready mix atau beton siap guna yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kwalitas dan kualitas yang ideal.

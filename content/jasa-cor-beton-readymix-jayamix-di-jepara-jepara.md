@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara"
-date: "2024-07-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jepara Jepara** – Beton readymix atau adukan beton siap pakai yaitu campuran komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan variasi material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan mutu hasil beton yang di inginkan.

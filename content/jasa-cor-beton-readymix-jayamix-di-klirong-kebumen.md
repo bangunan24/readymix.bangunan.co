@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Klirong Kebumen"
-date: "2024-07-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Klirong Kebumen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klirong Kebumen...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Klirong Kebumen'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Klirong Kebumen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klirong
+  Kebumen....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Klirong Kebumen** – Beton Cor Readymix atau beton siap guna ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan kualitas dan kwalitas yg tepat.

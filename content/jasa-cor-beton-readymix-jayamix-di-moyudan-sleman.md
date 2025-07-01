@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman"
-date: "2024-07-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Moyudan
+  Sleman yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Moyudan Sleman** – Beton Cor Readymix atau campuran beton siap guna merupakan adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yang dipakaipun sama dengan macam bahan material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan mutu hasil beton yang di inginkan.

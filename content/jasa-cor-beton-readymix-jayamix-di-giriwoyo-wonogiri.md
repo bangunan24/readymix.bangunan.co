@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogiri"
-date: "2024-07-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogiri. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogi..."
+title: Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogiri
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogiri. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Giriwoyo
+  Wonogi...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Giriwoyo Wonogiri** – Cor Readymix atau adukan beton siap pakai yaitu campuran campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan variasi bahan material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan mutu hasil beton yg di inginkan.

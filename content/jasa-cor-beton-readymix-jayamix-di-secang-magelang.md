@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang"
-date: "2024-07-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Secang
+  Magelang...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Secang Magelang** – Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yang membutuhkan kualitas dan kualitas yang tepat.

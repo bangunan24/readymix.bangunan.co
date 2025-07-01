@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Demak"
-date: "2024-07-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Demak. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangtengah..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Demak'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangtengah Demak. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karangtengah...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangtengah Demak** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg membutuhkan kwalitas dan kwalitas yg tepat.

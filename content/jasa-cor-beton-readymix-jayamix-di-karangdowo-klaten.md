@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangdowo Klaten"
-date: "2024-07-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangdowo Klaten. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangdowo Kla..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangdowo Klaten'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangdowo Klaten. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangdowo
+  Kla...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangdowo Klaten** – Beton Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kwalitas dan kwalitas yg tepat.

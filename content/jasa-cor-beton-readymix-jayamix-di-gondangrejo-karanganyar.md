@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karanganyar"
-date: "2024-07-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karanganyar. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karanganyar
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karanganyar. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gondangrejo
+  Karan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gondangrejo Karanganyar** – Beton readymix atau campuran beton siap guna merupakan adukan komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya macam material yg dipakaipun sama dengan ragam material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan kwalitas hasil beton yg ditargetkan.

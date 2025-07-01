@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karanganyar Purbalingga"
-date: "2024-07-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karanganyar Purbalingga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanganyar P..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karanganyar Purbalingga'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karanganyar Purbalingga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanganyar
+  P...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karanganyar Purbalingga** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang memerlukan kualitas dan kwalitas yg ideal.

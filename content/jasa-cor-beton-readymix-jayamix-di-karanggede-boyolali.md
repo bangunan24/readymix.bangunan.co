@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karanggede Boyolali"
-date: "2024-07-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karanggede Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanggede Boyola..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karanggede Boyolali'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karanggede Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karanggede
+  Boyola...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karanggede Boyolali** – Beton ready mix atau beton siap guna yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg membutuhkan kualitas dan kwalitas yang pas.

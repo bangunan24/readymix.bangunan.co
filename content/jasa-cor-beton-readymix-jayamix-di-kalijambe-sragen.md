@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen"
-date: "2024-07-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalijambe
+  Sragen yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalijambe Sragen** – Beton readymix atau campuran beton siap pakai adalah adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

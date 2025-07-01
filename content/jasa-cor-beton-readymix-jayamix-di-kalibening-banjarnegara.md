@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjarnegara"
-date: "2024-07-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjarnegara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjarnegara
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjarnegara. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalibening
+  Banjar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalibening Banjarnegara** – Cor Readymix atau adukan beton siap pakai yakni adukan campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam material yang dipakaipun sama dengan ragam material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur sesuai dengan kualitas hasil beton yg di inginkan.

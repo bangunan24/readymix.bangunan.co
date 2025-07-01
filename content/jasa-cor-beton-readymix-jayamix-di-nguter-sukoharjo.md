@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Nguter Sukoharjo"
-date: "2024-07-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Nguter Sukoharjo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nguter Sukoharj..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Nguter Sukoharjo'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Nguter Sukoharjo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nguter
+  Sukoharj...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Nguter Sukoharjo** – Beton Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan kwalitas dan mutu yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati"
-date: "2024-07-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati. Semoga dap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Trangkil Pati. Semoga
+  dap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Trangkil Pati** – Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan kwalitas yang tepat.

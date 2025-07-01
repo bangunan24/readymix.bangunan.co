@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes"
-date: "2024-07-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes. Kami har..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Losari Brebes. Kami
+  har...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Losari Brebes** – Beton ready mix atau beton siap guna adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan mutu yang pas.

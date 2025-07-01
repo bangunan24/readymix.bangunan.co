@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tersono Batang"
-date: "2024-07-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tersono Batang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tersono Batang. M..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tersono Batang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tersono Batang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tersono
+  Batang. M...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tersono Batang** – Cor Readymix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan mutu dan kualitas yang pas.

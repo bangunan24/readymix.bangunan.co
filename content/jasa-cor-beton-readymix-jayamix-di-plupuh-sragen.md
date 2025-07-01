@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen"
-date: "2024-07-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen yang k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen
+  yang k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Plupuh Sragen** – Beton Cor Readymix atau adukan beton siap guna yakni campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan mutu hasil beton yg di inginkan.

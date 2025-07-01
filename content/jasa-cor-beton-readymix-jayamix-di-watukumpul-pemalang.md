@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Watukumpul Pemalang"
-date: "2024-07-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Watukumpul Pemalang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Watukumpul Pemala..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Watukumpul Pemalang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Watukumpul Pemalang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Watukumpul
+  Pemala...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Watukumpul Pemalang** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg memerlukan mutu dan mutu yg ideal.

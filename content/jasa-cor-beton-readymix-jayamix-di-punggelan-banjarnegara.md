@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Punggelan Banjarnegara"
-date: "2024-07-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Punggelan Banjarnegara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Punggelan Banj..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Punggelan Banjarnegara'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Punggelan Banjarnegara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Punggelan
+  Banj...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Punggelan Banjarnegara** – Beton ready mix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kwalitas dan kualitas yg tepat.

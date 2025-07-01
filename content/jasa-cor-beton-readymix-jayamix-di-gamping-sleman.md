@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman"
-date: "2024-07-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gamping
+  Sleman yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gamping Sleman** – Beton readymix atau campuran beton siap guna ialah adukan komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam material yg dipakaipun sama dengan jenis material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan mutu hasil beton yg ditargetkan.

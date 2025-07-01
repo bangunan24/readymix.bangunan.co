@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Tegal"
-date: "2024-07-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Te..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Tegal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang
+  Te...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pagerbarang Tegal** – Beton ready mix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan kualitas dan kualitas yang tepat.

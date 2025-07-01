@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ulujami Pemalang"
-date: "2024-07-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ulujami Pemalang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ulujami Pemalang. Kami..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ulujami Pemalang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ulujami Pemalang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ulujami
+  Pemalang. Kami...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ulujami Pemalang** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau instan pada project pengecoran yang memerlukan mutu dan mutu yg pas.

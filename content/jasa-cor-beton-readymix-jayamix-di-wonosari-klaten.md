@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonosari Klaten"
-date: "2024-07-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonosari Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosari Klaten. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonosari Klaten'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonosari Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosari
+  Klaten. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonosari Klaten** – Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara cepat atau instant pada project pengecoran yang memerlukan kualitas dan kwalitas yang tepat.

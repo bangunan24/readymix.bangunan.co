@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kangkung Kendal"
-date: "2024-07-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kangkung Kendal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kangkung Kendal..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kangkung Kendal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kangkung Kendal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kangkung
+  Kendal...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kangkung Kendal** – Cor Readymix atau beton siap guna adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan mutu dan mutu yang tepat.

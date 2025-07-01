@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo"
-date: "2024-07-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulu
+  Sukoharjo yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bulu Sukoharjo** – Cor Readymix atau campuran beton siap guna yaitu campuran komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

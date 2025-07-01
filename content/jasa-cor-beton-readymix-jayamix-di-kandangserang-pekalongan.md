@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kandangserang Pekalongan"
-date: "2024-07-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kandangserang Pekalongan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kandangseran..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kandangserang Pekalongan'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kandangserang Pekalongan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kandangseran...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kandangserang Pekalongan** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg memerlukan kualitas dan kwalitas yg ideal.

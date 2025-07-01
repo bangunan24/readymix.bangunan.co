@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo"
-date: "2024-07-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bruno
+  Purworejo yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bruno Purworejo** – Cor Readymix atau adukan beton siap pakai merupakan adukan campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan ragam material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg ditargetkan.

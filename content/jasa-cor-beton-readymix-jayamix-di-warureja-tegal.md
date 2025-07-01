@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Warureja Tegal"
-date: "2024-07-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Warureja Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warureja Tegal. K..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Warureja Tegal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Warureja Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Warureja
+  Tegal. K...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Warureja Tegal** – Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang memerlukan kualitas dan kwalitas yg tepat.

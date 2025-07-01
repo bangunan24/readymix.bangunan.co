@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bantarbolang Pemalang"
-date: "2024-07-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bantarbolang Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bantarbolang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bantarbolang Pemalang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bantarbolang Pemalang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Bantarbolang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bantarbolang Pemalang** – Beton readymix atau adukan beton siap guna adalah campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam material yg dipakaipun sama dengan jenis bahan material campuran beton pada lazimnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan mutu hasil beton yang di inginkan.

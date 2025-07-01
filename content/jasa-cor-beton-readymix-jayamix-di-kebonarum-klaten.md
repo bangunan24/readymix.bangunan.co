@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kebonarum Klaten"
-date: "2024-07-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kebonarum Klaten. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kebonarum Klate..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kebonarum Klaten'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kebonarum Klaten. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kebonarum
+  Klate...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kebonarum Klaten** – Beton ready mix atau beton siap guna adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg membutuhkan mutu dan kualitas yg ideal.

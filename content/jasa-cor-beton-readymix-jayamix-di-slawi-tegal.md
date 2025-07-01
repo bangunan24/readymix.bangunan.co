@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal"
-date: "2024-07-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal. Semoga bisa..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Slawi Tegal. Semoga
+  bisa...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Slawi Tegal** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yg membutuhkan mutu dan kualitas yang tepat.

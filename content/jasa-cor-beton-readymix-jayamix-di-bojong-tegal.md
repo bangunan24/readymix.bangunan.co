@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal"
-date: "2024-07-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bojong Tegal** – Beton Cor Readymix atau adukan beton siap pakai ialah adukan komposisi material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

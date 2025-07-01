@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sidorejo Kota Salatiga"
-date: "2024-07-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sidorejo Kota Salatiga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidorejo Kota..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sidorejo Kota Salatiga'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sidorejo Kota Salatiga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sidorejo
+  Kota...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sidorejo Kota Salatiga** – Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau instant pada project pengecoran yang membutuhkan mutu dan kwalitas yang tepat.

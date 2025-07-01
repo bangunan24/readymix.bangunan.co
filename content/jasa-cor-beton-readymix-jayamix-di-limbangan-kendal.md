@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Limbangan Kendal"
-date: "2024-07-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Limbangan Kendal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Limbangan Kendal. Se..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Limbangan Kendal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Limbangan Kendal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Limbangan
+  Kendal. Se...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Limbangan Kendal** – Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg membutuhkan mutu dan kualitas yang tepat.

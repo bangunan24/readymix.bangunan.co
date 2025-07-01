@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap"
-date: "2024-07-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bantarsari
+  Cilacap yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bantarsari Cilacap** – Cor Readymix atau adukan beton siap pakai adalah adukan campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan macam bahan material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kwalitas hasil beton yang ditargetkan.

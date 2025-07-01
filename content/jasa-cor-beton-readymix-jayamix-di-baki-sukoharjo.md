@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo"
-date: "2024-07-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Baki
+  Sukoharjo yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Baki Sukoharjo** – Beton Cor Readymix atau adukan beton siap pakai yaitu campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi bahan material yang dipakaipun sama dengan macam material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yang ditargetkan.

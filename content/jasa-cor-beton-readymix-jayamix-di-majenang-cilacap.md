@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Majenang Cilacap"
-date: "2024-07-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Majenang Cilacap. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Majenang Cilac..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Majenang Cilacap'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Majenang Cilacap. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Majenang
+  Cilac...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Majenang Cilacap** – Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg memerlukan mutu dan kwalitas yg ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sirampog Brebes"
-date: "2024-07-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sirampog Brebes. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sirampog Brebes. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sirampog Brebes'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sirampog Brebes. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sirampog
+  Brebes. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sirampog Brebes** – Beton ready mix atau beton siap pakai merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan mutu dan kwalitas yg tepat.

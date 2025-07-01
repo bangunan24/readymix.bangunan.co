@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purbalingga"
-date: "2024-07-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purbalingga. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purba..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purbalingga
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purbalingga. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaligondang
+  Purba...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kaligondang Purbalingga** – Beton readymix atau adukan beton siap pakai merupakan campuran komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam bahan material yg dipakaipun sama dengan variasi material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan sesuai dengan mutu hasil beton yang ditargetkan.

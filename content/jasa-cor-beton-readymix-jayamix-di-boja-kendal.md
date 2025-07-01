@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Boja Kendal"
-date: "2024-07-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Boja Kendal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Boja Kendal yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Boja Kendal
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Boja Kendal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Boja Kendal yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Boja Kendal** – Cor Readymix atau campuran beton siap pakai yakni campuran campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis material yg dipakaipun sama dengan jenis material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kualitas hasil beton yg ditargetkan.

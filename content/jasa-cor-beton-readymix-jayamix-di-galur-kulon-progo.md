@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo"
-date: "2024-07-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Galur Kulon
+  Progo yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Galur Kulon Progo** – Beton Cor Readymix atau campuran beton siap guna merupakan adukan komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan variasi material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditentukan pas dengan mutu hasil beton yang ditargetkan.

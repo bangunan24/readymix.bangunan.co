@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Tegalrejo"
-date: "2024-07-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Tegalrejo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tegalrejo yg kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Tegalrejo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Tegalrejo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tegalrejo yg
+  kami papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Tegalrejo** – Beton readymix atau campuran beton siap guna adalah campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe material yang dipakaipun sama dengan variasi material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan mutu hasil beton yg di inginkan.

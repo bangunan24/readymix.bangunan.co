@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal"
-date: "2024-07-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal. Mudah-..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margasari Tegal.
+  Mudah-...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Margasari Tegal** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yg membutuhkan kwalitas dan kualitas yg pas.

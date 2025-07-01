@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo"
-date: "2024-07-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo ya..."
+title: Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Garung
+  Wonosobo ya...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Garung Wonosobo** – Beton readymix atau campuran beton siap pakai yaitu campuran komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi bahan material yg dipakaipun sama dengan tipe bahan material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg di inginkan.

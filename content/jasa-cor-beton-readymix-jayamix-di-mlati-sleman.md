@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman"
-date: "2024-07-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman yang kam..."
+title: Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman
+  yang kam...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Mlati Sleman** – Beton readymix atau campuran beton siap guna adalah adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yg dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri"
-date: "2024-07-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulukerto
+  Wonogiri y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bulukerto Wonogiri** – Cor Readymix atau campuran beton siap guna yakni campuran komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur sesuai dengan kwalitas hasil beton yg di inginkan.

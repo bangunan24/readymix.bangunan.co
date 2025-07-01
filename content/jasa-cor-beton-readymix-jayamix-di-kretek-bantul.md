@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul"
-date: "2024-07-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kretek Bantul** – Cor Readymix atau campuran beton siap pakai yakni adukan komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam material yang dipakaipun sama dengan variasi bahan material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg di inginkan.

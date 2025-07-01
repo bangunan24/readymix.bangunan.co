@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus"
-date: "2024-07-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Dawe Kudus** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan jenis bahan material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang"
-date: "2024-07-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bringin
+  Semarang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bringin Semarang** – Beton readymix atau adukan beton siap pakai ialah campuran komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditentukan sesuai dengan kwalitas hasil beton yg di inginkan.

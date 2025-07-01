@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogiri"
-date: "2024-07-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogiri. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogi..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogiri
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogiri. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatiroto
+  Wonogi...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatiroto Wonogiri** – Beton Cor Readymix atau adukan beton siap pakai ialah adukan komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan kwalitas hasil beton yang di inginkan.

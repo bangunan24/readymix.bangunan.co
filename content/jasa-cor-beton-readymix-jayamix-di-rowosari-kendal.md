@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Rowosari Kendal"
-date: "2024-07-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Rowosari Kendal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rowosari Kendal..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Rowosari Kendal'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Rowosari Kendal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Rowosari
+  Kendal...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Rowosari Kendal** – Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yg membutuhkan kwalitas dan kwalitas yang pas.

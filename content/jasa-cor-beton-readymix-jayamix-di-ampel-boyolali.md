@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali"
-date: "2024-07-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ampel
+  Boyolali yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali** – Beton readymix atau campuran beton siap pakai yaitu campuran campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kwalitas hasil beton yang ditargetkan.

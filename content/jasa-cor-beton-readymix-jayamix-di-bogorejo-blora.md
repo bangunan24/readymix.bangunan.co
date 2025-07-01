@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora"
-date: "2024-07-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bogorejo
+  Blora yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bogorejo Blora** – Beton readymix atau adukan beton siap pakai adalah adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan variasi material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditentukan pas dengan mutu hasil beton yang di inginkan.

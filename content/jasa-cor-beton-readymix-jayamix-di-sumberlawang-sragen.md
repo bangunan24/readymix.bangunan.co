@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang Sragen"
-date: "2024-07-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang Sragen. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang Srag..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang Sragen'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang Sragen. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumberlawang
+  Srag...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sumberlawang Sragen** – Cor Readymix atau beton siap guna adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kualitas dan mutu yg ideal.

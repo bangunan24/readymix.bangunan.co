@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap"
-date: "2024-07-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap yang
+  kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Adipala Cilacap** – Cor Readymix atau campuran beton siap pakai ialah campuran komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan jenis material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditentukan sesuai dengan kwalitas hasil beton yang ditargetkan.

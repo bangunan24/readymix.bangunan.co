@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pengadegan Purbalingga"
-date: "2024-07-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pengadegan Purbalingga. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pengadegan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pengadegan Purbalingga
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pengadegan Purbalingga. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Pengadegan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pengadegan Purbalingga** – Beton readymix atau campuran beton siap pakai merupakan adukan komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis bahan material yang dipakaipun sama dengan jenis material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah ditentukan pas dengan mutu hasil beton yg ditargetkan.

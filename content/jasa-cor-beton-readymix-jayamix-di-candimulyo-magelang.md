@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Candimulyo Magelang"
-date: "2024-07-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Candimulyo Magelang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Candimulyo Ma..."
+title: Jasa Cor Beton Readymix & Jayamix Di Candimulyo Magelang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Candimulyo Magelang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Candimulyo
+  Ma...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Candimulyo Magelang** – Beton Cor Readymix atau campuran beton siap guna ialah adukan komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam bahan material yang dipakaipun sama dengan ragam material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditentukan sesuai dengan kwalitas hasil beton yang di inginkan.

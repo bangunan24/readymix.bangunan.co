@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal Batang"
-date: "2024-07-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal Batang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal B..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal Batang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal Batang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonotunggal
+  B...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonotunggal Batang** – Cor Readymix atau beton siap guna ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kwalitas dan kwalitas yang pas.

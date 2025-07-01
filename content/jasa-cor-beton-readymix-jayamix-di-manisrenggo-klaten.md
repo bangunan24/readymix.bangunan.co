@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo Klaten"
-date: "2024-07-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo Klaten. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo Klaten..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo Klaten'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo Klaten. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Manisrenggo
+  Klaten...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Manisrenggo Klaten** – Cor Readymix atau beton siap pakai adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg memerlukan kualitas dan kualitas yg ideal.

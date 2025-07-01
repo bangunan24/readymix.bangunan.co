@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kertek Wonosobo"
-date: "2024-07-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kertek Wonosobo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kertek Wonosobo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kertek Wonosobo'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kertek Wonosobo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kertek
+  Wonosobo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kertek Wonosobo** – Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yg didesain hanya untuk pengecoran secara cepat atau instan pada project pengecoran yg memerlukan kwalitas dan mutu yang ideal.

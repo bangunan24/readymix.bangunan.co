@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang"
-date: "2024-07-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Comal
+  Pemalang yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Comal Pemalang** – Cor Readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yang dipakaipun sama dengan macam material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan mutu hasil beton yg ditargetkan.

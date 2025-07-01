@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Kediri"
-date: "2024-07-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Kediri. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Kediri yg kami papa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Kediri
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Kediri. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Kediri yg
+  kami papa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Kediri** – Beton Cor Readymix atau campuran beton siap pakai merupakan adukan komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe material yang dipakaipun sama dengan tipe bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yang ditargetkan.

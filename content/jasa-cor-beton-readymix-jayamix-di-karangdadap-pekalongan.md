@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangdadap Pekalongan"
-date: "2024-07-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangdadap Pekalongan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangdadap Pekalongan'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangdadap Pekalongan. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karangda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangdadap Pekalongan** – Beton ready mix atau beton siap pakai ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yang memerlukan kualitas dan kwalitas yang tepat.

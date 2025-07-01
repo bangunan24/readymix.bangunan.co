@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan Sragen"
-date: "2024-07-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan Sragen..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan Sragen'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan Sragen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sambungmacan
+  Sragen...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sambungmacan Sragen** – Beton Cor Readymix atau beton siap pakai yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada project pengecoran yg memerlukan mutu dan kwalitas yg pas.

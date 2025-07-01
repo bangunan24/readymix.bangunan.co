@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Reban Batang"
-date: "2024-07-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Reban Batang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Reban Batang. Mudah-mudaha..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Reban Batang'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Reban Batang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Reban Batang.
+  Mudah-mudaha...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Reban Batang** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan kwalitas dan mutu yang ideal.

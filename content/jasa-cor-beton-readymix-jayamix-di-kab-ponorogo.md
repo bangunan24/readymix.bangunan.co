@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo"
-date: "2024-07-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Ponorogo** – Beton readymix atau campuran beton siap guna adalah adukan komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam bahan material yang dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditentukan sesuai dengan mutu hasil beton yang di inginkan.

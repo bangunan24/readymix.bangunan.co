@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo Temanggung"
-date: "2024-07-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo Temanggung. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo Temanggu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo Temanggung'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo Temanggung. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonoboyo
+  Temanggu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonoboyo Temanggung** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yg memerlukan kualitas dan kualitas yang ideal.

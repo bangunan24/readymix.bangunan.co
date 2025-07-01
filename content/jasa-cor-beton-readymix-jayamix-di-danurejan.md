@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Danurejan"
-date: "2024-07-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Danurejan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Danurejan yg kami papark..."
+title: Jasa Cor Beton Readymix & Jayamix Di Danurejan
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Danurejan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Danurejan yg
+  kami papark...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Danurejan** – Beton readymix atau campuran beton siap guna yakni campuran campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan variasi bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

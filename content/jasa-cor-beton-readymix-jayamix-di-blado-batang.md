@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Blado Batang"
-date: "2024-07-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Blado Batang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Blado Batang yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Blado Batang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Blado Batang. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Blado Batang yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Blado Batang** – Beton readymix atau campuran beton siap guna merupakan adukan campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan macam material campuran beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditentukan sesuai dengan kwalitas hasil beton yang ditargetkan.

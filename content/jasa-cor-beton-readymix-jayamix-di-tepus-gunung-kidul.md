@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul"
-date: "2024-07-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung
+  Kidul y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Tepus Gunung Kidul** – Beton Cor Readymix atau campuran beton siap guna ialah adukan komposisi bahan material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis bahan material yg dipakaipun sama dengan macam bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora"
-date: "2024-07-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora. Semoga bis..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngawen Blora. Semoga
+  bis...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngawen Blora** – Beton Cor Readymix atau beton siap guna ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yang memerlukan kualitas dan kualitas yg pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wirosari Grobogan"
-date: "2024-07-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wirosari Grobogan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wirosari Grobogan. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wirosari Grobogan'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wirosari Grobogan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wirosari
+  Grobogan. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wirosari Grobogan** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang memerlukan kualitas dan kwalitas yang pas.

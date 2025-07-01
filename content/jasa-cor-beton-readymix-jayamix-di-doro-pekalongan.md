@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan"
-date: "2024-07-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Doro
+  Pekalongan yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Doro Pekalongan** – Beton Cor Readymix atau campuran beton siap pakai merupakan campuran campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan jenis bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah ditentukan sesuai dengan kwalitas hasil beton yg ditargetkan.

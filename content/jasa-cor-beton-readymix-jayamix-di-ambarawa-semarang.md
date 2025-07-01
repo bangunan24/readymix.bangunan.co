@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang"
-date: "2024-07-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ambarawa
+  Semarang yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ambarawa Semarang** – Cor Readymix atau adukan beton siap guna ialah adukan komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan ragam material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

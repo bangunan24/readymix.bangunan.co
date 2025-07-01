@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bantarkawung Brebes"
-date: "2024-07-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bantarkawung Brebes. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bantarkawung..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bantarkawung Brebes
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bantarkawung Brebes. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Bantarkawung...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bantarkawung Brebes** – Cor Readymix atau adukan beton siap guna yaitu campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yg dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah ditentukan sesuai dengan kualitas hasil beton yg ditargetkan.

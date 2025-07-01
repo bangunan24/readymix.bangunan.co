@@ -1,9 +1,11 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tawangsari Sukoharjo"
-date: "2024-07-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tawangsari Sukoharjo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tawangsari..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tawangsari Sukoharjo'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tawangsari Sukoharjo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tawangsari...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tawangsari Sukoharjo** – Beton ready mix atau beton siap guna ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada project pengecoran yang memerlukan kwalitas dan kualitas yg pas.

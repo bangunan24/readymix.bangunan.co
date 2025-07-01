@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Playen Gunung Kidul"
-date: "2024-07-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Playen Gunung Kidul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Playen Gunung..."
+title: Jasa Cor Beton Readymix & Jayamix Di Playen Gunung Kidul
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Playen Gunung Kidul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Playen
+  Gunung...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Playen Gunung Kidul** – Beton Cor Readymix atau campuran beton siap pakai ialah adukan komposisi material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan macam material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan sesuai dengan kualitas hasil beton yg ditargetkan.

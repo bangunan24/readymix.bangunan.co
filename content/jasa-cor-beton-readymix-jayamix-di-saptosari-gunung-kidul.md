@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung Kidul"
-date: "2024-07-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung K..."
+title: Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung Kidul
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Saptosari
+  Gunung K...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Saptosari Gunung Kidul** – Cor Readymix atau campuran beton siap guna ialah adukan campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe bahan material yang dipakaipun sama dengan jenis material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yg di inginkan.

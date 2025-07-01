@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus"
-date: "2024-07-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus. Kami harap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus'
+date: '2025-07-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mejobo Kudus. Kami
+  harap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mejobo Kudus** – Beton ready mix atau beton siap pakai yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg memerlukan kwalitas dan mutu yang pas.
