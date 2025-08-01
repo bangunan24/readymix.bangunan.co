@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kidul"
-date: "2024-08-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kidul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kid..."
+title: Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kidul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Nglipar
+  Gunung Kid...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Nglipar Gunung Kidul** – Cor Readymix atau adukan beton siap pakai adalah adukan komposisi material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe material yg dipakaipun sama dengan variasi material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan kwalitas hasil beton yg ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon Progo"
-date: "2024-08-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon Progo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon P..."
+title: Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon Progo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon Progo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Samigaluh
+  Kulon P...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Samigaluh Kulon Progo** – Beton readymix atau campuran beton siap pakai yaitu adukan komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan macam bahan material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

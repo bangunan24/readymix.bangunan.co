@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tamansari Boyolali"
-date: "2024-08-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tamansari Boyolali. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tamansari Boy..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tamansari Boyolali'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tamansari Boyolali. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tamansari
+  Boy...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tamansari Boyolali** – Beton Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada project pengecoran yang memerlukan kwalitas dan kualitas yg pas.

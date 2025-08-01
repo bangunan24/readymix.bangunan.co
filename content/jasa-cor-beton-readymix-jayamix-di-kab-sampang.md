@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Sampang"
-date: "2024-08-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Sampang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Sampang yang kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Sampang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Sampang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Sampang yang kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Sampang** – Cor Readymix atau adukan beton siap pakai ialah adukan komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi bahan material yang dipakaipun sama dengan ragam material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

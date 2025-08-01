@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen"
-date: "2024-08-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen. Semoga bisa me..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Miri Sragen. Semoga bisa
+  me...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Miri Sragen** – Cor Readymix atau beton siap guna ialah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg memerlukan kwalitas dan kwalitas yang ideal.

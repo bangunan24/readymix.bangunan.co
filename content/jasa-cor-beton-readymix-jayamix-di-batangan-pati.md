@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Batangan Pati"
-date: "2024-08-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Batangan Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batangan Pati yang kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Batangan Pati
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Batangan Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Batangan Pati yang kami
+  pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Batangan Pati** – Beton Cor Readymix atau campuran beton siap guna yaitu adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan tipe material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan kualitas hasil beton yg di inginkan.

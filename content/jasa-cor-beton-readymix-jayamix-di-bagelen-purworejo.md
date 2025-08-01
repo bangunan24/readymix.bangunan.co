@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bagelen Purworejo"
-date: "2024-08-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bagelen Purworejo. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bagelen Purwore..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bagelen Purworejo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bagelen Purworejo. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bagelen
+  Purwore...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bagelen Purworejo** – Beton Cor Readymix atau campuran beton siap pakai yakni campuran campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah diatur pas dengan kualitas hasil beton yg ditargetkan.

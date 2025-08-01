@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kaliwungu Selatan Kendal"
-date: "2024-08-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kaliwungu Selatan Kendal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kaliwun..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kaliwungu Selatan Kendal'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kaliwungu Selatan Kendal. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Kaliwun...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kaliwungu Selatan Kendal** – Cor Readymix atau beton siap guna yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yang membutuhkan mutu dan kwalitas yg ideal.

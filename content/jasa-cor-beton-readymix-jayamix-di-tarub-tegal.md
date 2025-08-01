@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal"
-date: "2024-08-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal. Mudah-mudahan..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tarub Tegal.
+  Mudah-mudahan...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tarub Tegal** – Beton Cor Readymix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan mutu dan kwalitas yg tepat.

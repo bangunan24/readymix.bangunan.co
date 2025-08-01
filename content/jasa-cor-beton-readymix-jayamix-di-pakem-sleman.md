@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman"
-date: "2024-08-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pakem Sleman** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yang dipakaipun sama dengan variasi material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditetapkan pas dengan kualitas hasil beton yang di inginkan.

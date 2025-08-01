@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati"
-date: "2024-08-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati. Mudah-mud..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kayen Pati.
+  Mudah-mud...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kayen Pati** – Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kualitas dan mutu yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut Cilacap"
-date: "2024-08-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut Cil..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut Cilacap'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kampung Laut
+  Cil...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kampung Laut Cilacap** – Cor Readymix atau beton siap guna adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kwalitas dan kwalitas yg tepat.

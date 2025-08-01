@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Mergangsan"
-date: "2024-08-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Mergangsan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mergangsan yang kami pa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Mergangsan
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Mergangsan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Mergangsan
+  yang kami pa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Mergangsan** – Cor Readymix atau campuran beton siap guna merupakan adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan ragam material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan mutu hasil beton yg ditargetkan.

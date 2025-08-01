@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul"
-date: "2024-08-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul yang kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul yang kami
+  p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pundong Bantul** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan macam material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan mutu hasil beton yang di inginkan.

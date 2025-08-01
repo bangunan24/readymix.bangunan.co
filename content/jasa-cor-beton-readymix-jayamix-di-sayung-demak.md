@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak"
-date: "2024-08-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak. Semog..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sayung Demak.
+  Semog...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sayung Demak** – Beton ready mix atau beton siap guna yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan mutu dan kwalitas yang ideal.

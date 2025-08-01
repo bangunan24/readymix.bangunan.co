@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang"
-date: "2024-08-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang. Kami harap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Moga Pemalang. Kami
+  harap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Moga Pemalang** – Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yg membutuhkan kwalitas dan kualitas yg tepat.

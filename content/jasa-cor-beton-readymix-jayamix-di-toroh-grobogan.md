@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Toroh Grobogan"
-date: "2024-08-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Toroh Grobogan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Toroh Grobogan. S..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Toroh Grobogan'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Toroh Grobogan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Toroh
+  Grobogan. S...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Toroh Grobogan** – Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yang membutuhkan mutu dan mutu yg ideal.

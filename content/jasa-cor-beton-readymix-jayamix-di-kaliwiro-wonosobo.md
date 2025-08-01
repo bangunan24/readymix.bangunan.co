@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosobo"
-date: "2024-08-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosobo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosob..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosobo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosobo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaliwiro
+  Wonosob...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kaliwiro Wonosobo** – Cor Readymix atau campuran beton siap guna merupakan campuran campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan jenis material adukan beton pada lazimnya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yang di inginkan.

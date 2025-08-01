@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang"
-date: "2024-08-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jambu
+  Semarang yang kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jambu Semarang** – Beton readymix atau adukan beton siap pakai yaitu campuran komposisi material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan mutu hasil beton yg ditargetkan.

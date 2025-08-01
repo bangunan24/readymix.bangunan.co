@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangawen Demak"
-date: "2024-08-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangawen Demak. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangawen Demak. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangawen Demak'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangawen Demak. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangawen
+  Demak. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangawen Demak** – Cor Readymix atau beton siap pakai adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg membutuhkan kualitas dan mutu yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sumbang Banyumas"
-date: "2024-08-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sumbang Banyumas. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumbang Banyumas. Semo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sumbang Banyumas'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sumbang Banyumas. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumbang
+  Banyumas. Semo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sumbang Banyumas** – Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang memerlukan mutu dan mutu yang tepat.

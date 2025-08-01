@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal"
-date: "2024-08-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adiwerna
+  Tegal yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Adiwerna Tegal** – Beton Cor Readymix atau campuran beton siap pakai merupakan adukan campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya jenis material yg dipakaipun sama dengan jenis material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan pas dengan kwalitas hasil beton yang ditargetkan.

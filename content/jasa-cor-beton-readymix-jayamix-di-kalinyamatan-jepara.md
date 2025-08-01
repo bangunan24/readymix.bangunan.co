@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan Jepara"
-date: "2024-08-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan Jepara. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan Jepara
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan Jepara. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Kalinyamatan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalinyamatan Jepara** – Cor Readymix atau campuran beton siap pakai adalah campuran campuran bahan material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan ragam bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan mutu hasil beton yang ditargetkan.

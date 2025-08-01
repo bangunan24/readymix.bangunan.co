@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen"
-date: "2024-08-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngrampal Sragen.
+  Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngrampal Sragen** – Beton Cor Readymix atau beton siap guna adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kwalitas dan kwalitas yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulon Progo"
-date: "2024-08-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulon Progo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulon Progo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulon Progo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pengasih
+  Kulo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pengasih Kulon Progo** – Cor Readymix atau adukan beton siap pakai merupakan adukan campuran material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan mutu hasil beton yg di inginkan.

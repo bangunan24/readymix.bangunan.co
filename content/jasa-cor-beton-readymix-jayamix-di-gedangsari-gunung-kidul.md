@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung Kidul"
-date: "2024-08-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gedangsari
+  Gunung...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gedangsari Gunung Kidul** – Beton Cor Readymix atau adukan beton siap pakai yaitu campuran campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kualitas hasil beton yang di inginkan.

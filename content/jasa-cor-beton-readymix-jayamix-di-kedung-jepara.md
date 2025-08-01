@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara"
-date: "2024-08-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara. Mudah-muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedung Jepara.
+  Mudah-muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedung Jepara** – Beton Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan mutu dan kwalitas yg pas.

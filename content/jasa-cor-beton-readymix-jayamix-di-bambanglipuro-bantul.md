@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bantul"
-date: "2024-08-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bantul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bant..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bantul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bantul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro
+  Bant...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bambanglipuro Bantul** – Beton readymix atau adukan beton siap pakai merupakan campuran campuran bahan material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah diatur pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbalingga"
-date: "2024-08-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbalingga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbali..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbalingga
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbalingga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kalimanah
+  Purbali...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kalimanah Purbalingga** – Beton readymix atau campuran beton siap guna yaitu adukan komposisi bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yang dipakaipun sama dengan macam material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yg di inginkan.

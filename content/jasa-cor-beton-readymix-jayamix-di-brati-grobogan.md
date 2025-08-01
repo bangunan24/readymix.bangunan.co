@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan"
-date: "2024-08-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Brati
+  Grobogan yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Brati Grobogan** – Cor Readymix atau campuran beton siap pakai yaitu adukan komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan tipe material adukan beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan mutu hasil beton yg ditargetkan.

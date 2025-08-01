@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul"
-date: "2024-08-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Semin Gunung
+  Kidul yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Semin Gunung Kidul** – Cor Readymix atau adukan beton siap pakai adalah campuran campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe material yang dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah ditentukan pas dengan kualitas hasil beton yg ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Malang"
-date: "2024-08-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Malang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Malang yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Malang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Malang. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Malang yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Malang** – Cor Readymix atau campuran beton siap guna adalah campuran campuran material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yg dipakaipun sama dengan jenis bahan material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg telah ditetapkan sesuai dengan kwalitas hasil beton yg di inginkan.

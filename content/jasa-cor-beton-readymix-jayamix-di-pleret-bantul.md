@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul"
-date: "2024-08-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul yang k..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul
+  yang k...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pleret Bantul** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan tipe material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan kwalitas hasil beton yg ditargetkan.

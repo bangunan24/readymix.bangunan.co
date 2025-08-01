@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung"
-date: "2024-08-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung yang
+  kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bulu Temanggung** – Beton Cor Readymix atau campuran beton siap guna ialah adukan campuran bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam bahan material yg dipakaipun sama dengan macam bahan material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kidul"
-date: "2024-08-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kidul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kid..."
+title: Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kidul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Paliyan
+  Gunung Kid...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Paliyan Gunung Kidul** – Cor Readymix atau adukan beton siap pakai adalah adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg sudah ditentukan sesuai dengan kualitas hasil beton yg di inginkan.

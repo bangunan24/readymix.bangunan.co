@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman"
-date: "2024-08-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Berbah Sleman** – Beton readymix atau campuran beton siap guna adalah campuran komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe material yg dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang"
-date: "2024-08-28"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bodeh
+  Pemalang yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bodeh Pemalang** – Cor Readymix atau adukan beton siap guna yaitu adukan komposisi material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan macam material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kualitas hasil beton yang di inginkan.

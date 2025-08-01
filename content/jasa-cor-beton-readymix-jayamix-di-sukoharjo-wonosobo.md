@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo Wonosobo"
-date: "2024-08-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo Wonosobo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo Wonosobo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo Wonosobo'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo Wonosobo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sukoharjo
+  Wonosobo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sukoharjo Wonosobo** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan mutu dan mutu yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Gresik"
-date: "2024-08-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Gresik. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Gresik yg kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Gresik
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Gresik. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Gresik yg
+  kami pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Gresik** – Beton readymix atau campuran beton siap guna adalah adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam material yg dipakaipun sama dengan variasi material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang"
-date: "2024-08-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bandungan
+  Semarang y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bandungan Semarang** – Beton Cor Readymix atau adukan beton siap guna yaitu campuran komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya variasi bahan material yang dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.

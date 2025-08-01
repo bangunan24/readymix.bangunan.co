@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo"
-date: "2024-08-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bendosari
+  Sukoharjo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bendosari Sukoharjo** – Cor Readymix atau adukan beton siap pakai merupakan campuran komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe material yang dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kwalitas hasil beton yg ditargetkan.

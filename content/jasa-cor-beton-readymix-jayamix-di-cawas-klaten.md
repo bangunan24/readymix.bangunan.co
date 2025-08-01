@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten"
-date: "2024-08-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten
+  yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cawas Klaten** – Beton Cor Readymix atau adukan beton siap pakai yakni campuran komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.

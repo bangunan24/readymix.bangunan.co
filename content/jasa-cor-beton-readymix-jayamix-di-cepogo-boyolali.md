@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali"
-date: "2024-08-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cepogo
+  Boyolali yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cepogo Boyolali** – Beton readymix atau campuran beton siap pakai yakni adukan komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan jenis bahan material campuran beton pada lazimnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah diatur pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten"
-date: "2024-08-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten
+  yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bayat Klaten** – Beton readymix atau campuran beton siap guna merupakan campuran komposisi material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan tipe material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan sesuai dengan kwalitas hasil beton yang di inginkan.

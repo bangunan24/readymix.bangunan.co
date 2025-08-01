@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Jombang"
-date: "2024-08-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Jombang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Jombang yg kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Jombang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Jombang. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Jombang yg kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Jombang** – Cor Readymix atau adukan beton siap pakai yaitu adukan komposisi bahan material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi bahan material yang dipakaipun sama dengan variasi bahan material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah diatur pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan"
-date: "2024-08-18"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Buaran
+  Pekalongan yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Buaran Pekalongan** – Cor Readymix atau adukan beton siap guna ialah adukan campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yg dipakaipun sama dengan macam bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg telah diatur sesuai dengan kualitas hasil beton yang ditargetkan.

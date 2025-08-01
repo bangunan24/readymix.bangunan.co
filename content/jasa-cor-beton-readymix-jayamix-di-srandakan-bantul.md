@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul"
-date: "2024-08-19"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Srandakan
+  Bantul yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Srandakan Bantul** – Cor Readymix atau adukan beton siap guna yakni campuran komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe material yang dipakaipun sama dengan jenis bahan material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan kwalitas hasil beton yg ditargetkan.

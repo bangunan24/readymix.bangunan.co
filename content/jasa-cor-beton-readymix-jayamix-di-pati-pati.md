@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pati Pati"
-date: "2024-08-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pati Pati. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pati Pati. Semoga bisa mema..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pati Pati'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pati Pati. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pati Pati. Semoga bisa
+  mema...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pati Pati** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan mutu dan kualitas yg pas.

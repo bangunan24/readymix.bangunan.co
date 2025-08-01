@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo"
-date: "2024-08-31"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo. Mudah-mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kepil Wonosobo.
+  Mudah-mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kepil Wonosobo** – Beton Cor Readymix atau beton siap guna ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg membutuhkan kualitas dan kualitas yang pas.

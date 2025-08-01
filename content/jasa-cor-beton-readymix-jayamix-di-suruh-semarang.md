@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Suruh Semarang"
-date: "2024-08-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Suruh Semarang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Suruh Semarang...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Suruh Semarang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Suruh Semarang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Suruh
+  Semarang....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Suruh Semarang** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan kualitas dan mutu yg ideal.

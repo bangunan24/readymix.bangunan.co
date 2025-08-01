@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus"
-date: "2024-08-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus yang kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus yang
+  kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kaliwungu Kudus** – Beton readymix atau adukan beton siap guna merupakan adukan komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam material yg dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan mutu hasil beton yg ditargetkan.

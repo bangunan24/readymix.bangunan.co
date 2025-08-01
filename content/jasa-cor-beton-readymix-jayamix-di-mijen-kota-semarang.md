@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota Semarang"
-date: "2024-08-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota Semarang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota Semara..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota Semarang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota Semarang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mijen Kota
+  Semara...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mijen Kota Semarang** – Beton Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan mutu dan mutu yang ideal.

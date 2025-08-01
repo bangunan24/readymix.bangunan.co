@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kartasura Sukoharjo"
-date: "2024-08-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kartasura Sukoharjo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kartasura Sukoharjo..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kartasura Sukoharjo'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kartasura Sukoharjo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kartasura
+  Sukoharjo...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kartasura Sukoharjo** – Beton ready mix atau beton siap guna merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kwalitas dan mutu yang ideal.

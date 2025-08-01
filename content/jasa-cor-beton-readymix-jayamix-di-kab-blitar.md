@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Blitar"
-date: "2024-08-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Blitar. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Blitar yg kami pap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Blitar
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Blitar. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Blitar yg
+  kami pap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Blitar** – Beton readymix atau adukan beton siap pakai yaitu adukan campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yg dipakaipun sama dengan tipe material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan sesuai dengan mutu hasil beton yg di inginkan.

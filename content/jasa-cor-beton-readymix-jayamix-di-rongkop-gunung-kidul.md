@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul"
-date: "2024-08-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul..."
+title: Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Rongkop
+  Gunung Kidul...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Rongkop Gunung Kidul** – Beton Cor Readymix atau adukan beton siap guna merupakan adukan campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan ragam material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang telah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang"
-date: "2024-08-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Belik
+  Pemalang yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Belik Pemalang** – Beton Cor Readymix atau adukan beton siap guna ialah campuran komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe bahan material yang dipakaipun sama dengan tipe material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditentukan sesuai dengan kwalitas hasil beton yang ditargetkan.

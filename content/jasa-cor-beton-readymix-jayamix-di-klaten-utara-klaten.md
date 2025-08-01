@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Klaten Utara Klaten"
-date: "2024-08-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Klaten Utara Klaten. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klaten Utara..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Klaten Utara Klaten'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Klaten Utara Klaten. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Klaten
+  Utara...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Klaten Utara Klaten** – Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan kualitas dan kualitas yang pas.

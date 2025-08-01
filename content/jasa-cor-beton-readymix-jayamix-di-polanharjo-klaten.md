@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klaten"
-date: "2024-08-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klaten. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klate..."
+title: Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klaten
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klaten. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Polanharjo
+  Klate...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Polanharjo Klaten** – Cor Readymix atau campuran beton siap pakai ialah campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan variasi material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan sesuai dengan mutu hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Nalumsari Jepara"
-date: "2024-08-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Nalumsari Jepara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nalumsari Jepar..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Nalumsari Jepara'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Nalumsari Jepara. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nalumsari
+  Jepar...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Nalumsari Jepara** – Beton Cor Readymix atau beton siap pakai ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yang memerlukan mutu dan kualitas yang ideal.

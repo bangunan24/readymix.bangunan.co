@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal"
-date: "2024-08-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal..."
+title: Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Brangsong
+  Kendal...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Brangsong Kendal** – Cor Readymix atau campuran beton siap pakai ialah adukan campuran bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi bahan material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan mutu hasil beton yg di inginkan.

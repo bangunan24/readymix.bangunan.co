@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman"
-date: "2024-08-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Minggir
+  Sleman yg kami p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Minggir Sleman** – Beton Cor Readymix atau adukan beton siap pakai yaitu campuran campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan variasi material adukan beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah diatur pas dengan kualitas hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Semarang"
-date: "2024-08-25"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Semarang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Se..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Semarang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Semarang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gayamsari
+  Kota Se...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gayamsari Kota Semarang** – Beton readymix atau campuran beton siap guna ialah campuran komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam bahan material yg dipakaipun sama dengan macam bahan material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah diatur sesuai dengan mutu hasil beton yg di inginkan.

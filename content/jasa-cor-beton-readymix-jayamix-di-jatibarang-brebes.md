@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes"
-date: "2024-08-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jatibarang
+  Brebes yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jatibarang Brebes** – Beton readymix atau adukan beton siap pakai ialah adukan campuran material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam material yg dipakaipun sama dengan jenis material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang telah ditetapkan pas dengan mutu hasil beton yg di inginkan.

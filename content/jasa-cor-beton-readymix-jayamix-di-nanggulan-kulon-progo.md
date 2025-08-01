@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon Progo"
-date: "2024-08-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon Progo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon P..."
+title: Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon Progo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon Progo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Nanggulan
+  Kulon P...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Nanggulan Kulon Progo** – Beton Cor Readymix atau adukan beton siap pakai adalah adukan komposisi bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya tipe bahan material yang dipakaipun sama dengan tipe material campuran beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah diatur sesuai dengan kualitas hasil beton yg ditargetkan.

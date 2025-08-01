@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten"
-date: "2024-08-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten. Mudah-muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngawen Klaten.
+  Mudah-muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngawen Klaten** – Beton ready mix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada project pengecoran yg memerlukan mutu dan kwalitas yg pas.

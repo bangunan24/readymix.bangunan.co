@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang"
-date: "2024-08-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang yg kami..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kajoran
+  Magelang yg kami...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kajoran Magelang** – Beton Cor Readymix atau adukan beton siap pakai adalah campuran komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya ragam bahan material yang dipakaipun sama dengan tipe bahan material adukan beton pada biasanya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan kwalitas hasil beton yang ditargetkan.

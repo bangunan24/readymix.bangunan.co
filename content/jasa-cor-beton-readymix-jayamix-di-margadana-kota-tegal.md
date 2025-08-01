@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Margadana Kota Tegal"
-date: "2024-08-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Margadana Kota Tegal. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margadana Kota T..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Margadana Kota Tegal'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Margadana Kota Tegal. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Margadana
+  Kota T...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Margadana Kota Tegal** – Cor Readymix atau beton siap guna yakni campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yg didesain khusus untuk pengecoran secara cepat atau instan pada project pengecoran yg memerlukan mutu dan kwalitas yg pas.

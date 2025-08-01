@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul"
-date: "2024-08-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung
+  Kidul yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Patuk Gunung Kidul** – Beton Cor Readymix atau adukan beton siap pakai merupakan adukan komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan ragam material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan kualitas hasil beton yang ditargetkan.

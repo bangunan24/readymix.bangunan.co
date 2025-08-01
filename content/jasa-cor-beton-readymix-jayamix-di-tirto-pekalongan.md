@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tirto Pekalongan"
-date: "2024-08-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tirto Pekalongan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tirto Pekalonga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tirto Pekalongan'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tirto Pekalongan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tirto
+  Pekalonga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tirto Pekalongan** – Beton Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan hanya untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan kualitas dan mutu yg pas.

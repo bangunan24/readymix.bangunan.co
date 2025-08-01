@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Umbulharjo"
-date: "2024-08-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Umbulharjo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Umbulharjo yg kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Umbulharjo
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Umbulharjo. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Umbulharjo yg kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Umbulharjo** – Beton readymix atau adukan beton siap pakai adalah adukan campuran bahan material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya macam bahan material yg dipakaipun sama dengan ragam material campuran beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan pas dengan mutu hasil beton yang ditargetkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Karangmoncol Purbalingga"
-date: "2024-08-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Karangmoncol Purbalingga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Karangmoncol..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Karangmoncol Purbalingga'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Karangmoncol Purbalingga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Karangmoncol...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Karangmoncol Purbalingga** – Beton Cor Readymix atau beton siap pakai adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yang membutuhkan kualitas dan mutu yg ideal.

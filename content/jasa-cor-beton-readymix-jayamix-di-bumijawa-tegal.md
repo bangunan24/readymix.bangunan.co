@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal"
-date: "2024-08-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bumijawa
+  Tegal yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bumijawa Tegal** – Beton readymix atau adukan beton siap guna adalah campuran komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah diatur pas dengan mutu hasil beton yg ditargetkan.

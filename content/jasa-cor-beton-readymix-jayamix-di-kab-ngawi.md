@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi"
-date: "2024-08-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi yang kami paparkan,..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi. Demikian Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi yang kami
+  paparkan,...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kab Ngawi** – Beton Cor Readymix atau campuran beton siap guna adalah campuran campuran material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya ragam bahan material yg dipakaipun sama dengan macam material adukan beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan mutu hasil beton yang di inginkan.

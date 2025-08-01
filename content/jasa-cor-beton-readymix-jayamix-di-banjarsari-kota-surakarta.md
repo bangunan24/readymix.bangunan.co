@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Banjarsari Kota Surakarta"
-date: "2024-08-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Banjarsari Kota Surakarta. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banjarsari Ko..."
+title: Jasa Cor Beton Readymix & Jayamix Di Banjarsari Kota Surakarta
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Banjarsari Kota Surakarta. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banjarsari
+  Ko...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Banjarsari Kota Surakarta** – Beton readymix atau adukan beton siap guna merupakan campuran komposisi material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya macam material yang dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang telah ditetapkan sesuai dengan kualitas hasil beton yang di inginkan.

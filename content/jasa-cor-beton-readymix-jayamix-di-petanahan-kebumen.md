@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebumen"
-date: "2024-08-29"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebum..."
+title: Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebumen
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Petanahan
+  Kebum...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Petanahan Kebumen** – Beton readymix atau campuran beton siap pakai yakni adukan campuran material beton yg didesain khusus untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe material yg dipakaipun sama dengan variasi material adukan beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah diatur pas dengan kwalitas hasil beton yang ditargetkan.

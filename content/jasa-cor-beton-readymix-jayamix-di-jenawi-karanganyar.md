@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar"
-date: "2024-08-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jenawi Karangan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jenawi
+  Karangan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar** – Cor Readymix atau campuran beton siap guna yakni adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya tipe bahan material yang dipakaipun sama dengan ragam bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan sesuai dengan kwalitas hasil beton yang di inginkan.

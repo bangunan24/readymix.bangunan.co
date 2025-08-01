@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Candisari Kota Semarang"
-date: "2024-08-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Candisari Kota Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Candisari..."
+title: Jasa Cor Beton Readymix & Jayamix Di Candisari Kota Semarang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Candisari Kota Semarang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Candisari...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Candisari Kota Semarang** – Cor Readymix atau adukan beton siap pakai yaitu campuran komposisi material beton yg didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya variasi material yg dipakaipun sama dengan macam material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

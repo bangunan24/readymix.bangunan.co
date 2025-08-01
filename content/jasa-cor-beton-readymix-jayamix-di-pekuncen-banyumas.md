@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas"
-date: "2024-08-20"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas yan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pekuncen
+  Banyumas yan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pekuncen Banyumas** – Beton Cor Readymix atau adukan beton siap guna yakni adukan campuran bahan material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya ragam material yang dipakaipun sama dengan tipe material adukan beton pada lazimnya, yakni terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan kualitas hasil beton yang ditargetkan.

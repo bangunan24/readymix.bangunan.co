@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen"
-date: "2024-08-30"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen..."
+title: Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Adimulyo
+  Kebumen...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Adimulyo Kebumen** – Beton Cor Readymix atau campuran beton siap guna merupakan campuran komposisi bahan material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yg dipakaipun sama dengan macam material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah diatur sesuai dengan mutu hasil beton yg di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Plantungan Kendal"
-date: "2024-08-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Plantungan Kendal. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Plantungan Kenda..."
+title: Jasa Cor Beton Readymix & Jayamix Di Plantungan Kendal
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Plantungan Kendal. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Plantungan
+  Kenda...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Plantungan Kendal** – Cor Readymix atau adukan beton siap guna ialah campuran campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya macam bahan material yg dipakaipun sama dengan ragam material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan pas dengan kwalitas hasil beton yang di inginkan.

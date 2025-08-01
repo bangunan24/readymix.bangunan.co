@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonopringgo Pekalongan"
-date: "2024-08-26"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonopringgo Pekalongan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonoprin..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonopringgo Pekalongan'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonopringgo Pekalongan. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Wonoprin...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonopringgo Pekalongan** – Beton ready mix atau beton siap pakai adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan mutu dan mutu yg pas.

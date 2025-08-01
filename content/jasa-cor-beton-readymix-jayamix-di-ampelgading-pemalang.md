@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ampelgading Pemalang"
-date: "2024-08-21"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ampelgading Pemalang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ampelgading P..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ampelgading Pemalang
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ampelgading Pemalang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ampelgading
+  P...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ampelgading Pemalang** – Beton readymix atau campuran beton siap guna ialah adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya macam bahan material yg dipakaipun sama dengan tipe bahan material adukan beton pada umumnya, merupakan terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan sesuai dengan mutu hasil beton yang di inginkan.

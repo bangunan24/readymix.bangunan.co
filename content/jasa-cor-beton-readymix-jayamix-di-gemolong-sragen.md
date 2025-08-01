@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen"
-date: "2024-08-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen yg kami
+  p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gemolong Sragen** – Cor Readymix atau campuran beton siap guna merupakan adukan campuran bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yang dipakaipun sama dengan tipe material campuran beton pada lazimnya, ialah terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yang sudah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.

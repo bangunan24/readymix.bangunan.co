@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Subah Batang"
-date: "2024-08-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Subah Batang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Subah Batang. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Subah Batang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Subah Batang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Subah Batang.
+  Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Subah Batang** – Cor Readymix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yg membutuhkan kualitas dan kualitas yang ideal.

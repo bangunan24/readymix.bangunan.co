@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo Temanggung"
-date: "2024-08-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo Temanggung. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo T..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo Temanggung'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo Temanggung. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngadirejo
+  T...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngadirejo Temanggung** – Beton ready mix atau beton siap pakai yakni campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau instan pada proyek pengecoran yang memerlukan kwalitas dan mutu yang pas.

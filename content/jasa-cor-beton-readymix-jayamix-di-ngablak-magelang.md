@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Ngablak Magelang"
-date: "2024-08-23"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Ngablak Magelang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngablak Magela..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Ngablak Magelang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Ngablak Magelang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Ngablak
+  Magela...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Ngablak Magelang** – Beton ready mix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yang membutuhkan kualitas dan kwalitas yg pas.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tambak Banyumas"
-date: "2024-08-22"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tambak Banyumas. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tambak Banyumas..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tambak Banyumas'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tambak Banyumas. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tambak
+  Banyumas...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tambak Banyumas** – Beton ready mix atau beton siap pakai ialah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kwalitas dan kwalitas yang pas.

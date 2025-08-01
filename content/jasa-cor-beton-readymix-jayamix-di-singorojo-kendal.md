@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Singorojo Kendal"
-date: "2024-08-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Singorojo Kendal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Singorojo Kendal. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Singorojo Kendal'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Singorojo Kendal. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Singorojo
+  Kendal. Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Singorojo Kendal** – Beton ready mix atau beton siap guna adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yang memerlukan kualitas dan kwalitas yang ideal.

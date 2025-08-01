@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang"
-date: "2024-08-17"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang. Kami har..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kragan Rembang. Kami
+  har...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kragan Rembang** – Beton Cor Readymix atau beton siap guna merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yang didesain khusus untuk pengecoran secara tepat atau instant pada project pengecoran yg memerlukan mutu dan mutu yg pas.

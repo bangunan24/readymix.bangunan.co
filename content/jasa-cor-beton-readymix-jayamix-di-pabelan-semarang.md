@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pabelan Semarang"
-date: "2024-08-16"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pabelan Semarang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pabelan Semara..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pabelan Semarang'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pabelan Semarang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pabelan
+  Semara...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pabelan Semarang** – Beton Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang membutuhkan mutu dan kwalitas yg tepat.

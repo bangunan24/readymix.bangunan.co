@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sragi Pekalongan"
-date: "2024-08-27"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sragi Pekalongan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sragi Pekalong..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sragi Pekalongan'
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sragi Pekalongan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sragi
+  Pekalong...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sragi Pekalongan** – Cor Readymix atau beton siap pakai yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg memerlukan kwalitas dan kualitas yg ideal.

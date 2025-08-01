@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gladagsari Boyolali"
-date: "2024-08-24"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gladagsari Boyolali. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gladagsari Bo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gladagsari Boyolali
+date: '2025-08-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gladagsari Boyolali. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gladagsari
+  Bo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gladagsari Boyolali** – Beton readymix atau adukan beton siap pakai adalah campuran komposisi material beton yang diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan ragam bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan pas dengan kwalitas hasil beton yang di inginkan.
