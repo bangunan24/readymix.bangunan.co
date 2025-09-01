@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati"
-date: "2024-09-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati yang kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati yang kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jakenan Pati** – Cor Readymix atau campuran beton siap pakai ialah adukan komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan macam material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan kualitas hasil beton yg ditargetkan.

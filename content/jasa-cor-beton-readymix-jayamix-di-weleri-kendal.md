@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal"
-date: "2024-09-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal. Kami harap..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Weleri Kendal. Kami
+  harap...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Weleri Kendal** – Cor Readymix atau beton siap pakai adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yg memerlukan kualitas dan mutu yg pas.

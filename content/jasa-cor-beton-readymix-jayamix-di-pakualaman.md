@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pakualaman"
-date: "2024-09-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pakualaman. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pakualaman yang kami pa..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pakualaman
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pakualaman. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pakualaman
+  yang kami pa...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pakualaman** – Beton Cor Readymix atau campuran beton siap pakai merupakan adukan campuran material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan tipe material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yang sudah ditentukan pas dengan kwalitas hasil beton yg di inginkan.

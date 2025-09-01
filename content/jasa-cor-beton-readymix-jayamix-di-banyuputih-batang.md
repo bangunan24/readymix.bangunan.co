@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Banyuputih Batang"
-date: "2024-09-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Banyuputih Batang. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyuputih Bata..."
+title: Jasa Cor Beton Readymix & Jayamix Di Banyuputih Batang
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Banyuputih Batang. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Banyuputih
+  Bata...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Banyuputih Batang** – Cor Readymix atau campuran beton siap pakai yaitu adukan campuran material beton yg didesain hanya untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya tipe bahan material yang dipakaipun sama dengan macam material adukan beton pada biasanya, adalah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditentukan pas dengan mutu hasil beton yang di inginkan.

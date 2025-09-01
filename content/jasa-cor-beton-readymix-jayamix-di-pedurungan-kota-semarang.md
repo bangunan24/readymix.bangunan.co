@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota Semarang"
-date: "2024-09-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota Semarang. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota..."
+title: Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota Semarang
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota Semarang. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Pedurungan
+  Kota...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Pedurungan Kota Semarang** – Cor Readymix atau campuran beton siap pakai ialah campuran komposisi material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan tipe material adukan beton pada biasanya, merupakan terdiri dari: pasir beton, batu split, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yg di inginkan.

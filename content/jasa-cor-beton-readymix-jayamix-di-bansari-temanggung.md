@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung"
-date: "2024-09-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bansari
+  Temanggung y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bansari Temanggung** – Beton readymix atau campuran beton siap guna ialah campuran komposisi material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yang dipakaipun sama dengan macam material campuran beton pada umumnya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg sudah ditetapkan sesuai dengan kualitas hasil beton yang ditargetkan.

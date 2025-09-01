@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Argomulyo Kota Salatiga"
-date: "2024-09-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Argomulyo Kota Salatiga. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Argomulyo..."
+title: Jasa Cor Beton Readymix & Jayamix Di Argomulyo Kota Salatiga
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Argomulyo Kota Salatiga. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Argomulyo...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Argomulyo Kota Salatiga** – Cor Readymix atau campuran beton siap guna ialah adukan komposisi material beton yg diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yang dipakaipun sama dengan macam material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah diatur pas dengan kwalitas hasil beton yg di inginkan.

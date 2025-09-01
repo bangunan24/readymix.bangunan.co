@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Simo Boyolali"
-date: "2024-09-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Simo Boyolali. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Simo Boyolali. Mud..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Simo Boyolali'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Simo Boyolali. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Simo
+  Boyolali. Mud...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Simo Boyolali** – Beton ready mix atau beton siap guna yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan mutu dan kualitas yang pas.

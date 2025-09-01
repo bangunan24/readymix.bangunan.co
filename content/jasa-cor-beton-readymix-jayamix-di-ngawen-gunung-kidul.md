@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul"
-date: "2024-09-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul y..."
+title: Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung
+  Kidul y...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Ngawen Gunung Kidul** – Beton readymix atau adukan beton siap pakai adalah campuran komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis bahan material yg dipakaipun sama dengan tipe bahan material campuran beton pada biasanya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditentukan sesuai dengan kwalitas hasil beton yg di inginkan.

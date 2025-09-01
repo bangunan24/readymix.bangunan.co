@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap"
-date: "2024-09-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Jeruklegi
+  Cilacap yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Jeruklegi Cilacap** – Beton Cor Readymix atau campuran beton siap pakai merupakan adukan komposisi material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi material yg dipakaipun sama dengan tipe bahan material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditetapkan pas dengan kwalitas hasil beton yg di inginkan.

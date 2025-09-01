@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul"
-date: "2024-09-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul yg kami papar..."
+title: Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul yg kami
+  papar...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Sedayu Bantul** – Beton Cor Readymix atau adukan beton siap guna yakni campuran komposisi bahan material beton yang diformulasikan hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis material yang dipakaipun sama dengan tipe material adukan beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan campuran dan takaran yg sudah diatur pas dengan kualitas hasil beton yang di inginkan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun Kebumen"
-date: "2024-09-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun Kebumen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun Kebum..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun Kebumen'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun Kebumen. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kutowinangun
+  Kebum...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kutowinangun Kebumen** – Beton Cor Readymix atau beton siap guna yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yg diformulasikan hanya untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan kualitas dan kwalitas yang ideal.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Purworejo"
-date: "2024-09-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Purworejo. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Purwore..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Purworejo'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Purwodadi Purworejo. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Purwodadi
+  Purwore...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Purwodadi Purworejo** – Beton ready mix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang memerlukan kwalitas dan kualitas yg pas.

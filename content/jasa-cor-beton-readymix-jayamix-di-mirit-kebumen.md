@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mirit Kebumen"
-date: "2024-09-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mirit Kebumen. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mirit Kebumen. Sem..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mirit Kebumen'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mirit Kebumen. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mirit
+  Kebumen. Sem...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mirit Kebumen** – Beton ready mix atau beton siap pakai yaitu campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga adukan air yg diformulasikan khusus untuk pengecoran secara cepat atau instant pada project pengecoran yg membutuhkan mutu dan kualitas yg ideal.

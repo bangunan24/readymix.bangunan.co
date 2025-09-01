@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pringsurat Temanggung"
-date: "2024-09-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pringsurat Temanggung. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pringsura..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pringsurat Temanggung'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pringsurat Temanggung. Seperti itulah
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di
+  Pringsura...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pringsurat Temanggung** – Beton ready mix atau beton siap pakai adalah adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang membutuhkan kualitas dan kwalitas yg ideal.

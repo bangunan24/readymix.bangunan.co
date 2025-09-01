@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mlonggo Jepara"
-date: "2024-09-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mlonggo Jepara. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mlonggo Jepara. K..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mlonggo Jepara'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mlonggo Jepara. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mlonggo
+  Jepara. K...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mlonggo Jepara** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara cepat atau instan pada project pengecoran yang membutuhkan kwalitas dan mutu yang tepat.

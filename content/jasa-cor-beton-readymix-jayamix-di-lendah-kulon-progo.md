@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Progo"
-date: "2024-09-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Progo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Pr..."
+title: Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Progo
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Progo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon
+  Pr...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Lendah Kulon Progo** – Beton readymix atau campuran beton siap pakai merupakan campuran komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan macam material adukan beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang telah diatur sesuai dengan mutu hasil beton yang ditargetkan.

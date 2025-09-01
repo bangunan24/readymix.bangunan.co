@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan Kebumen"
-date: "2024-09-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan Kebumen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan Keb..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan Kebumen'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan Kebumen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kuwarasan
+  Keb...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kuwarasan Kebumen** – Beton ready mix atau beton siap guna yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yg didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kualitas dan mutu yg tepat.

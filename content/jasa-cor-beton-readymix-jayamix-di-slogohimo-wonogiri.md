@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri"
-date: "2024-09-06"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Slogohimo
+  Wonogiri....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Slogohimo Wonogiri** – Beton Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga campuran air yg diformulasikan hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan mutu dan kwalitas yang tepat.

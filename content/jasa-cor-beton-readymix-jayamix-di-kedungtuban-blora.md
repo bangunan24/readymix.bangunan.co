@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban Blora"
-date: "2024-09-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban Blora. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban Blora...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban Blora'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban Blora. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedungtuban
+  Blora....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedungtuban Blora** – Beton ready mix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada project pengecoran yg membutuhkan kualitas dan kwalitas yang ideal.

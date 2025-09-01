@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo Temanggung"
-date: "2024-09-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo Temanggung. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo Temang..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo Temanggung'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo Temanggung. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tlogomulyo
+  Temang...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tlogomulyo Temanggung** – Beton Cor Readymix atau beton siap guna yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara cepat atau instan pada proyek pengecoran yg memerlukan mutu dan kwalitas yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap"
-date: "2024-09-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap..."
+title: Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Binangun
+  Cilacap...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Binangun Cilacap** – Cor Readymix atau adukan beton siap guna merupakan campuran campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya jenis material yang dipakaipun sama dengan tipe material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yang sudah diatur sesuai dengan mutu hasil beton yg ditargetkan.

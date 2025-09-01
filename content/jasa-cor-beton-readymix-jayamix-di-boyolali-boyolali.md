@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolali"
-date: "2024-09-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolali. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolal..."
+title: Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolali
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolali. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Boyolali
+  Boyolal...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Boyolali Boyolali** – Beton readymix atau adukan beton siap pakai yakni adukan komposisi bahan material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya macam material yg dipakaipun sama dengan jenis bahan material adukan beton pada biasanya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan mutu hasil beton yang di inginkan.

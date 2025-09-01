@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kedawung Sragen"
-date: "2024-09-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kedawung Sragen. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedawung Sragen..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kedawung Sragen'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kedawung Sragen. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kedawung
+  Sragen...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kedawung Sragen** – Cor Readymix atau beton siap guna merupakan campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga adukan air yang didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yang membutuhkan kualitas dan kualitas yang tepat.

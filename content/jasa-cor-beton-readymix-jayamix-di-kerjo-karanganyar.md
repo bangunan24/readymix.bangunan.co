@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kerjo Karanganyar"
-date: "2024-09-11"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kerjo Karanganyar. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kerjo Karanganyar. Ka..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kerjo Karanganyar'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kerjo Karanganyar. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kerjo
+  Karanganyar. Ka...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kerjo Karanganyar** – Cor Readymix atau beton siap pakai merupakan campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu split dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan kwalitas yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gedongtengen"
-date: "2024-09-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gedongtengen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gedongtengen yg kami paparka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gedongtengen
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gedongtengen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gedongtengen yg kami
+  paparka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gedongtengen** – Beton Cor Readymix atau campuran beton siap guna yaitu campuran komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya ragam bahan material yg dipakaipun sama dengan ragam material adukan beton pada biasanya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yang sudah diatur sesuai dengan kualitas hasil beton yang di inginkan.

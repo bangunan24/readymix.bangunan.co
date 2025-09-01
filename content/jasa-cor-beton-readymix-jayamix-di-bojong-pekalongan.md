@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan"
-date: "2024-09-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan yg..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bojong
+  Pekalongan yg...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bojong Pekalongan** – Cor Readymix atau adukan beton siap guna ialah adukan campuran material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis bahan material yang dipakaipun sama dengan jenis bahan material campuran beton pada biasanya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan pas dengan kualitas hasil beton yg ditargetkan.

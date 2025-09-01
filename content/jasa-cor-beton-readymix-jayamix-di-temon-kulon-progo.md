@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo"
-date: "2024-09-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo yg ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Temon Kulon
+  Progo yg ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Temon Kulon Progo** – Cor Readymix atau adukan beton siap pakai yaitu campuran komposisi material beton yang didesain hanya untuk pengecoran dalam waktu tepat atau instant. Pada dasarnya variasi material yang dipakaipun sama dengan ragam bahan material campuran beton pada biasanya, yakni terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan sesuai dengan kwalitas hasil beton yang di inginkan.

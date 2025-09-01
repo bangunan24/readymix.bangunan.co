@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Susukan Banjarnegara"
-date: "2024-09-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Susukan Banjarnegara. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Susukan Banjarne..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Susukan Banjarnegara'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Susukan Banjarnegara. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Susukan
+  Banjarne...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Susukan Banjarnegara** – Beton Cor Readymix atau beton siap pakai ialah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu split dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan kualitas dan kwalitas yg tepat.

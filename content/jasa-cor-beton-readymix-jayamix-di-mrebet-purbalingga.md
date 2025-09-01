@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Mrebet Purbalingga"
-date: "2024-09-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Mrebet Purbalingga. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mrebet Purbalingga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Mrebet Purbalingga'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Mrebet Purbalingga. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Mrebet
+  Purbalingga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Mrebet Purbalingga** – Beton Cor Readymix atau beton siap pakai yaitu campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kualitas dan kualitas yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kotagede"
-date: "2024-09-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kotagede. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kotagede yg kami paparkan, Adapu..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kotagede
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kotagede. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kotagede yg kami
+  paparkan, Adapu...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kotagede** – Cor Readymix atau campuran beton siap pakai yakni campuran komposisi bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya macam material yg dipakaipun sama dengan ragam bahan material campuran beton pada umumnya, ialah terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan pas dengan kualitas hasil beton yg di inginkan.

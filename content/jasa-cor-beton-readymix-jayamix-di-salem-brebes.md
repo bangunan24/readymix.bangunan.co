@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes"
-date: "2024-09-13"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes. Muda..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Salem Brebes.
+  Muda...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Salem Brebes** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang didesain hanya untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yang membutuhkan kwalitas dan kualitas yg tepat.

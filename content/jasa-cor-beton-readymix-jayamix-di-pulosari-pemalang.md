@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Pulosari Pemalang"
-date: "2024-09-09"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Pulosari Pemalang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pulosari Pemalang...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Pulosari Pemalang'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Pulosari Pemalang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Pulosari
+  Pemalang....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Pulosari Pemalang** – Beton Cor Readymix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau instant pada project pengecoran yg memerlukan kualitas dan kwalitas yg pas.

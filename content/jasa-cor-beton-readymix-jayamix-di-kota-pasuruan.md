@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan"
-date: "2024-09-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan yang..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan
+  yang...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kota Pasuruan** – Beton readymix atau adukan beton siap pakai merupakan campuran komposisi material beton yang diformulasikan khusus untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya ragam material yg dipakaipun sama dengan macam bahan material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yg telah ditetapkan pas dengan mutu hasil beton yg ditargetkan.

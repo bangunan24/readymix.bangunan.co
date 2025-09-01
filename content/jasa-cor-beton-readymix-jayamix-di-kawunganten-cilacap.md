@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Kawunganten Cilacap"
-date: "2024-09-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Kawunganten Cilacap. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kawunganten Cilac..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Kawunganten Cilacap'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Kawunganten Cilacap. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Kawunganten
+  Cilac...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Kawunganten Cilacap** – Beton ready mix atau beton siap guna ialah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu kerikil dan dengan adukan semen Portland juga adukan air yang diformulasikan hanya untuk pengecoran secara cepat atau instant pada proyek pengecoran yg membutuhkan kwalitas dan mutu yang tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro Boyolali"
-date: "2024-09-03"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro Boyolali. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro B..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro Boyolali'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro Boyolali. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro
+  B...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Wonosegoro Boyolali** – Beton Cor Readymix atau beton siap pakai yaitu adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yg didesain khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg membutuhkan kualitas dan mutu yg pas.

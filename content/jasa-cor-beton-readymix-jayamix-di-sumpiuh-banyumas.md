@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh Banyumas"
-date: "2024-09-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh Banyumas. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh Banyuma..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh Banyumas'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh Banyumas. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Sumpiuh
+  Banyuma...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Sumpiuh Banyumas** – Beton ready mix atau beton siap pakai adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga adukan air yang diformulasikan khusus untuk pengecoran secara cepat atau instant pada proyek pengecoran yang memerlukan kualitas dan kwalitas yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Gajahmungkur Kota Semarang"
-date: "2024-09-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Gajahmungkur Kota Semarang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Gajahmu..."
+title: Jasa Cor Beton Readymix & Jayamix Di Gajahmungkur Kota Semarang
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Gajahmungkur Kota Semarang. Sampai disini
+  Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di
+  Gajahmu...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Gajahmungkur Kota Semarang** – Cor Readymix atau campuran beton siap pakai merupakan adukan campuran material beton yang didesain khusus untuk pengecoran dalam waktu cepat atau instan. Pada dasarnya variasi bahan material yg dipakaipun sama dengan ragam bahan material campuran beton pada lazimnya, yakni terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan sesuai dengan mutu hasil beton yang ditargetkan.

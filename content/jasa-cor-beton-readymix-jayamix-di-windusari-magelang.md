@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Windusari Magelang"
-date: "2024-09-04"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Windusari Magelang. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Windusari Mag..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Windusari Magelang'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Windusari Magelang. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Windusari
+  Mag...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Windusari Magelang** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan adukan semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada proyek pengecoran yg memerlukan kualitas dan mutu yg pas.

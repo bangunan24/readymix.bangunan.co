@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung Kidul"
-date: "2024-09-05"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung Kidul. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung K..."
+title: Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung Kidul
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung Kidul. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Wonosari
+  Gunung K...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Wonosari Gunung Kidul** – Cor Readymix atau campuran beton siap guna ialah adukan campuran material beton yg diformulasikan hanya untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe material yang dipakaipun sama dengan jenis material campuran beton pada umumnya, adalah terdiri dari: pasir beton, batu split, semen dan air. Dengan komposisi dan takaran yg telah ditentukan sesuai dengan mutu hasil beton yg ditargetkan.

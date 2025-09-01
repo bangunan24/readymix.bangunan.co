@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang"
-date: "2024-09-07"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang yang ka..."
+title: Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Grabag
+  Magelang yang ka...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Grabag Magelang** – Beton Cor Readymix atau adukan beton siap guna ialah adukan komposisi material beton yg diformulasikan khusus untuk pengecoran dalam waktu cepat atau instant. Pada dasarnya jenis material yang dipakaipun sama dengan jenis bahan material campuran beton pada lazimnya, adalah terdiri dari: pasir beton, batu pecah, semen dan air. Dengan komposisi dan takaran yang sudah ditetapkan sesuai dengan kwalitas hasil beton yang ditargetkan.

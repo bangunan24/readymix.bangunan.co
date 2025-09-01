@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Nusawungu Cilacap"
-date: "2024-09-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Nusawungu Cilacap. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nusawungu Cila..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Nusawungu Cilacap'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Nusawungu Cilacap. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Nusawungu
+  Cila...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Nusawungu Cilacap** – Beton Cor Readymix atau beton siap pakai merupakan adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain khusus untuk pengecoran secara tepat atau instan pada project pengecoran yang memerlukan kwalitas dan kwalitas yang pas.

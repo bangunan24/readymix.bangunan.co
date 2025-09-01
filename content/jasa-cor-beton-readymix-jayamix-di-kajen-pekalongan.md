@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan"
-date: "2024-09-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan..."
+title: Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Kajen
+  Pekalongan...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Kajen Pekalongan** – Cor Readymix atau adukan beton siap guna yakni campuran campuran material beton yg didesain hanya untuk pengecoran dalam waktu tepat atau dadakan. Pada dasarnya variasi material yg dipakaipun sama dengan variasi bahan material campuran beton pada lazimnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yang telah ditentukan sesuai dengan kwalitas hasil beton yg di inginkan.

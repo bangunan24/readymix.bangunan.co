@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Loano Purworejo"
-date: "2024-09-14"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Loano Purworejo. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Loano Purworejo...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Loano Purworejo'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Loano Purworejo. Sampai disini Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Loano
+  Purworejo....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Loano Purworejo** – Cor Readymix atau beton siap guna yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg memerlukan kwalitas dan kwalitas yang pas.

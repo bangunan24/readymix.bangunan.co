@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tempuran Magelang"
-date: "2024-09-02"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tempuran Magelang. Demikian Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tempuran Magelang...."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tempuran Magelang'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tempuran Magelang. Demikian Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tempuran
+  Magelang....
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tempuran Magelang** – Cor Readymix atau beton siap guna adalah adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu kerikil dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kualitas dan kwalitas yg tepat.

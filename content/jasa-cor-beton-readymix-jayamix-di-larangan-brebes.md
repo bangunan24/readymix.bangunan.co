@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes"
-date: "2024-09-10"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes. Semoga..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Larangan Brebes.
+  Semoga...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Larangan Brebes** – Cor Readymix atau beton siap guna adalah campuran Agregat halus atau disebut juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan campuran semen Portland juga campuran air yg diformulasikan khusus untuk pengecoran secara cepat atau dadakan pada project pengecoran yg memerlukan kualitas dan kualitas yg tepat.

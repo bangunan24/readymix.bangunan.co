@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Tugu"
-date: "2024-09-08"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Tugu. Sampai disini Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tugu. Semoga bisa memahami..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Tugu'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Tugu. Sampai disini Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Tugu. Semoga bisa
+  memahami...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Tugu** – Beton ready mix atau beton siap pakai adalah campuran Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu split dan dengan campuran semen Portland juga campuran air yang diformulasikan khusus untuk pengecoran secara tepat atau instan pada proyek pengecoran yg membutuhkan mutu dan kwalitas yg ideal.

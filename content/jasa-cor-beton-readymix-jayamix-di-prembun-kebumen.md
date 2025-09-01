@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen"
-date: "2024-09-12"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen. Mudah-..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Prembun Kebumen.
+  Mudah-...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Prembun Kebumen** – Beton Cor Readymix atau beton siap guna yakni adukan Agregat halus atau dinamakan juga pasir dengan agregat kasar atau disebut juga batu pecah dan dengan adukan semen Portland juga adukan air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada project pengecoran yang membutuhkan kualitas dan kualitas yg tepat.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix [Jayamix] Di Paguyangan Brebes"
-date: "2024-09-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix [Jayamix] Di Paguyangan Brebes. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Paguyangan Brebes. Mu..."
+title: 'Jasa Cor Beton Readymix [Jayamix] Di Paguyangan Brebes'
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix [Jayamix] Di Paguyangan Brebes. Itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix [Jayamix] Di Paguyangan
+  Brebes. Mu...
 ---
 
 **Jasa Cor Beton Readymix \[Jayamix\] Di Paguyangan Brebes** – Beton ready mix atau beton siap guna yakni adukan Agregat halus atau disebut juga pasir dengan agregat kasar atau dinamakan juga batu pecah dan dengan campuran semen Portland juga campuran air yg didesain hanya untuk pengecoran secara tepat atau dadakan pada proyek pengecoran yg membutuhkan mutu dan kualitas yang pas.

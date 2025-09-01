@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo"
-date: "2024-09-15"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo. Itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo yg kami p..."
+title: Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo. Itulah Mitra bangunan.co
+  penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo yg kami
+  p...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Bener Purworejo** – Beton Cor Readymix atau campuran beton siap pakai yaitu campuran campuran material beton yang didesain khusus untuk pengecoran dalam waktu tepat atau instan. Pada dasarnya tipe bahan material yg dipakaipun sama dengan jenis bahan material adukan beton pada umumnya, yaitu terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan campuran dan takaran yg telah ditetapkan sesuai dengan kualitas hasil beton yg di inginkan.

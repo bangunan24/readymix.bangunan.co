@@ -1,9 +1,12 @@
 ---
-title: "Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sleman"
-date: "2024-09-01"
-categories: 
-  - "jayamix"
-description: "Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sleman. Seperti itulah Mitra bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sl..."
+title: Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sleman
+date: '2025-09-01'
+categories:
+  - jayamix
+description: >-
+  Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sleman. Seperti itulah Mitra
+  bangunan.co penjelasan dari Jasa Cor Beton Readymix & Jayamix Di Cangkringan
+  Sl...
 ---
 
 **Jasa Cor Beton Readymix & Jayamix Di Cangkringan Sleman** – Cor Readymix atau campuran beton siap guna yaitu adukan campuran bahan material beton yang didesain hanya untuk pengecoran dalam waktu cepat atau dadakan. Pada dasarnya jenis material yg dipakaipun sama dengan tipe bahan material campuran beton pada umumnya, merupakan terdiri dari: pasir beton, batu kerikil, semen dan air. Dengan komposisi dan takaran yg sudah ditentukan sesuai dengan kualitas hasil beton yang ditargetkan.
