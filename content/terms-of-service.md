@@ -1,6 +1,6 @@
 ---
-title: "Syarat dan Ketentuan Layanan"
-date: 2024-10-07
+title: Syarat dan Ketentuan Layanan
+date: '2025-10-01'
 draft: false
 _build:
   list: never
