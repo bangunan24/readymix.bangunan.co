@@ -1,13 +1,13 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Agus
     message: >-
       Saya memanfaatkan layanan readymix beton dari readymix.bangunan.co untuk
-      pembangunan rumah saya, dan hasilnya menakjubkan. Beton yang disediakan
-      bermutu dan proses pengecorannya sangat rapi.
+      konstruksi rumah saya, dan hasilnya sangat memuaskan. Beton yang dikirim
+      berkualitas tinggi dan proses pengecorannya sangat rapi.
     response: >-
-      Terima kasih atas kepercayaan Anda! Kami senang dapat menghadirkan
-      readymix beton bermutu tinggi untuk pembangunan Anda.
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
     name: Ayu
@@ -15,45 +15,44 @@ testimonials:
       Saya terbantu oleh readymix.bangunan.co dalam memenuhi kebutuhan beton
       saya. Produknya berkualitas dan sesuai dengan kebutuhan proyek.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
       dengan layanan readymix dari kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Faisal
+    name: Tono
     message: >-
-      Layanan readymix beton dari readymix.bangunan.co efisien dan berkualitas.
-      Beton yang disediakan sesuai dengan spesifikasi yang saya harapkan untuk
-      proyek perumahan saya.
+      Layanan readymix beton dari readymix.bangunan.co responsif dan
+      berkualitas. Beton yang dikirim sesuai dengan spesifikasi yang saya
+      harapkan untuk proyek properti saya.
     response: >-
-      Kami menghargai ulasan Anda. Terima kasih atas pilihan Anda menggunakan
-      readymix beton kami!
+      Terima kasih! Kami fokus untuk menyediakan layanan readymix beton
+      berkualitas dengan pengiriman yang lancar.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Yudi
+    name: Gani
     message: >-
-      Saya sangat puas dengan layanan readymix beton dari readymix.bangunan.co.
-      Beton yang kami gunakan berkualitas tinggi dan sesuai dengan kebutuhan
-      proyek kami.
+      Saya terkesan dengan layanan readymix beton dari readymix.bangunan.co.
+      Beton yang kami gunakan sangat kuat dan sesuai dengan kebutuhan proyek
+      kami.
     response: >-
-      Kami senang Anda puas dengan layanan dan produk kami. Terima kasih atas
-      dukungan Anda!
+      Kami gembira Anda puas dengan layanan dan produk kami. Terima kasih atas
+      kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Ayu
+    name: Diah
     message: >-
-      Saya sangat puas dengan produk readymix.bangunan.co. Beton yang dikirim
-      premium dan memenuhi ekspektasi.
+      Pelayanan readymix.bangunan.co baik sekali. Produk beton yang saya pesan
+      bermutu dan sesuai dengan ekspektasi.
     response: >-
-      Kami menghargai ulasan Anda. Terima kasih telah menggunakan readymix beton
+      Kami menghargai masukan Anda. Terima kasih telah memilih readymix beton
       kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Galih
+    name: Iwan
     message: >-
-      Beton readymix dari readymix.bangunan.co sangat sesuai dengan spesifikasi
-      proyek infrastruktur yang saya kerjakan. Pengirimannya tepat waktu dan
-      sesuai jadwal.
+      Saya puas dengan produk readymix untuk proyek jalan yang saya kerjakan.
+      Pengirimannya cepat dan sesuai harapan.
     response: >-
-      Terima kasih telah mempercayai readymix beton kami. Kami senang Anda puas
-      dengan hasilnya.
+      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
+      atas kepercayaannya!
     rating: 4
