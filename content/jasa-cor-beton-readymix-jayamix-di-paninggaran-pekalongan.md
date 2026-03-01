@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Paninggaran Pekalongan'
-date: '2025-03-01'
+date: '2026-03-01'
 categories:
   - jayamix
 description: >-
