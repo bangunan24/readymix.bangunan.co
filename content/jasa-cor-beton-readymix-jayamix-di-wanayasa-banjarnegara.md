@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Wanayasa Banjarnegara'
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - jayamix
 description: >-
