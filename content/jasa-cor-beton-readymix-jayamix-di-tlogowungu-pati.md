@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Tlogowungu Pati'
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - jayamix
 description: >-
