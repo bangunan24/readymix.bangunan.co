@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Secang Magelang'
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - jayamix
 description: >-

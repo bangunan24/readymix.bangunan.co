@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Pagerbarang Tegal'
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - jayamix
 description: >-
