@@ -1,6 +1,6 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Jenawi Karanganyar
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - jayamix
 description: >-
