@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Slogohimo Wonogiri'
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - jayamix
 description: >-

@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Wonosegoro Boyolali'
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - jayamix
 description: >-
