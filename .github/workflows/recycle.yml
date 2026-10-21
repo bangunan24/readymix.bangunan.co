@@ -1,0 +1,93 @@
+name: Recycle Old Posts
+
+on:
+  schedule:
+    # Weekly (Sunday 00:00 UTC = 07:00 WIB). Only articles whose last touch (lastmod, or date)
+    # is >= 12 months old are recycled, so checking more often has no real benefit.
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  # Needed to explicitly trigger deploy.yml at the end (GITHUB_TOKEN pushes don't fire `push` workflows).
+  actions: write
+
+jobs:
+  recycle:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Housekeeping: GitHub runners ship ~14 GB of toolchains this repo never uses. Removing them
+      # keeps `npm ci` + Hugo from hitting "No space left on device" on a large public/ folder.
+      - name: Free disk space
+        run: |
+          df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          df -h / | tail -1
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.14.0'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      # Only bumps `lastmod:` in the front matter. Building, publishing and the IndexNow
+      # notification all happen in deploy.yml, AFTER the content is committed (below).
+      - name: Recycle posts
+        run: npm run recycle
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push Changes
+        id: commit_push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add content/
+          if git diff --staged --quiet; then
+            echo "ℹ️  No articles to recycle this week — done."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Recycle posts (update lastmod)"
+
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push successful (attempt $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ The push still fails after 5 attempts — there is likely a genuine conflict; please check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected (possible race with another workflow), rebasing & retrying in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            git rebase -X theirs origin/master
+          done
+
+      - name: Trigger Deploy (publish the recycled posts now)
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🚀 Recycled posts pushed — triggering deploy.yml..."
+          gh workflow run deploy.yml --ref master

@@ -1,0 +1,5 @@
+{{- /* Fills __DOMAIN__ / __BRAND__ in text taken from hugo.toml, so the domain is only ever typed in baseURL + params.brand. */ -}}
+{{- $s := . -}}
+{{- $s = replace $s "__DOMAIN__" (urls.Parse site.BaseURL).Host -}}
+{{- $s = replace $s "__BRAND__" site.Params.brand -}}
+{{- return $s -}}

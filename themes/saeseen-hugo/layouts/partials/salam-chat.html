@@ -1,7 +1,7 @@
 <div class="mobile-only">
   <div class="salam-chat-top">
     <div class="salam-chat-top-button">
-      <a href="https:{{ .Site.Params.whatsapp }}"><i class="fab fa-whatsapp"></i> whatsapp</a>
+      <a href="https:{{ partial "site-text.html" .Site.Params.whatsapp }}"><i class="fab fa-whatsapp"></i> whatsapp</a>
     </div>
   </div>
   <div class="salam-chat-bottom">
@@ -12,7 +12,7 @@
 </div>
 <div class="desktop-tablet-only">
   <div class="salam-chat-top-desktop">
-    <a href="https:{{ .Site.Params.whatsapp }}"><i class="fab fa-whatsapp"></i></a>
+    <a href="https:{{ partial "site-text.html" .Site.Params.whatsapp }}"><i class="fab fa-whatsapp"></i></a>
   </div>
   <div class="salam-chat-top-kiri">
     <a href="tel:{{ .Site.Params.telepon }}"><i class="fas fa-phone"></i></a>

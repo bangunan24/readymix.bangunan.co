@@ -1,0 +1,113 @@
+name: Deploy Site
+
+# Cloudflare Pages setup used by this repo:
+#   - Cloudflare Pages is connected to this GitHub repo, production branch = master
+#   - Build command  : (empty)        <- Cloudflare does NOT build anything
+#   - Output folder  : public         <- Cloudflare only publishes the committed public/ folder
+# So EVERYTHING (Hugo build, sitemap, robots.txt, IndexNow key) is produced here in GitHub Actions
+# and the generated public/ folder is committed back to master. Cloudflare Pages then publishes it.
+#
+# The automated pipeline (revise-articles / fix-orphans / recycle) never relies on the `push`
+# trigger below: pushes made with GITHUB_TOKEN do NOT fire push-triggered workflows (GitHub's
+# anti-recursion safeguard), so those workflows call `gh workflow run deploy.yml` explicitly. The
+# `push` trigger stays for manual pushes by a human maintainer.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+    paths-ignore:
+      - 'public/**'
+
+# Same group as every other workflow that commits to master, so they queue instead of racing.
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.124.0'
+          extended: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.14.0'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      # public/ is tracked in git, so the checkout still holds the sitemap of the PREVIOUS
+      # deploy. Keep a copy: after the build, the difference between the two sitemaps is exactly
+      # the list of pages that are new or whose <lastmod> changed (see tools/ping-indexnow.js).
+      - name: Remember previous sitemap
+        run: cp public/sitemap.xml "$RUNNER_TEMP/sitemap.old.xml" || echo "No previous sitemap (first deploy)."
+
+      # Creates .indexnow-key.json + static/<key>.txt only if they are missing. They are committed
+      # to the repo, so normally this does nothing.
+      - name: Ensure IndexNow key
+        run: node tools/ping-indexnow.js --ensure-key
+
+      # npm "prebuild" expands the testimonial spintax, then: hugo --minify + sitemap/robots.
+      - name: Build Site
+        run: npm run build
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push public/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Housekeeping: node_modules must never be committed (the workflow runs `npm ci`). If an
+          # older commit still tracks it, drop it from the index (files stay on the runner's disk).
+          if git ls-files --error-unmatch node_modules >/dev/null 2>&1; then
+            echo "🧹 node_modules is tracked in git — removing it from the index."
+            git rm -r -q --cached node_modules
+          fi
+          git add public/ static/ .indexnow-key.json
+          if git diff --staged --quiet; then
+            echo "ℹ️  public/ unchanged — nothing to commit."
+            exit 0
+          fi
+          # NOTE: no "[skip ci]" here on purpose. Cloudflare Pages honours that tag and would SKIP
+          # publishing this very commit — which is the commit that carries the new public/ files.
+          git commit -m "Build site"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push succeeded (attempt $i)."
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push still failed after 5 attempts — check manually." >&2
+              exit 1
+            fi
+            wait_s=$(( (RANDOM % 10) + 5 ))
+            echo "⏳ Push rejected, rebasing & retrying in ${wait_s}s... (attempt $i/5)"
+            sleep "$wait_s"
+            git fetch origin master
+            git rebase -X theirs origin/master
+          done
+
+      # AFTER the push: wait until Cloudflare Pages is serving https://<domain>/<key>.txt,
+      # then tell IndexNow (Bing/Yandex/Seznam/Naver) which URLs are new or changed. Fails the run
+      # loudly (red X) if the submission is rejected, instead of silently doing nothing.
+      - name: Notify IndexNow (new / changed URLs)
+        run: node tools/ping-indexnow.js --old="$RUNNER_TEMP/sitemap.old.xml"

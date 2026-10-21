@@ -1,0 +1,35 @@
+{{- /*
+  Inline "Lainnya: <judul artikel>" links, injected into the article body after every 3rd paragraph.
+  Ported from the CDI theme (single.html / single.amp.html), shared by both templates.
+  Call:  {{ partial "inline-related.html" (dict "page" . "content" .Content) }}
+  Returns the content with the links inserted (render it with safeHTML).
+  - Candidates: Hugo's .Related (config [related], categories), top 5, shuffled; only pages with categories.
+  - Max 3 links per article (2 when the article has 3 paragraphs or fewer).
+  - Links always point to the canonical HTML URL (/slug/), also when rendered inside the AMP page.
+  - Titles are HTML-escaped, so "&" in a title cannot break the markup.
+*/ -}}
+{{- $page := .page -}}
+{{- $related := slice -}}
+{{- range ($page.Site.RegularPages.Related $page | first 5 | shuffle) -}}
+  {{- if .Params.categories -}}{{- $related = $related | append . -}}{{- end -}}
+{{- end -}}
+{{- $paragraphs := split .content "<p>" -}}
+{{- $maxRelated := 3 -}}
+{{- if le (len $paragraphs) 3 -}}{{- $maxRelated = 2 -}}{{- end -}}
+{{- $out := "" -}}
+{{- $count := 0 -}}
+{{- $relatedCount := 0 -}}
+{{- range $index, $paragraph := $paragraphs -}}
+  {{- if eq $index 0 -}}{{- $out = $paragraph -}}{{- else -}}{{- $out = printf "%s<p>%s" $out $paragraph -}}{{- end -}}
+  {{- $count = add $count 1 -}}
+  {{- if and (gt $count 3) (lt $relatedCount $maxRelated) (lt $relatedCount (len $related)) -}}
+    {{- $r := index $related $relatedCount -}}
+    {{- /* Always link to the canonical HTML page, also from the AMP template (otherwise Hugo emits /slug/amp/index.html). */ -}}
+    {{- $href := $r.RelPermalink -}}
+    {{- with $r.OutputFormats.Get "HTML" -}}{{- $href = .RelPermalink -}}{{- end -}}
+    {{- $out = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $out $href ($r.Title | htmlEscape) -}}
+    {{- $relatedCount = add $relatedCount 1 -}}
+    {{- $count = 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

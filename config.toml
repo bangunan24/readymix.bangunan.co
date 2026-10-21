@@ -1,4 +1,6 @@
-baseURL = "https://readymix.bangunan.co/"
+# SINGLE place the domain is defined: baseURL below + [params] brand. Tools and theme read these.
+# Use __DOMAIN__ (host of baseURL) and __BRAND__ (params.brand) inside text values instead of typing the domain.
+baseURL = "https://readymix-bangunan-co.pages.dev/"
 languageCode = "id"
 title = "Readymix Beton | Pemasok Readymix Beton Curah Truk Molen"
 theme = "saeseen-hugo"
@@ -11,6 +13,9 @@ paginate = 6
   category = "/:slug/"
 
 [params]
+  brand = "bangunan.co"
+  # Parent-site price list page (used by the homepage button); change here if the parent domain changes.
+  price_list_url = "https://bangunan-co.pages.dev/daftar-harga/"
   # Site-wide settings
   meta_description = "Jual Readymix Beton - Layanan supply pengecoran dengan truk molen, kualitas beton terbaik untuk cor bangunan dengan harga terjangkau dan pengiriman cepat."
   viewport = "width=device-width, initial-scale=1.0"
@@ -22,7 +27,7 @@ paginate = 6
   featured_image = "/images/admin/featured-image.png"
   author = "K. Yaman"
   telepon = "//+6285776786091"
-  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo __BRAND__*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -72,7 +77,7 @@ paginate = 6
   testimonials_title = "Apa Kata Klien Kami"
 
   [[params.footer_services]]
-  text = "readymix.bangunan.co menyediakan layanan pengecoran readymix beton dengan truk molen, melayani berbagai proyek konstruksi dari skala kecil hingga besar. Kami menjamin beton yang kami tawarkan berkualitas tinggi, dengan harga bersaing dan pengiriman tepat waktu. Pilih kami untuk memastikan proyek pengecoran Anda berjalan lancar dengan hasil terbaik."
+  text = "__DOMAIN__ menyediakan layanan pengecoran readymix beton dengan truk molen, melayani berbagai proyek konstruksi dari skala kecil hingga besar. Kami menjamin beton yang kami tawarkan berkualitas tinggi, dengan harga bersaing dan pengiriman tepat waktu. Pilih kami untuk memastikan proyek pengecoran Anda berjalan lancar dengan hasil terbaik."
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
@@ -87,42 +92,42 @@ paginate = 6
 [[params.testimonials]]
   avatar = "/images/admin/avatar1.png"
   name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
-  message = "{Saya {menggunakan|memanfaatkan|memakai} layanan readymix beton dari readymix.bangunan.co untuk {proyek|pembangunan|konstruksi} rumah saya, dan hasilnya {sangat memuaskan|luar biasa|menakjubkan}. Beton yang {disediakan|dikirim|diberikan} {berkualitas tinggi|bermutu|premium} dan proses pengecorannya {sangat rapi|tertata|berjalan lancar}.|Layanan readymix beton dari readymix.bangunan.co {membantu saya|memenuhi kebutuhan saya|sangat membantu} dalam proyek rumah saya. Beton yang {disediakan|dikirim} {berkualitas|bermutu|premium} dan proses pengecorannya {rapi|lancar|bersih}.}"
+  message = "{Saya {menggunakan|memanfaatkan|memakai} layanan readymix beton dari __DOMAIN__ untuk {proyek|pembangunan|konstruksi} rumah saya, dan hasilnya {sangat memuaskan|luar biasa|menakjubkan}. Beton yang {disediakan|dikirim|diberikan} {berkualitas tinggi|bermutu|premium} dan proses pengecorannya {sangat rapi|tertata|berjalan lancar}.|Layanan readymix beton dari __DOMAIN__ {membantu saya|memenuhi kebutuhan saya|sangat membantu} dalam proyek rumah saya. Beton yang {disediakan|dikirim} {berkualitas|bermutu|premium} dan proses pengecorannya {rapi|lancar|bersih}.}"
   response = "{Terima kasih atas {kepercayaan|dukungan|pilihan} Anda! Kami senang dapat {menyediakan|menghadirkan|memenuhi} readymix beton {berkualitas|premium|bermutu tinggi} untuk {proyek|pembangunan} Anda.|Kami {sangat menghargai|berterima kasih atas} kepercayaan Anda. Terima kasih telah memilih readymix beton kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu}"
-  message = "{readymix.bangunan.co {sangat membantu|mempermudah|mengarahkan} dalam memenuhi kebutuhan beton untuk proyek saya. Produk yang {saya pesan|saya terima|dikirim} {berkualitas|bermutu|sesuai standar} dan sesuai dengan {spesifikasi|kebutuhan|persyaratan} yang {dibutuhkan|diharapkan}.|Saya terbantu oleh readymix.bangunan.co dalam memenuhi kebutuhan beton saya. Produknya {berkualitas|bermutu tinggi|premium} dan sesuai dengan {spesifikasi|kebutuhan} proyek.}"
+  message = "{__DOMAIN__ {sangat membantu|mempermudah|mengarahkan} dalam memenuhi kebutuhan beton untuk proyek saya. Produk yang {saya pesan|saya terima|dikirim} {berkualitas|bermutu|sesuai standar} dan sesuai dengan {spesifikasi|kebutuhan|persyaratan} yang {dibutuhkan|diharapkan}.|Saya terbantu oleh __DOMAIN__ dalam memenuhi kebutuhan beton saya. Produknya {berkualitas|bermutu tinggi|premium} dan sesuai dengan {spesifikasi|kebutuhan} proyek.}"
   response = "{Kami sangat menghargai ulasan Anda. {Senang mendengar|Bahagia mengetahui} bahwa Anda puas dengan layanan readymix dari kami.|Terima kasih atas {ulasan|masukan} Anda! Kami {gembira|senang} Anda puas dengan layanan dan produk kami.}"
   rating = 5
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
   name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad}"
-  message = "{Layanan readymix beton dari readymix.bangunan.co {sangat cepat|efisien|responsif} dan {berkualitas|tepat waktu|bermutu}. Beton yang {disediakan|dikirim} sesuai dengan {kualitas|standar|spesifikasi} yang saya harapkan untuk proyek {perumahan|real estate|properti} saya.|Beton dari readymix.bangunan.co {cepat dikirim|tepat waktu|sesuai harapan} dan {berkualitas|bermutu|cocok untuk} proyek perumahan saya.}"
+  message = "{Layanan readymix beton dari __DOMAIN__ {sangat cepat|efisien|responsif} dan {berkualitas|tepat waktu|bermutu}. Beton yang {disediakan|dikirim} sesuai dengan {kualitas|standar|spesifikasi} yang saya harapkan untuk proyek {perumahan|real estate|properti} saya.|Beton dari __DOMAIN__ {cepat dikirim|tepat waktu|sesuai harapan} dan {berkualitas|bermutu|cocok untuk} proyek perumahan saya.}"
   response = "{Terima kasih! Kami {berkomitmen|fokus|dedikasi} untuk menyediakan layanan readymix beton berkualitas dengan {pengiriman|waktu pengiriman|proses} yang {tepat waktu|efisien|lancar}.|Kami {apresiasi|menghargai} ulasan Anda. Terima kasih atas {kepercayaan|pilihan} Anda menggunakan readymix beton kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
   name = "{Andi|Bayu|Fajar|Hendra|Dian|Rizky|Yoga|Yudi|Ari|Gani}"
-  message = "{Saya {sangat puas|senang|terkesan} dengan layanan readymix beton dari readymix.bangunan.co. Beton yang kami gunakan {sangat kuat|kokoh|berkualitas tinggi} dan sesuai dengan kebutuhan {proyek|pembangunan|konstruksi} kami.|Beton readymix dari readymix.bangunan.co {sangat kuat|kokoh|berkualitas} dan cocok untuk proyek kami. Layanannya juga {memuaskan|berkualitas|tepat}.}"
+  message = "{Saya {sangat puas|senang|terkesan} dengan layanan readymix beton dari __DOMAIN__. Beton yang kami gunakan {sangat kuat|kokoh|berkualitas tinggi} dan sesuai dengan kebutuhan {proyek|pembangunan|konstruksi} kami.|Beton readymix dari __DOMAIN__ {sangat kuat|kokoh|berkualitas} dan cocok untuk proyek kami. Layanannya juga {memuaskan|berkualitas|tepat}.}"
   response = "{Senang mendengar Anda puas dengan {beton|layanan} readymix kami. Terima kasih atas {kepercayaannya|pilihannya|dukungan Anda}!|Kami {bahagia|senang|gembira} Anda puas dengan layanan dan produk kami. Terima kasih atas {kepercayaannya|dukungan Anda}!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
   name = "{Rina|Siti|Dewi|Lina|Ayu|Fitri|Sari|Diah|Nur|Maya}"
-  message = "{Pelayanan readymix.bangunan.co {sangat memuaskan|luar biasa|baik sekali}. Produk beton yang {saya pesan|dikirim} {berkualitas tinggi|bermutu|premium} dan sesuai dengan {harapan|ekspektasi|spesifikasi saya}.|Saya sangat puas dengan {produk|layanan} readymix.bangunan.co. Beton yang {saya pesan|dikirim} {berkualitas tinggi|premium|bermutu} dan {sesuai dengan harapan|memenuhi ekspektasi|sesuai standar}.}"
+  message = "{Pelayanan __DOMAIN__ {sangat memuaskan|luar biasa|baik sekali}. Produk beton yang {saya pesan|dikirim} {berkualitas tinggi|bermutu|premium} dan sesuai dengan {harapan|ekspektasi|spesifikasi saya}.|Saya sangat puas dengan {produk|layanan} __DOMAIN__. Beton yang {saya pesan|dikirim} {berkualitas tinggi|premium|bermutu} dan {sesuai dengan harapan|memenuhi ekspektasi|sesuai standar}.}"
   response = "{Terima kasih! Kami senang dapat {membantu|mewujudkan|melayani} proyek pengecoran Anda dengan {beton|produk} terbaik.|Kami menghargai {ulasan|masukan} Anda. Terima kasih telah {memilih|mempercayai|menggunakan} readymix beton kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
   name = "{Eko|Agus|Dedi|Toni|Yanto|Wawan|Benny|Rio|Iwan|Galih}"
-  message = "{Beton readymix dari readymix.bangunan.co {sangat sesuai|tepat|cocok} dengan {spesifikasi|standar|kebutuhan} proyek {jalan raya|infrastruktur|komersial} yang saya kerjakan. Pengirimannya {cepat|tepat waktu|aman} dan {lancar|terorganisir|sesuai jadwal}.|Saya puas dengan {produk|beton} readymix untuk proyek jalan yang saya kerjakan. Pengirimannya {cepat|tepat waktu|lancar} dan {sesuai harapan|memenuhi ekspektasi|aman}.}"
+  message = "{Beton readymix dari __DOMAIN__ {sangat sesuai|tepat|cocok} dengan {spesifikasi|standar|kebutuhan} proyek {jalan raya|infrastruktur|komersial} yang saya kerjakan. Pengirimannya {cepat|tepat waktu|aman} dan {lancar|terorganisir|sesuai jadwal}.|Saya puas dengan {produk|beton} readymix untuk proyek jalan yang saya kerjakan. Pengirimannya {cepat|tepat waktu|lancar} dan {sesuai harapan|memenuhi ekspektasi|aman}.}"
   response = "{Kami {senang|bahagia|gembira} mendengar bahwa Anda puas dengan {produk|layanan} kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah {mempercayai|memilih|menggunakan} readymix beton kami. Kami {senang|gembira} Anda puas dengan hasilnya.}"
   rating = 4
 
@@ -162,19 +167,29 @@ paginate = 6
     url = "/"
   [[params.menu_items]]
     title = "Profile"
-    url = "https://bangunan.co/profile/"
+    url = "https://bangunan-co.pages.dev/profile/"
   [[params.menu_items]]
     title = "Daftar Harga"
-    url = "https://bangunan.co/daftar-harga/"
+    url = "https://bangunan-co.pages.dev/daftar-harga/"
 
 [params.header]
    title = "Layanan Pengecoran Readymix Beton | "
    highlight = "Bangunan.co"
 
+# Sitemap <lastmod> and the "Diperbarui" label come from the `lastmod:` front-matter field that
+# tools/recycle-posts.js, revise-articles.js and fix-orphans.js bump (the real publish `date:`
+# stays untouched).
+[frontmatter]
+  lastmod = ["lastmod", "date", "publishDate"]
+
 [markup]
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
+  # Required by tools/lib/safe-table.js: AI-generated tables are rendered as raw HTML
+  # (<table class="table">). Without this Hugo replaces raw HTML with "<!-- raw HTML omitted -->".
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [related]
   threshold = 80

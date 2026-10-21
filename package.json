@@ -1,23 +1,31 @@
 {
-  "name": "readymix.bangunan.co",
+  "name": "readymix-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prebuild": "node process-spintax.js",
+    "prebuild": "node tools/process-spintax.js",
     "build": "hugo --minify && npm run compress-sitemap",
     "start": "npm run prebuild && hugo server",
-    "compress-sitemap": "node compress-sitemap.js",
-    "recycle": "node recycle-posts.js",
-    "build:recycle": "npm run recycle && npm run build"
+    "dev": "npm run prebuild && hugo server -D",
+    "compress-sitemap": "node tools/compress-sitemap.js",
+    "recycle": "node tools/recycle-posts.js",
+    "recycle:dry": "node tools/recycle-posts.js --dry-run",
+    "build:recycle": "npm run recycle && npm run build",
+    "spintax": "node tools/process-spintax.js",
+    "dedup": "node tools/dedup-lapis1.js",
+    "revise": "node tools/revise-articles.js --dry-run --limit=3",
+    "find-orphans": "node tools/find-orphans.js",
+    "fix-orphans": "node tools/fix-orphans.js --dry-run --limit=3",
+    "ping:dry": "node tools/ping-indexnow.js --since-days=7 --dry-run",
+    "ping": "node tools/ping-indexnow.js --since-days=7"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "toml": "^3.0.0",
-    "js-yaml": "^4.1.0",
     "gray-matter": "^4.0.3",
-    "axios": "^0.21.1"
+    "js-yaml": "^4.1.0",
+    "toml": "^3.0.0"
   }
 }

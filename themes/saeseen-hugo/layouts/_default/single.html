@@ -20,6 +20,10 @@
         </nav>
         <p class="post-meta">
          <time datetime="{{ .Date.Format "2006-01-02" }}">Dibuat pada {{ .Date.Format "2 January 2006" }}</time>
+        {{/* tools/recycle-posts.js, revise-articles.js and fix-orphans.js keep `date` as the original publish date and bump `lastmod` instead. */}}
+        {{ if and (not .Lastmod.IsZero) (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+        <span class="updated-on">&middot; <time datetime="{{ .Lastmod.Format "2006-01-02" }}">Diperbarui {{ .Lastmod.Format "2 January 2006" }}</time></span>
+        {{ end }}
         <span>Oleh {{ .Site.Params.author }}</span>
         </p>
         <div class="featured-image-container">
@@ -44,26 +48,9 @@
           {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount ) }}
           {{ .TableOfContents }}
           {{ end }}
-        <div class="post-content">
-         {{ $related := .Site.RegularPages.Related . | first 5 }}
-        {{ $shuffledRelated := shuffle $related }}
-         {{ $content := .Content }}
-         {{ $paragraphs := split $content "<p>" }}
-         {{ $newContent := "" }}
-            {{ $count := 0 }}
-          {{ $relatedCount := 0 }}
-          {{ range $index, $paragraph := $paragraphs }}
-           {{ if eq $index 0 }} {{ $newContent = $paragraph }} {{ else }} {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} {{ end }}    
-            {{ $count = add $count 1 }}
-            {{ if and (gt $count 3) (lt $relatedCount 3) }}
-              {{ $randomRelated := index $shuffledRelated $relatedCount }}
-              {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
-              {{ $relatedCount = add $relatedCount 1 }}
-              {{ $count = 0 }}
-            {{ end }}
-          {{ end }}
-          {{ $newContent | safeHTML }}
-        </div>
+          <div class="post-content">
+            {{ partial "inline-related.html" (dict "page" . "content" .Content) | safeHTML }}
+          </div>
       <div class="post-footer">
         <div class="social-share">
           <h3>Share artikel ini:</h3>

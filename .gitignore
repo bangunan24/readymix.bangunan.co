@@ -1,0 +1,7 @@
+node_modules/
+.hugo_build.lock
+
+# Transient artifacts regenerated on every run (never committed)
+candidates.json
+orphans.json
+tools/DRY-RUN-*.md

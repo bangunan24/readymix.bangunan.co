@@ -1,0 +1,53 @@
+name: Ping IndexNow (manual)
+
+# Manual re-submission to IndexNow (Bing, Yandex, Seznam, Naver...). The normal path is automatic:
+# deploy.yml submits new/changed URLs after every deploy. Use this when a submission failed or
+# you want to resubmit the whole site (e.g. right after setting the site up).
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Which URLs to submit'
+        required: true
+        default: 'recent'
+        type: choice
+        options:
+          - recent
+          - all
+      days:
+        description: 'For mode "recent": URLs whose lastmod is within this many days'
+        required: false
+        default: '7'
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.14.0'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Submit to IndexNow
+        env:
+          MODE: ${{ github.event.inputs.mode }}
+          DAYS: ${{ github.event.inputs.days }}
+        run: |
+          if [ "$MODE" = "all" ]; then
+            node tools/ping-indexnow.js --all
+          else
+            node tools/ping-indexnow.js --since-days="${DAYS:-7}"
+          fi

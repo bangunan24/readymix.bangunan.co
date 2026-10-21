@@ -1,0 +1,74 @@
+name: Cleanup Old GitHub Pages Deployments
+
+# Housekeeping for the LEGACY GitHub Pages (gh-pages) deployments that the old
+# recycle-and-deploy.yml created before the site moved to Cloudflare Pages. It only calls the
+# GitHub API and never touches the site. Safe to delete this file once those old deployments are
+# gone (it then just reports "Nothing to delete").
+
+on:
+  schedule:
+    # Monthly, 1st at 03:00 UTC.
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+    inputs:
+      keep_count:
+        description: 'How many of the newest deployments to keep untouched'
+        required: false
+        default: '5'
+
+# Only guards against two runs of THIS workflow overlapping — no git commit/push happens here.
+concurrency:
+  group: cleanup-deployments
+  cancel-in-progress: false
+
+permissions:
+  deployments: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      # No checkout: this workflow only calls the GitHub API.
+      - name: Delete old github-pages deployments (keep newest N)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          KEEP_COUNT: ${{ github.event.inputs.keep_count || '5' }}
+        run: |
+          echo "🔍 Fetching all deployment IDs for $REPO (environment: github-pages)..."
+          # The API returns newest-first, so the array order below is newest → oldest.
+          mapfile -t ALL_IDS < <(gh api --paginate \
+            "/repos/$REPO/deployments?environment=github-pages&per_page=100" \
+            -q '.[].id')
+
+          TOTAL=${#ALL_IDS[@]}
+          echo "📊 Total deployments found: $TOTAL"
+          echo "🔒 Keeping newest: $KEEP_COUNT"
+
+          if [ "$TOTAL" -le "$KEEP_COUNT" ]; then
+            echo "✅ Nothing to delete ($TOTAL ≤ $KEEP_COUNT)."
+            exit 0
+          fi
+
+          TO_DELETE=("${ALL_IDS[@]:$KEEP_COUNT}")
+          echo "🗑️  Deleting ${#TO_DELETE[@]} older deployment(s)..."
+
+          DELETED=0
+          FAILED=0
+          for id in "${TO_DELETE[@]}"; do
+            # Mark inactive first (required by the API for any deployment that's still active).
+            gh api --method POST "/repos/$REPO/deployments/$id/statuses" \
+              -f "state=inactive" >/dev/null 2>&1 || true
+
+            if gh api --method DELETE "/repos/$REPO/deployments/$id" >/dev/null 2>&1; then
+              DELETED=$((DELETED + 1))
+            else
+              FAILED=$((FAILED + 1))
+              echo "   ⚠️  Failed to delete deployment $id"
+            fi
+          done
+
+          echo ""
+          echo "✅ Deleted: $DELETED"
+          echo "❌ Failed : $FAILED"
+          echo "ℹ️  This only removes deployment history entries — it does not touch the site."
