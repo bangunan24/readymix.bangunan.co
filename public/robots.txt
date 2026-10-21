@@ -8,5 +8,5 @@ Noindex: /tags/*/page/
 Disallow: /page/
 Noindex: /page/
 
-Sitemap: https://readymix.bangunan.co/sitemap.xml
-Sitemap: https://readymix.bangunan.co/sitemap.xml.gz
+Sitemap: https://readymix-bangunan-co.pages.dev/sitemap.xml
+Sitemap: https://readymix-bangunan-co.pages.dev/sitemap.xml.gz
