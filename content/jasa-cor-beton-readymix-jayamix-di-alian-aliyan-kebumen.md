@@ -1,7 +1,7 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen
 date: '2026-04-01'
-lastmod: "2026-10-24"
+lastmod: "2026-10-28"
 categories:
   - jayamix
 description: >-
@@ -53,7 +53,7 @@ Untuk mutu yang lebih tinggi seperti K375, K400, K500, dan seterusnya, beton ini
 
 Perancangan adukan beton *ready mix* harus dilakukan dengan cermat untuk memastikan kinerja dan kekuatan yang optimal. Campuran yang ideal terdiri dari sekitar 10% hingga 15% semen Portland, 60% hingga 75% agregat halus dan kasar (pasir dan split), serta 10% hingga 15% air.  Sisa persentase merupakan ruang udara yang tetap ada dalam campuran beton.
 
-Untuk menghasilkan beton berkualitas tinggi, rasio air dan semen harus diminimalkan tanpa mengurangi kemampuan kerja beton. Umumnya, beton dengan mutu yang baik mengandung lebih sedikit air dan konsisten menghasilkan kualitas yang lebih tinggi. Air yang digunakan juga harus bersih dan bebas dari kotoran atau lumut untuk mencegah penurunan mutu beton. Anda dapat mengandalkan Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen untuk mendapatkan mutu terbaik. 
+Untuk menghasilkan beton berkualitas tinggi, rasio air dan semen harus diminimalkan tanpa mengurangi kemampuan kerja beton. Umumnya, beton dengan mutu yang baik mengandung lebih sedikit air dan konsisten menghasilkan kualitas yang lebih tinggi. Air yang digunakan juga harus bersih dan bebas dari kotoran atau lumut untuk mencegah penurunan mutu beton. Anda dapat mengandalkan [Jasa Cor Beton Readymix & Jayamix Di Alian/Aliyan Kebumen](/jasa-cor-beton-readymix-jayamix-di-ambal-kebumen/) untuk mendapatkan mutu terbaik. 
 
 Seperti yang telah dijelaskan, Mitra Bangunan.co siap melayani kebutuhan beton readymix dan jayamix Anda di Alian/Aliyan Kebumen. Untuk informasi lebih lanjut mengenai harga masing-masing mutu beton, jangan ragu untuk menghubungi kami melalui WhatsApp.
 

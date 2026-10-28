@@ -1,7 +1,7 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Ambal Kebumen
 date: '2026-04-01'
-lastmod: "2026-10-22"
+lastmod: "2026-10-28"
 categories:
   - jayamix
 description: >-
@@ -47,7 +47,7 @@ Selain K225, mutu beton K250 dan K300 juga sering dipilih untuk pengecoran tiang
 
 {{< table-tables table="table2" >}}
 
-Sebagai penyedia jasa cor beton readymix dan jayamix terpercaya di Ambal Kebumen, bangunan.co berkomitmen untuk menyediakan solusi beton berkualitas tinggi. Setiap adukan beton yang kami hasilkan dirancang secara cermat untuk memastikan kekuatan dan ketahanan yang sesuai dengan harapan Anda. Kami selalu berpegang pada standar adukan beton nasional (SNI) untuk menghasilkan beton yang tidak mudah retak, keropos, atau mengelupas.
+Sebagai penyedia jasa cor beton readymix dan jayamix terpercaya di Ambal Kebumen, bangunan.co berkomitmen untuk menyediakan [solusi beton berkualitas tinggi](/jasa-cor-beton-readymix-jayamix-di-adimulyo-kebumen/). Setiap adukan beton yang kami hasilkan dirancang secara cermat untuk memastikan kekuatan dan ketahanan yang sesuai dengan harapan Anda. Kami selalu berpegang pada standar adukan beton nasional (SNI) untuk menghasilkan beton yang tidak mudah retak, keropos, atau mengelupas.
 
 Komposisi ideal adukan beton dari bangunan.co terdiri dari 10% hingga 15% semen Portland, 60% hingga 75% agregat halus dan kasar (pasir dan split), serta 10% hingga 15% air. Kami juga memperhatikan kandungan udara dalam campuran agar beton memiliki performa terbaik dan konsistensi yang optimal.
 

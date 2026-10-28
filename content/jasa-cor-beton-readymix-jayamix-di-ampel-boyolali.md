@@ -1,6 +1,7 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Ampel Boyolali
 date: '2026-07-01'
+lastmod: "2026-10-28"
 categories:
   - jayamix
 description: >-
@@ -53,7 +54,7 @@ Yang kedua yang paling sering kali diterapkan ialah mutu beton K250 dan K300. K2
 
 {{< table-tables table="table2" >}}
 
-Nah untuk campuran Cor Readymix atau ready mix concrete sendiri sepatutnya dirancang dengan bagus atau sebaik mungkin. Agar memiliki kemampuan atau performa yang baik atau daya tahan yang pas dengan mutu yg diharapkan. Tdk cepat keropos nya, tidak cepat patah, tdk mengelupas, karenanya adukan campuran atau adukan material bahan material beton ini sepatutnya pas dengan standar campuran beton skala nasional (SNI). Adukan bahan materialnya merupakan kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% sampai dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya yaitu untuk udara, sebab meskipun campuran benda padat tetap Dia memiliki kandungan udara di dalamnya.
+Nah untuk campuran [Cor Readymix](/jasa-cor-beton-readymix-jayamix-di-andong-boyolali/) atau ready mix concrete sendiri sepatutnya dirancang dengan bagus atau sebaik mungkin. Agar memiliki kemampuan atau performa yang baik atau daya tahan yang pas dengan mutu yg diharapkan. Tdk cepat keropos nya, tidak cepat patah, tdk mengelupas, karenanya adukan campuran atau adukan material bahan material beton ini sepatutnya pas dengan standar campuran beton skala nasional (SNI). Adukan bahan materialnya merupakan kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% sampai dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya yaitu untuk udara, sebab meskipun campuran benda padat tetap Dia memiliki kandungan udara di dalamnya.
 
 Beton yang berkwalitas tinggi itu diolah atau diproduksi dengan menurunkan rasio air atau semen sebanyak mungkin tanpa mengorbankan kemampuan kerja beton segar nah lazimnya kwalitas beton yg apakah itu merupakan lebih sedikit air dengan konsisten menghasilkan mutu yang lebih tinggi tidak memakai banyak air. Jadi di sini pengaplikasian air Itu ialah dengan campuran yg pas tidak berlebihan, banyaknya air yg diterapkan juga pakai air yang bersih yg tdk kumal. Apabila air yang mengandung kotoran itu bagusnya tidak digunakan atau air yang mengandung lumut bagusnya tdk dipakai. Air yang diterapkan ialah air yang bersih tdk mengandung bahan material-material yang akan mencampuri beton sehingga menyebabkan kualitas beton menurun.
 

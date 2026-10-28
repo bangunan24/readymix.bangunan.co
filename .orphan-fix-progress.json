@@ -1,4 +1,16 @@
 {
-  "fixed": [],
-  "failed": {}
+  "fixed": [
+    "/jasa-cor-beton-readymix-jayamix-di-adimulyo-kebumen/",
+    "/jasa-cor-beton-readymix-jayamix-di-adipala-cilacap/",
+    "/jasa-cor-beton-readymix-jayamix-di-adiwerna-tegal/",
+    "/jasa-cor-beton-readymix-jayamix-di-alian-aliyan-kebumen/",
+    "/jasa-cor-beton-readymix-jayamix-di-ambal-kebumen/",
+    "/jasa-cor-beton-readymix-jayamix-di-ambarawa-semarang/",
+    "/jasa-cor-beton-readymix-jayamix-di-ampel-boyolali/",
+    "/jasa-cor-beton-readymix-jayamix-di-ampelgading-pemalang/",
+    "/jasa-cor-beton-readymix-jayamix-di-andong-boyolali/"
+  ],
+  "failed": {
+    "/jasa-cor-beton-readymix-jayamix-di-ajibarang-banyumas/": 1
+  }
 }

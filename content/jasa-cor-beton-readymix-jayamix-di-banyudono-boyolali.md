@@ -1,6 +1,7 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Banyudono Boyolali
 date: '2026-03-01'
+lastmod: "2026-10-28"
 categories:
   - jayamix
 description: >-
@@ -53,7 +54,7 @@ Yang kedua yang paling sering diaplikasikan adalah kwalitas beton K250 dan K300.
 
 {{< table-tables table="table2" >}}
 
-Nah untuk adukan Beton Cor Readymix atau ready mix concrete sendiri seharusnya dirancang dengan baik atau sebaik mungkin. Supaya mempunyai kemampuan atau kinerja yg bagus atau kekokohan yg sesuai dengan kwalitas yg diinginkan. Tidak segera keropos nya, tdk segera patah, tidak mengelupas, maka adukan campuran atau campuran material material beton ini harus pas dengan standar adukan beton skala nasional (SNI). Campuran materialnya merupakan kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% sampai dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya merupakan untuk udara, sebab biarpun adukan benda padat tetap Dia mempunyai kandungan udara di dalamnya.
+Nah untuk adukan [Beton Cor Readymix](/jasa-cor-beton-readymix-jayamix-di-ampel-boyolali/) atau ready mix concrete sendiri seharusnya dirancang dengan baik atau sebaik mungkin. Supaya mempunyai kemampuan atau kinerja yg bagus atau kekokohan yg sesuai dengan kwalitas yg diinginkan. Tidak segera keropos nya, tdk segera patah, tidak mengelupas, maka adukan campuran atau campuran material material beton ini harus pas dengan standar adukan beton skala nasional (SNI). Campuran materialnya merupakan kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% sampai dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya merupakan untuk udara, sebab biarpun adukan benda padat tetap Dia mempunyai kandungan udara di dalamnya.
 
 Beton yg berkualitas tinggi itu diolah atau diproduksi dengan menurunkan rasio air atau semen sebanyak mungkin tanpa mengorbankan kemampuan kerja beton segar nah biasanya kwalitas beton yg baik itu merupakan lebih sedikit air dengan konsisten menghasilkan kualitas yang lebih tinggi tdk menerapkan banyak air. Jadi di sini pengaplikasian air Itu merupakan dengan komposisi yang tepat tidak berlebihan, banyaknya air yang diterapkan juga pakai air yang bersih yg tidak kotor. Sekiranya air yg mengandung kotoran itu pantasnya tdk dipakai atau air yang mengandung lumut bagusnya tdk diaplikasikan. Air yg diaplikasikan merupakan air yg bersih tdk mengandung bahan material-material yg akan mengaduki beton sehingga menyebabkan mutu beton menurun.
 
