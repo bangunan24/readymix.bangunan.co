@@ -1,6 +1,7 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Sidomukti Kota Salatiga'
 date: '2026-04-01'
+lastmod: "2026-11-04"
 categories:
   - jayamix
 description: >-
@@ -23,7 +24,7 @@ Adapun jenis material yg diterapkan untuk campuran Beton Cor Readymix ini sesung
 
 Untuk material pasir, readymix concrete atau Beton ready mix ini memakai pasir yang kandungan kotorannya di bawah 10%. Kenapa? karena pasir yang mempunyai kandungan tanah di atas 10% Itu adalah pasir yg tidak baik untuk diaplikasikan sebagai campuran beton. Selain akan menurunkan kwalitas beton, campuran beton juga akan menghasilkan boros dalam pemakaian semen atau aditive karenanya kegunaan pasir yang kwalitasnya jelas merupakan pasir yang memiliki kandungan kotoran tidak lebih dari 10% yaitu hal yang semestinya dipakai dalam produksi beton ini.
 
-Nah, selain dr pasir yang berkualitas yakni pasir yang mempunyai kandungan lumpur dibawah 10% juga dilihat warna dari pasir itu yakni diutamakan ialah pasir yang memiliki warna pasir gelap atau hitam karena pasir yang berwarna gelap ini mempunyai keunggulan merupakan lebih kuat ikatannya dan lebih hemat kepada pengaplikasian semen. Namun kalau tidak mendapatkan pasir dengan warna yang gelap atau hitam maka warna yang lain juga tidak mengapa digunakan Namun dengan satu syarat adalah mempunyai kandungan kotoran dibawah 10%.
+Nah, selain dr pasir yang berkualitas yakni pasir yang mempunyai kandungan lumpur dibawah 10% juga dilihat warna dari pasir itu yakni diutamakan ialah [pasir yang memiliki warna pasir gelap atau hitam](/jasa-cor-beton-readymix-jayamix-di-argomulyo-kota-salatiga/) karena pasir yang berwarna gelap ini mempunyai keunggulan merupakan lebih kuat ikatannya dan lebih hemat kepada pengaplikasian semen. Namun kalau tidak mendapatkan pasir dengan warna yang gelap atau hitam maka warna yang lain juga tidak mengapa digunakan Namun dengan satu syarat adalah mempunyai kandungan kotoran dibawah 10%.
 
 Itulah Jenis pasir yg disarankan khususkan penerapannya untuk bahan adukan Beton Cor Readymix atau beton curah siap pakai.
 
