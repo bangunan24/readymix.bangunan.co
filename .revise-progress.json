@@ -41,7 +41,13 @@
     "/jasa-cor-beton-readymix-jayamix-di-boja-kendal/",
     "/jasa-cor-beton-readymix-jayamix-di-brangsong-kendal/",
     "/jasa-cor-beton-readymix-jayamix-di-bruno-purworejo/",
-    "/jasa-cor-beton-readymix-jayamix-di-bukateja-purbalingga/"
+    "/jasa-cor-beton-readymix-jayamix-di-bukateja-purbalingga/",
+    "/jasa-cor-beton-readymix-jayamix-di-brati-grobogan/",
+    "/jasa-cor-beton-readymix-jayamix-di-bulu-rembang/",
+    "/jasa-cor-beton-readymix-jayamix-di-bulukerto-wonogiri/",
+    "/jasa-cor-beton-readymix-jayamix-di-buluspesantren-kebumen/",
+    "/jasa-cor-beton-readymix-jayamix-di-bumijawa-tegal/",
+    "/jasa-cor-beton-readymix-jayamix-di-candiroto-temanggung/"
   ],
   "failed": {
     "/jasa-cor-beton-readymix-jayamix-di-adipala-cilacap/": 3,
@@ -95,17 +101,22 @@
     "/jasa-cor-beton-readymix-jayamix-di-boja-kendal/": 2,
     "/jasa-cor-beton-readymix-jayamix-di-bojong-pekalongan/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-bojong-tegal/": 3,
-    "/jasa-cor-beton-readymix-jayamix-di-bonang-demak/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-bonorowo-kebumen/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-borobudur-magelang/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-boyolali-boyolali/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-bonang-demak/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-bonorowo-kebumen/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-borobudur-magelang/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-boyolali-boyolali/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-brangsong-kendal/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-brati-grobogan/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-brebes-brebes/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-bringin-semarang/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-buaran-pekalongan/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-buayan-kebumen/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-bulakamba-brebes/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-bulu-rembang/": 1
+    "/jasa-cor-beton-readymix-jayamix-di-brebes-brebes/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-bringin-semarang/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-buaran-pekalongan/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-buayan-kebumen/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-bulakamba-brebes/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-bulu-rembang/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-bulu-sukoharjo/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-bulu-temanggung/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-bumiayu-brebes/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-butuh-purworejo/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-candimulyo-magelang/": 1
   }
 }
