@@ -60,7 +60,10 @@
     "/jasa-cor-beton-readymix-jayamix-di-cipari-cilacap/",
     "/jasa-cor-beton-readymix-jayamix-di-comal-pemalang/",
     "/jasa-cor-beton-readymix-jayamix-di-dawe-kudus/",
-    "/jasa-cor-beton-readymix-jayamix-di-dayeuhluhur-cilacap/"
+    "/jasa-cor-beton-readymix-jayamix-di-dayeuhluhur-cilacap/",
+    "/jasa-cor-beton-readymix-jayamix-di-ceper-klaten/",
+    "/jasa-cor-beton-readymix-jayamix-di-cimanggu-cilacap/",
+    "/jasa-cor-beton-readymix-jayamix-di-cluwak-pati/"
   ],
   "failed": {
     "/jasa-cor-beton-readymix-jayamix-di-adipala-cilacap/": 3,
@@ -131,15 +134,16 @@
     "/jasa-cor-beton-readymix-jayamix-di-bumiayu-brebes/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-butuh-purworejo/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-candimulyo-magelang/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-cawas-klaten/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-cawas-klaten/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-ceper-klaten/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-cepogo-boyolali/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-cepu-blora/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-cepogo-boyolali/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-cepu-blora/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-cilacap-tengah-cilacap/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-cilongok-banyumas/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-cilongok-banyumas/": 2,
     "/jasa-cor-beton-readymix-jayamix-di-cimanggu-cilacap/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-cluwak-pati/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-colomadu-karanganyar/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-danurejan/": 1
+    "/jasa-cor-beton-readymix-jayamix-di-colomadu-karanganyar/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-danurejan/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-delanggu-klaten/": 1
   }
 }
