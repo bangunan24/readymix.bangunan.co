@@ -63,7 +63,9 @@
     "/jasa-cor-beton-readymix-jayamix-di-dayeuhluhur-cilacap/",
     "/jasa-cor-beton-readymix-jayamix-di-ceper-klaten/",
     "/jasa-cor-beton-readymix-jayamix-di-cimanggu-cilacap/",
-    "/jasa-cor-beton-readymix-jayamix-di-cluwak-pati/"
+    "/jasa-cor-beton-readymix-jayamix-di-cluwak-pati/",
+    "/jasa-cor-beton-readymix-jayamix-di-dlingo-bantul/",
+    "/jasa-cor-beton-readymix-jayamix-di-dukuhseti-pati/"
   ],
   "failed": {
     "/jasa-cor-beton-readymix-jayamix-di-adipala-cilacap/": 3,
@@ -139,11 +141,23 @@
     "/jasa-cor-beton-readymix-jayamix-di-cepogo-boyolali/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-cepu-blora/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-cilacap-tengah-cilacap/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-cilongok-banyumas/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-cilongok-banyumas/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-cimanggu-cilacap/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-cluwak-pati/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-colomadu-karanganyar/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-danurejan/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-delanggu-klaten/": 1
+    "/jasa-cor-beton-readymix-jayamix-di-colomadu-karanganyar/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-danurejan/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-delanggu-klaten/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-demak-demak/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-dempet-demak/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-depok-sleman/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-donorojo-jepara/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-doro-pekalongan/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-dukuhturi-tegal/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-dukuhwaru-tegal/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-dukun-magelang/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-eromoko-wonogiri/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-gabus-grobogan/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-gabus-pati/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-gajah-demak/": 1
   }
 }
