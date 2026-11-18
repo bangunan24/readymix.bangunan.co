@@ -1,6 +1,7 @@
 ---
 title: 'Jasa Cor Beton Readymix [Jayamix] Di Laweyan Kota Surakarta'
 date: '2026-06-01'
+lastmod: "2026-11-18"
 categories:
   - jayamix
 description: >-
@@ -23,7 +24,7 @@ Adapun ragam bahan material yg digunakan untuk campuran Cor Readymix ini sesungg
 
 Untuk material pasir, readymix concrete atau Cor Readymix ini memakai pasir yg kandungan tanahnya tidak lebih dari 10%. Kenapa? sebab pasir yg memiliki kandungan lumpur di atas 10% Itu ialah pasir yang tidak baik untuk diterapkan sebagai campuran beton. Selain akan menurunkan kwalitas beton, campuran beton juga akan menjadikan boros dalam penerapan semen atau aditive maka kegunaan pasir yang mutunya jelas yakni pasir yang mempunyai kandungan kotoran tidak lebih dari 10% ialah hal yang mesti diaplikasikan dalam produksi beton ini.
 
-Nah, selain dari pasir yang bermutu merupakan pasir yg memiliki kandungan lumpur dibawah 10% juga dilihat warna dari pasir itu yaitu diutamakan yakni pasir yg mempunyai warna pasir gelap atau hitam sebab pasir yg berwarna gelap ini mempunyai keunggulan yakni lebih kuat ikatannya dan lebih hemat kepada penggunaan semen. Tetapi seandainya tdk menerima pasir dengan warna yang gelap atau hitam karenanya warna yg lain pun tdk kenapa diaplikasikan Namun dengan satu syarat ialah memiliki kandungan lumpur dibawah 10%.
+Nah, selain dari pasir yang bermutu merupakan pasir yg memiliki kandungan lumpur dibawah 10% juga dilihat warna dari pasir itu yaitu diutamakan yakni pasir yg mempunyai warna pasir gelap atau hitam sebab pasir yg berwarna gelap ini mempunyai keunggulan yakni lebih kuat ikatannya dan lebih hemat kepada penggunaan [semen](/jasa-cor-beton-readymix-jayamix-di-banjarsari-kota-surakarta/). Tetapi seandainya tdk menerima pasir dengan warna yang gelap atau hitam karenanya warna yg lain pun tdk kenapa diaplikasikan Namun dengan satu syarat ialah memiliki kandungan lumpur dibawah 10%.
 
 Itulah Jenis pasir yang direkomendasikan khususkan penggunaannya untuk material campuran Cor Readymix atau beton curah siap curah.
 

@@ -1,6 +1,7 @@
 ---
 title: Jasa Cor Beton Readymix & Jayamix Di Banyuurip Purworejo
 date: '2026-06-01'
+lastmod: "2026-11-18"
 categories:
   - jayamix
 description: >-
@@ -53,7 +54,7 @@ Yang kedua yg paling sering kali digunakan yakni kualitas beton K250 dan K300. K
 
 {{< table-tables table="table2" >}}
 
-Nah untuk campuran Cor Readymix atau ready mix concrete sendiri sepatutnya dirancang dengan baik atau sebaik mungkin. Agar memiliki kemampuan atau kinerja yang bagus atau kekokohan yg sesuai dengan kwalitas yg diinginkan. Tdk cepat keropos nya, tdk segera patah, tidak mengelupas, karenanya adukan campuran atau adukan bahan material bahan material beton ini sepatutnya sesuai dengan standar campuran beton skala nasional (SNI). Campuran materialnya yaitu kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% hingga dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya yakni untuk udara, karena meskipun campuran benda padat tetap Ia mempunyai kandungan udara di dalamnya.
+Nah untuk campuran Cor Readymix atau [ready mix concrete](/jasa-cor-beton-readymix-jayamix-di-bagelen-purworejo/) sendiri sepatutnya dirancang dengan baik atau sebaik mungkin. Agar memiliki kemampuan atau kinerja yang bagus atau kekokohan yg sesuai dengan kwalitas yg diinginkan. Tdk cepat keropos nya, tdk segera patah, tidak mengelupas, karenanya adukan campuran atau adukan bahan material bahan material beton ini sepatutnya sesuai dengan standar campuran beton skala nasional (SNI). Campuran materialnya yaitu kurang lebih terdiri dari; 10% hingga dengan 15% semen Portland, kemudian 60% hingga dengan 75% Agregat halus dan kasar atau pasir dan split, kemudian ditambah 10% sampai dengan 15% air selebihnya yakni untuk udara, karena meskipun campuran benda padat tetap Ia mempunyai kandungan udara di dalamnya.
 
 Beton yg berkualitas tinggi itu diolah atau diproduksi dengan menurunkan rasio air atau semen sebanyak mungkin tanpa mengorbankan kemampuan kerja beton segar nah lazimnya kualitas beton yg baik itu ialah lebih sedikit air dengan konsisten mewujudkan kualitas yg lebih tinggi tidak memakai banyak air. Jadi di sini penggunaan air Itu ialah dengan komposisi yang tepat tdk berlebihan, banyaknya air yang diterapkan juga gunakan air yang bersih yang tidak dekil. Sekiranya air yang mengandung tanah itu bagusnya tidak digunakan atau air yg mengandung lumut bagusnya tidak diterapkan. Air yg dipakai merupakan air yg bersih tidak mengandung bahan material-material yang akan mencampuri beton sehingga menyebabkan mutu beton menurun.
 
