@@ -114,7 +114,15 @@
     "/jasa-cor-beton-readymix-jayamix-di-jati-blora/",
     "/jasa-cor-beton-readymix-jayamix-di-jati-kudus/",
     "/jasa-cor-beton-readymix-jayamix-di-jatilawang-banyumas/",
-    "/jasa-cor-beton-readymix-jayamix-di-jatinegara-tegal/"
+    "/jasa-cor-beton-readymix-jayamix-di-jatinegara-tegal/",
+    "/jasa-cor-beton-readymix-jayamix-di-gumelar-banyumas/",
+    "/jasa-cor-beton-readymix-jayamix-di-jaten-karanganyar/",
+    "/jasa-cor-beton-readymix-jayamix-di-jatipuro-karanganyar/",
+    "/jasa-cor-beton-readymix-jayamix-di-jatiroto-wonogiri/",
+    "/jasa-cor-beton-readymix-jayamix-di-jatisrono-wonogiri/",
+    "/jasa-cor-beton-readymix-jayamix-di-jebres-kota-surakarta/",
+    "/jasa-cor-beton-readymix-jayamix-di-jekulo-kudus/",
+    "/jasa-cor-beton-readymix-jayamix-di-jenawi-karanganyar/"
   ],
   "failed": {
     "/jasa-cor-beton-readymix-jayamix-di-adipala-cilacap/": 3,
@@ -225,15 +233,20 @@
     "/jasa-cor-beton-readymix-jayamix-di-godean-sleman/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-gondang-sragen/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-grabag-purworejo/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-gringsing-batang/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-gringsing-batang/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-grogol-sukoharjo/": 1,
     "/jasa-cor-beton-readymix-jayamix-di-gumelar-banyumas/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-gunem-rembang/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-guntur-demak/": 2,
-    "/jasa-cor-beton-readymix-jayamix-di-gunungpati-kota-semarang/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-gunem-rembang/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-guntur-demak/": 3,
+    "/jasa-cor-beton-readymix-jayamix-di-gunungpati-kota-semarang/": 3,
     "/jasa-cor-beton-readymix-jayamix-di-jaten-karanganyar/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-jatibarang-brebes/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-jatinom-klaten/": 1,
-    "/jasa-cor-beton-readymix-jayamix-di-jatipurno-wonogiri/": 1
+    "/jasa-cor-beton-readymix-jayamix-di-jatibarang-brebes/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-jatinom-klaten/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-jatipurno-wonogiri/": 2,
+    "/jasa-cor-beton-readymix-jayamix-di-jatiyoso-karanganyar/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-jenar-sragen/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-jepara-jepara/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-jepon-blora/": 1,
+    "/jasa-cor-beton-readymix-jayamix-di-jeruklegi-cilacap/": 1
   }
 }
